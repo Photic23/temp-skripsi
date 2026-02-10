@@ -1,13 +1,44 @@
+import os
 import re
+from langdetect import detect
+from dotenv import load_dotenv
 
 from flask import Flask, request, jsonify
-from transformers import T5Tokenizer, T5ForConditionalGeneration
+from transformers import T5Tokenizer, T5ForConditionalGeneration, BartTokenizer, BartForConditionalGeneration
+
+# Load environment variables
+load_dotenv()
 
 app = Flask(__name__)
 
-MODEL_NAME = "cahya/t5-base-indonesian-summarization-cased"
-tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)
-model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)
+# Configuration
+USE_GEMINI = os.getenv("USE_GEMINI", "false").lower() == "true"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+# Initialize Gemini if enabled
+if USE_GEMINI:
+    if not GEMINI_API_KEY:
+        raise ValueError("GEMINI_API_KEY must be set when USE_GEMINI=true")
+    from google import genai
+    from google.genai import types
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    # Still need tokenizers for chunking, but not the models
+    ID_MODEL_NAME = "cahya/t5-base-indonesian-summarization-cased"
+    EN_MODEL_NAME = "facebook/bart-large-cnn"
+    id_tokenizer = T5Tokenizer.from_pretrained(ID_MODEL_NAME)
+    en_tokenizer = BartTokenizer.from_pretrained(EN_MODEL_NAME)
+    print("Using Gemini API for summarization")
+else:
+    # Indonesian model
+    ID_MODEL_NAME = "cahya/t5-base-indonesian-summarization-cased"
+    id_tokenizer = T5Tokenizer.from_pretrained(ID_MODEL_NAME)
+    id_model = T5ForConditionalGeneration.from_pretrained(ID_MODEL_NAME)
+
+    # English model
+    EN_MODEL_NAME = "facebook/bart-large-cnn"
+    en_tokenizer = BartTokenizer.from_pretrained(EN_MODEL_NAME)
+    en_model = BartForConditionalGeneration.from_pretrained(EN_MODEL_NAME)
+    print("Using local models for summarization")
 
 MAX_INPUT_TOKENS = 512
 # Reserve tokens for the "Ringkasan sebelumnya: {summary}. " prefix.
@@ -15,24 +46,91 @@ MAX_INPUT_TOKENS = 512
 CONTEXT_RESERVE = 90
 
 
-def generate_summary(input_text):
-    """Run the T5 model on a single input text and return the summary string."""
-    inputs = tokenizer.encode(input_text, return_tensors="pt", truncation=True)
-    outputs = model.generate(
-        inputs,
-        min_length=20,
-        max_length=80,
-        num_beams=10,
-        repetition_penalty=2.5,
-        length_penalty=1.0,
-        early_stopping=True,
-        no_repeat_ngram_size=2,
-        do_sample=True,
-        temperature=0.8,
-        top_k=50,
-        top_p=0.95,
-    )
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+def detect_language(text):
+    """Detect if text is Indonesian or English."""
+    try:
+        lang = detect(text)
+        return "id" if lang == "id" else "en"
+    except:
+        # Default to English if detection fails
+        return "en"
+
+
+def generate_summary_with_gemini(input_text, language=None):
+    """Generate summary using Gemini API."""
+    if language is None:
+        language = detect_language(input_text)
+
+    # Create language-specific prompt
+    if language == "id":
+        prompt = f"""Buatlah ringkasan yang padat dan informatif dari teks berikut.
+Ringkasan harus mencakup poin-poin utama dan harus antara 30-130 kata.
+
+Teks:
+{input_text}
+
+Ringkasan:"""
+    else:
+        prompt = f"""Create a concise and informative summary of the following text.
+The summary should capture the main points and be between 30-130 words.
+
+Text:
+{input_text}
+
+Summary:"""
+
+    try:
+        response = client.models.generate_content(
+            model='models/gemini-2.5-flash',
+            contents=prompt
+        )
+        return response.text.strip()
+    except Exception as e:
+        print(f"Error calling Gemini API: {e}")
+        raise
+
+
+def generate_summary(input_text, language=None):
+    """Run the appropriate model based on configuration and detected language."""
+    if USE_GEMINI:
+        if language is None:
+            language = detect_language(input_text)
+        print(f"[Gemini API] Generating summary for {language} text")
+        return generate_summary_with_gemini(input_text, language)
+
+    # Local model summarization
+    if language is None:
+        language = detect_language(input_text)
+
+    if language == "id":
+        print(f"[Local Model] Using Indonesian T5 model: {ID_MODEL_NAME}")
+        # Indonesian model
+        inputs = id_tokenizer.encode(input_text, return_tensors="pt", truncation=True, max_length=512)
+        outputs = id_model.generate(
+            inputs,
+            min_length=30,
+            max_length=150,
+            num_beams=4,
+            repetition_penalty=2.0,
+            length_penalty=1.0,
+            early_stopping=True,
+            no_repeat_ngram_size=3,
+        )
+        return id_tokenizer.decode(outputs[0], skip_special_tokens=True)
+    else:
+        print(f"[Local Model] Using English BART model: {EN_MODEL_NAME}")
+        # English model (BART)
+        inputs = en_tokenizer.encode(input_text, return_tensors="pt", truncation=True, max_length=1024)
+        outputs = en_model.generate(
+            inputs,
+            min_length=30,
+            max_length=130,
+            num_beams=4,
+            length_penalty=2.0,
+            early_stopping=True,
+            no_repeat_ngram_size=3,
+        )
+        return en_tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 
 def split_into_sentences(text):
@@ -41,7 +139,7 @@ def split_into_sentences(text):
     return [s for s in sentences if s]
 
 
-def chunk_text(text, max_tokens):
+def chunk_text(text, max_tokens, language="en"):
     """Split text into ordered chunks that each fit within max_tokens.
 
     Tries to split on sentence boundaries. If a single sentence exceeds the
@@ -50,6 +148,9 @@ def chunk_text(text, max_tokens):
     sentences = split_into_sentences(text)
     chunks = []
     current_chunk = ""
+
+    # Use appropriate tokenizer for token counting
+    tokenizer = id_tokenizer if language == "id" else en_tokenizer
 
     for sentence in sentences:
         candidate = f"{current_chunk} {sentence}".strip() if current_chunk else sentence
@@ -71,31 +172,42 @@ def chunk_text(text, max_tokens):
 def recursive_summarize(text, previous_summary=None):
     """Summarize text with automatic chunking and context passing.
 
-    1. Determine the per-chunk token budget (smaller when a previous_summary
-       will be prepended, since the prefix eats into the 512-token window).
-    2. Split the text into sentence-aligned chunks.
-    3. Walk through the chunks in order — each chunk's summary becomes the
+    1. Detect the language of the input text.
+    2. Determine the per-chunk token budget (smaller when a previous_summary
+       will be prepended, since the prefix eats into the token window).
+    3. Split the text into sentence-aligned chunks.
+    4. Walk through the chunks in order — each chunk's summary becomes the
        context for the next chunk.
-    4. Return the final summary.
+    5. Return the final summary.
     """
-    chunk_budget = MAX_INPUT_TOKENS - (CONTEXT_RESERVE if previous_summary else 0)
-    chunks = chunk_text(text, chunk_budget)
+    # Detect language once at the start
+    language = detect_language(text)
+
+    # Adjust max tokens based on model (BART supports 1024, T5 supports 512)
+    max_tokens = 1024 if language == "en" else 512
+
+    chunk_budget = max_tokens - (CONTEXT_RESERVE if previous_summary else 0)
+    chunks = chunk_text(text, chunk_budget, language)
 
     summary = previous_summary
     for chunk in chunks:
         if summary:
-            input_text = f"Ringkasan sebelumnya: {summary}. {chunk}"
+            # Use English context prefix for English, Indonesian for Indonesian
+            if language == "id":
+                input_text = f"Ringkasan sebelumnya: {summary}. {chunk}"
+            else:
+                input_text = f"Previous summary: {summary}. {chunk}"
         else:
             input_text = chunk
-        summary = generate_summary(input_text)
+        summary = generate_summary(input_text, language)
         # After the first iteration, every subsequent chunk will have context,
         # so recalculate budget for remaining chunks if this was the first.
-        if chunk_budget == MAX_INPUT_TOKENS:
+        if chunk_budget == max_tokens:
             remaining_chunks_text = " ".join(chunks[chunks.index(chunk) + 1 :])
             if remaining_chunks_text:
-                new_budget = MAX_INPUT_TOKENS - CONTEXT_RESERVE
+                new_budget = max_tokens - CONTEXT_RESERVE
                 if new_budget != chunk_budget:
-                    rechunked = chunk_text(remaining_chunks_text, new_budget)
+                    rechunked = chunk_text(remaining_chunks_text, new_budget, language)
                     chunks[chunks.index(chunk) + 1 :] = rechunked
                     chunk_budget = new_budget
 

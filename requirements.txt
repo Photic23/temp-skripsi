@@ -3,3 +3,6 @@ transformers
 torch
 sentencepiece
 protobuf
+langdetect
+google-genai
+python-dotenv
