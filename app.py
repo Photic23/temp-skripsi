@@ -104,27 +104,27 @@ def generate_summary(input_text, language=None):
 
     if language == "id":
         print(f"[Local Model] Using Indonesian T5 model: {ID_MODEL_NAME}")
-        # Indonesian model
-        inputs = id_tokenizer.encode(input_text, return_tensors="pt", truncation=True, max_length=512)
+        # Indonesian model - T5 supports up to 2048 tokens with relative embeddings
+        inputs = id_tokenizer.encode(input_text, return_tensors="pt", truncation=True, max_length=2048)
         outputs = id_model.generate(
             inputs,
-            min_length=30,
-            max_length=150,
+            min_length=80,
+            max_length=250,
             num_beams=4,
-            repetition_penalty=2.0,
-            length_penalty=1.0,
+            repetition_penalty=1.2,
+            length_penalty=1.5,
             early_stopping=True,
             no_repeat_ngram_size=3,
         )
         return id_tokenizer.decode(outputs[0], skip_special_tokens=True)
     else:
         print(f"[Local Model] Using English BART model: {EN_MODEL_NAME}")
-        # English model (BART)
+        # English model (BART) - hard limit of 1024 tokens
         inputs = en_tokenizer.encode(input_text, return_tensors="pt", truncation=True, max_length=1024)
         outputs = en_model.generate(
             inputs,
-            min_length=30,
-            max_length=130,
+            min_length=80,
+            max_length=250,
             num_beams=4,
             length_penalty=2.0,
             early_stopping=True,
@@ -183,8 +183,16 @@ def recursive_summarize(text, previous_summary=None):
     # Detect language once at the start
     language = detect_language(text)
 
-    # Adjust max tokens based on model (BART supports 1024, T5 supports 512)
-    max_tokens = 1024 if language == "en" else 512
+    # Adjust max tokens based on model
+    if USE_GEMINI:
+        # Gemini has much larger context window (1M input tokens)
+        # Use consistent, larger chunks for both languages
+        max_tokens = 32000
+    else:
+        # Local models have different limits based on architecture
+        # BART (English) has hard limit of 1024 (absolute position embeddings)
+        # T5 (Indonesian) uses relative embeddings, can handle 2048+ tokens
+        max_tokens = 1024 if language == "en" else 2048
 
     chunk_budget = max_tokens - (CONTEXT_RESERVE if previous_summary else 0)
     chunks = chunk_text(text, chunk_budget, language)

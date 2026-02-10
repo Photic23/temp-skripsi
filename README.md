@@ -139,8 +139,11 @@ The API implements a sophisticated recursive summarization algorithm:
 1. **Language Detection**: Automatically identifies whether the input text is Indonesian or English using the `langdetect` library
 
 2. **Text Chunking**: Splits long texts into manageable chunks based on sentence boundaries:
-   - Indonesian (T5): Maximum 512 tokens per chunk
-   - English (BART): Maximum 1024 tokens per chunk
+   - **Local Mode:**
+     - Indonesian (T5): Maximum 2,048 tokens per chunk
+     - English (BART): Maximum 1,024 tokens per chunk
+   - **Gemini Mode:**
+     - Both languages: Maximum 32,000 tokens per chunk (consistent for Indonesian and English)
    - Respects sentence boundaries to maintain coherence
 
 3. **Recursive Summarization**: 
@@ -155,31 +158,49 @@ The API implements a sophisticated recursive summarization algorithm:
 
 ### Token Limits
 
+**Local Mode:**
+
 | Language   | Model | Max Tokens per Chunk | Context Reserve |
 |------------|-------|---------------------|-----------------|
-| Indonesian | T5    | 512                 | 90              |
-| English    | BART  | 1024                | 90              |
+| Indonesian | T5    | 2,048               | 90              |
+| English    | BART  | 1,024               | 90              |
 
-When a previous summary is provided, the effective chunk size is reduced by the context reserve amount.
+**Gemini Mode:**
+
+| Language   | Model | Max Tokens per Chunk | Context Reserve |
+|------------|-------|---------------------|-----------------|
+| Indonesian | Gemini 2.5 Flash | 32,000 | 90 |
+| English    | Gemini 2.5 Flash | 32,000 | 90 |
+
+**Notes:**
+- **Gemini Mode**: Uses consistent chunk size for both languages since it supports both equally well
+- **T5 Model**: Uses relative position embeddings, allowing flexible sequence lengths beyond the 512 training default
+- **BART Model**: Uses absolute position embeddings with a hard limit of 1,024 tokens
+- Gemini has a 1M input token context window, allowing for much larger chunks than local models
+- The 32K chunk size provides an excellent balance between processing efficiency and summary quality
+- When a previous summary is provided, the effective chunk size is reduced by the context reserve amount
 
 ### Summary Generation Parameters
 
 **Indonesian (T5):**
-- Min length: 30 words
-- Max length: 150 words
+- Input encoding: Up to 2,048 tokens
+- Min length: 80 tokens
+- Max length: 250 tokens
 - Beam search: 4 beams
-- Repetition penalty: 2.0
-- Length penalty: 1.0
+- Repetition penalty: 1.2 (gentle, allows natural repetition)
+- Length penalty: 1.5 (encourages comprehensive coverage)
 - No repeat n-gram size: 3
 
 **English (BART):**
-- Min length: 30 words
-- Max length: 130 words
+- Input encoding: Up to 1,024 tokens
+- Min length: 80 tokens
+- Max length: 250 tokens
 - Beam search: 4 beams
-- Length penalty: 2.0
+- Length penalty: 2.0 (strongly encourages longer, comprehensive outputs)
 - No repeat n-gram size: 3
 
 **Gemini API:**
+- Input encoding: Up to 32,000 tokens per chunk
 - Target length: 30-130 words
 - Language-specific prompts for optimal results
 
