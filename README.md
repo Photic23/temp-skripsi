@@ -17,7 +17,7 @@ A Flask-based REST API that provides intelligent text summarization for both Ind
 
 - Python 3.8 or higher
 - pip package manager
-- (Optional) Google Gemini API key for cloud mode
+- (Optional) Google Gemini API key for gemini api
 
 ## Installation
 
@@ -199,51 +199,6 @@ When a previous summary is provided, the effective chunk size is reduced by the 
 3. Generate an API key
 4. Add it to your `.env` file
 
-## Performance Considerations
-
-### Local Mode
-
-**Advantages:**
-- No API costs
-- Works offline
-- No rate limits
-- Data stays on your server
-
-**Considerations:**
-- First run downloads models (~1-2GB total)
-- Requires sufficient RAM (4GB+ recommended)
-- GPU support available through PyTorch for faster processing
-- Slower for very long documents
-
-### Cloud Mode (Gemini API)
-
-**Advantages:**
-- Faster processing, especially for long documents
-- No model download required
-- Lower memory requirements
-- Consistent performance
-
-**Considerations:**
-- Requires internet connection
-- API costs apply
-- Rate limits may apply based on your API tier
-- Data is sent to Google's servers
-
-## Error Handling
-
-The API returns appropriate HTTP status codes:
-
-- **200 OK**: Successful summarization
-- **400 Bad Request**: Missing required `text` field in request body
-- **500 Internal Server Error**: Model failure, API issues, or other server errors
-
-Error responses include a JSON object with an `error` field:
-```json
-{
-  "error": "Field 'text' is required"
-}
-```
-
 ## Dependencies
 
 Core dependencies:
@@ -269,65 +224,6 @@ temp-skripsi/
 ├── .gitignore         # Git ignore rules
 └── README.md          # This file
 ```
-
-## Common Use Cases
-
-### Summarizing News Articles
-Perfect for condensing long news articles into digestible summaries while maintaining key facts.
-
-### Academic Paper Summaries
-Generate quick overviews of research papers (ensure proper citation of original work).
-
-### Document Processing Pipelines
-Integrate into larger document processing workflows for automated content extraction.
-
-### Chatbot Integration
-Use the API to provide quick summaries of long user messages or context.
-
-## Troubleshooting
-
-### Models Not Downloading
-If models fail to download on first run, ensure you have:
-- Stable internet connection
-- Sufficient disk space (~2GB)
-- Access to HuggingFace model hub
-
-### Out of Memory Errors
-If you encounter memory errors:
-- Reduce input text length
-- Use Gemini API mode instead of local models
-- Close other applications to free up RAM
-- Consider running on a machine with more memory
-
-### Gemini API Errors
-If using Gemini mode:
-- Verify your API key is correct
-- Check your API quota and rate limits
-- Ensure you have billing enabled (if required)
-- Verify internet connectivity
-
-## Future Enhancements
-
-Potential improvements for future versions:
-- Support for additional languages
-- Batch processing endpoint
-- Customizable summary length
-- Multiple summary style options
-- WebSocket support for streaming summaries
-- Model fine-tuning capabilities
-- Summary quality metrics
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Author
-
-[Add your name/info here]
 
 ## Acknowledgments
 
