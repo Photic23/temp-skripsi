@@ -1,0 +1,230 @@
+{
+  "title": "Grup D06: Pandangan tentang Etika",
+  "course": "Fasilkom UI - Minggu 2",
+  "posts": [
+    {
+      "id": "p490579",
+      "author": "Akmal Ramadhan",
+      "date": "2025-09-01T10:06:16+07:00",
+      "subject": "Grup D06: Pandangan tentang Etika",
+      "content": "Kepada Grup D06, silakan gunakan forum ini untuk diskusi Minggu ke-2 kita. Anggota D06: Muhammad Daffa Grahito (2206820075), Tegar Wahyu Khisbulloh (2206082032), Akmal Ramadhan (2206081534), Syifa Kaffa Billah (2206816430), Khalisha Hana Aida Putri (2206081484), Yosef Nuraga Wicaksana (2206082751), Ayu Siti Nasya Ningrum (2206025426), Restu Ahmad Ar Ridho (2206028951). Terima kasih!",
+      "replies": [
+        {
+          "id": "p490763",
+          "author": "Akmal Ramadhan",
+          "date": "2025-09-01T12:26:48+07:00",
+          "subject": "Temuan Tugas 1",
+          "content": "Halo D06! Apa pendapat kalian tentang artikel 'Pembelajaran Kasus CrowdStrike'? Silakan bagikan pendapat kalian di sini!",
+          "replies": [
+            {
+              "id": "p490765",
+              "author": "Akmal Ramadhan",
+              "date": "2025-09-01T12:29:14+07:00",
+              "subject": "Temuan Tugas 1",
+              "content": "Kasus CrowdStrike tampak seperti masalah teknis pada awalnya. Namun jika dilihat lebih dalam, ini juga merupakan masalah etika yang serius di dunia teknologi. Sangat disayangkan bahwa layanan keamanan yang seharusnya melindungi masyarakat justru mematikan sistem penting di banyak negara. Hal ini menunjukkan bagaimana CrowdStrike gagal mengikuti beberapa nilai etika yang seharusnya dimiliki oleh para profesional IT. Dengan gagal memberikan layanan keamanannya, CrowdStrike menunjukkan bahwa mereka tidak bertanggung jawab kepada penggunanya. Akibatnya adalah hilangnya kepercayaan publik terhadap perusahaan, yang dapat dilihat dari penurunan drastis harga saham mereka. Saya setuju dengan artikel tersebut. Artikel tersebut mengatakan bahwa sangat penting untuk bersikap terbuka dan berkomunikasi dengan jelas untuk menunjukkan tanggung jawab dan kejujuran kepada publik tentang apa yang terjadi dan bagaimana mereka memperbaikinya. Hal ini dapat membantu membangun kembali kepercayaan publik. Selain itu, artikel tersebut menyebutkan bahwa peristiwa ini mendorong lebih banyak kerja sama antar perusahaan dalam industri. Meskipun perusahaan-perusahaan bersaing, ketika hal ini berdampak pada publik, mereka harus mengutamakan kerja sama atau kebersamaan untuk menjaga stabilitas dunia digital. Dari kasus ini, saya telah mengidentifikasi beberapa nilai etika seperti Kejujuran, Keterpercayaan, Tanggung Jawab, Kebersamaan, dan Keterbukaan, yang harus dimiliki oleh mahasiswa Fakultas Ilmu Komputer sebagai calon profesional IT di masa depan. Etika-etika ini juga tertuang dalam Sembilan Nilai Universitas Indonesia.",
+              "replies": [
+                {
+                  "id": "p490775",
+                  "author": "Ayu Siti Nasya Ningrum",
+                  "date": "2025-09-01T12:50:37+07:00",
+                  "subject": "Re: Temuan Tugas 1",
+                  "content": "Ketika pertama kali membaca berita tentang pembaruan CrowdStrike yang cacat dan menyebabkan gangguan di hampir setiap aspek kehidupan kita di seluruh dunia, reaksi saya langsung adalah terkejut dan tidak percaya. Sungguh tidak terbayangkan bahwa sistem yang dimaksudkan untuk meningkatkan perlindungan justru menjadi bumerang dan malah mematikan seluruh sistem. Artikel ini dan perspektif teman saya Akmal mendorong saya untuk merefleksikan lebih dalam masalah etika dari krisis ini. Mengetahui bahwa miliaran kehidupan bergantung pada teknologi, kutipan dari Mark Zuckerberg, 'Bergerak cepat dan hancurkan segalanya,' memang perlu dipertimbangkan kembali. Dalam dunia di mana CrowdStrike mendominasi, satu kekurangan saja dapat berdampak global. Seperti yang dikatakan Akmal, ini bukan hanya masalah teknis, tetapi juga masalah etika, karena dengan kekuatan besar datang tanggung jawab yang besar. Saya ingin mengembangkan poinnya bahwa tanggung jawab bukan hanya tentang memperbaiki masalah setelah terjadi, tetapi juga tentang mencegahnya melalui pengujian menyeluruh dan rencana darurat yang jelas agar pengguna terlindungi sebelum kerugian terjadi. Perusahaan yang memegang peran penting dalam sistem global harus sangat berhati-hati saat merilis produk mereka. Pada akhirnya, pelajaran yang dapat kita ambil dari artikel ini adalah bahwa kemajuan teknologi harus berjalan beriringan dengan tanggung jawab, akuntabilitas, dan keselamatan. Sebagai mahasiswa ilmu komputer, saya percaya bahwa untuk membangun inovasi digital yang tangguh di masa depan, kita harus mengutamakan keselamatan, mengintegrasikan pengujian ketat sebelum penerapan, memastikan transparansi di setiap tahap pengembangan, dan selalu mempertimbangkan dampak terhadap manusia.",
+                  "replies": []
+                },
+                {
+                  "id": "p490833",
+                  "author": "Muhammad Daffa Grahito Triharsanto",
+                  "date": "2025-09-01T15:14:51+07:00",
+                  "subject": "Re: Temuan Tugas 1",
+                  "content": "Saya setuju dengan poin Akmal dan apa yang dibagikan oleh teman-teman lainnya, dan saya ingin menambahkan perspektif saya sendiri. Menurut saya, jelas bahwa insiden CrowdStrike lebih dari sekadar kesalahan teknis dan menyoroti beberapa prinsip perilaku profesional penting yang harus kita perhatikan sebagai calon profesional IT. Masalah etika terbesar menurut saya adalah kegagalan tanggung jawab profesional, yang erat kaitannya dengan tidak mengikuti aturan dan prosedur yang tepat. Sebagai penyedia keamanan siber terkemuka, CrowdStrike memiliki kewajiban untuk memastikan produknya diuji dengan cermat sebelum dirilis. Kerusakan sebesar ini tidak terjadi begitu saja, ini menunjukkan bahwa protokol-protokol kritis tidak diikuti. Fakta bahwa pembaruan yang cacat disebarkan ke seluruh dunia dan pada akhirnya mengganggu layanan vital di beberapa sektor menunjukkan betapa merusaknya satu kelalaian. Ini bukan sekadar kesalahan biasa, ini mencerminkan kegagalan untuk memenuhi tingkat tanggung jawab yang datang dengan beroperasi dalam skala global seperti itu. Kegagalan ini juga menyebabkan kehilangan besar kepercayaan pengguna. Alat keamanan siber dimaksudkan untuk melindungi dan meyakinkan pengguna, tetapi dalam kasus ini produk yang seharusnya memberikan keamanan justru menjadi penyebab kegagalan sistem yang meluas. Bagi saya, itu adalah pengkhianatan fundamental terhadap kepercayaan. Artikel tersebut juga menunjukkan betapa pentingnya memiliki cara untuk dengan cepat membatalkan pembaruan yang cacat. Jenis pengamanan seperti itu bukan hanya ukuran teknis, tetapi juga penting untuk menjaga kepercayaan pelanggan.",
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "p490782",
+              "author": "Syifa Kaffa Billah",
+              "date": "2025-09-01T13:01:39+07:00",
+              "subject": "Re: Temuan Tugas 1",
+              "content": "Setelah membaca tentang kasus yang melibatkan CrowdStrike, perusahaan keamanan siber terkemuka, sangat mengecewakan melihat masalah ketersediaan yang berdampak pada hampir setiap sektor secara global. Sistem yang seharusnya memberikan perlindungan keamanan justru mengunci pengguna dari sistem mereka sendiri karena pembaruan yang cacat. Masalah ini jelas berkaitan dengan nilai-nilai etika yang tercantum dalam Sembilan Nilai Universitas Indonesia. Nilai yang paling relevan dalam kasus ini, menurut saya, adalah kepercayaan. Masalah ketersediaan sebesar ini, yang hampir melumpuhkan berbagai sektor, membuat CrowdStrike tampak tidak mampu memberikan sistem yang andal dan aman bagi kliennya. Akibatnya, pelanggan mungkin kehilangan kepercayaan dan beralih ke pesaing, yang terlihat dari penurunan tajam harga saham CrowdStrike. Di luar kepercayaan, kasus ini juga erat kaitannya dengan tanggung jawab dan kebersamaan. CrowdStrike memiliki tanggung jawab untuk memastikan sistem mereka aman dan berfungsi tanpa mengorbankan ketersediaan. Insiden ini menunjukkan bahwa produk mereka mungkin tidak menjalani pengujian menyeluruh sebelum diluncurkan kepada pelanggan. Kebersamaan yang lebih kuat di dalam CrowdStrike diperlukan untuk menegakkan tanggung jawab ini, terutama melalui kolaborasi yang lebih baik dalam penjaminan kualitas. Transparansi adalah masalah kunci lainnya karena CrowdStrike awalnya lambat untuk mengkomunikasikan dengan jelas akar penyebab dan solusi kepada klien yang terdampak, meskipun mereka akhirnya merilis laporan analisis akar penyebab secara lengkap.",
+              "replies": []
+            },
+            {
+              "id": "p490795",
+              "author": "Khalisha Hana Aida Putri",
+              "date": "2025-09-01T13:46:17+07:00",
+              "subject": "Re: Temuan Tugas 1",
+              "content": "Berdasarkan artikel yang diterbitkan oleh Kompas, saya rasa ada beberapa masalah etika yang tidak sengaja dilakukan oleh CrowdStrike, perusahaan yang bergerak di bidang keamanan siber. Masalah etika yang muncul berkaitan dengan tanggung jawab perusahaan dalam menjaga keandalan sistem yang mereka kelola. Sebagai penyedia layanan keamanan yang dipercaya oleh banyak perusahaan terkemuka, kegagalan pembaruan yang memicu pemadaman global mencerminkan kelalaian perusahaan, termasuk kurangnya pengujian komprehensif sebelum rilis atau bahkan kemungkinan pihak internal sengaja merilis pembaruan yang cacat yang akhirnya menyebabkan kerugian pada seluruh sistem. Selain itu, ada masalah yang berkaitan dengan otonomi pengguna, karena pelanggan tidak diberi pilihan untuk menunda atau mengontrol instalasi pembaruan, yang membuat pengguna merasa bahwa hak mereka untuk mengelola sistem secara mandiri tidak terwujud dengan baik. Lebih lanjut, kerugian signifikan yang dialami oleh banyak pelanggan, termasuk perusahaan-perusahaan besar seperti Amazon, menunjukkan bahwa perusahaan harus mengambil masalah ini lebih serius. Misalnya, dengan memastikan komunikasi yang transparan dengan semua pelanggan dan dengan mendorong kolaborasi lintas industri untuk menetapkan protokol standar untuk pengujian sistem. Dengan cara ini, masalah etika terkait keamanan perangkat dapat diminimalkan dengan lebih baik dan dicegah dari terulangnya di masa depan.",
+              "replies": []
+            },
+            {
+              "id": "p490816",
+              "author": "Restu Ahmad Ar Ridho",
+              "date": "2025-09-01T14:32:56+07:00",
+              "subject": "Re: Temuan Tugas 1",
+              "content": "Saya setuju dengan poin-poin sebelumnya, terutama mengenai tanggung jawab dan kepercayaan. Namun, saya rasa tidak cukup hanya mengkritik kesalahan internal CrowdStrike, seperti kurangnya pengujian menyeluruh atau transparansi. Pandangan itu hanya melihat satu bagian dari masalah. Kita juga harus mengkritik desain seluruh sistem digital kita. Masalah yang lebih dalam bukan hanya bahwa CrowdStrike gagal, tetapi mengapa sistem kita begitu rapuh sehingga kesalahan satu perusahaan dapat menyebabkan pemadaman global. Ini menunjukkan masalah etika dalam bagaimana dunia digital terpusat kita dibangun. Oleh karena itu, diskusi kita seharusnya tidak berhenti pada etika perusahaan. Kita juga perlu membicarakan risiko yang lebih besar yang disorot artikel tersebut, yaitu bahaya sentralisasi kekuasaan di antara segelintir raksasa teknologi. Ketergantungan dunia pada satu entitas adalah akar nyata dari kelemahan kita. Jadi, pelajaran terpenting di sini bukan hanya menuntut perusahaan untuk bertindak lebih bertanggung jawab. Solusi jangka panjang yang lebih baik dan lebih etis, seperti yang disarankan artikel tersebut, adalah mendorong pengembangan sistem dan solusi yang terdesentralisasi. Dengan melakukan ini, kita tidak hanya bereaksi terhadap krisis, tetapi secara proaktif membangun sistem yang lebih aman dan lebih tangguh untuk masa depan.",
+              "replies": [
+                {
+                  "id": "p491536",
+                  "author": "Tegar Wahyu Khisbulloh",
+                  "date": "2025-09-02T15:01:09+07:00",
+                  "subject": "Re: Temuan Tugas 1",
+                  "content": "Saya setuju dengan pendapatmu tentang desentralisasi sebagai cara untuk membuat sistem lebih aman dalam jangka panjang, Restu. Seperti yang disebutkan dalam artikel, itu adalah langkah yang bagus, dan saya ingin menambahkan satu sudut pandang lagi. Menurut saya, bahkan jika kita membuat sistem lebih terdesentralisasi, itu tidak secara otomatis membuatnya aman. Ini semacam mirip ketika kita berpindah dari aplikasi monolitik ke arsitektur layanan mikro. Secara teoritis, memecah sesuatu menjadi layanan-layanan yang lebih kecil membuat seluruh sistem lebih fleksibel dan toleran terhadap kesalahan. Tetapi jika layanan-layanan tersebut tidak dirancang dengan komunikasi, pemantauan, dan strategi cadangan yang tepat, satu layanan yang rusak masih bisa menyebabkan reaksi berantai. Alih-alih satu kerusakan besar, kita hanya mendapatkan banyak kegagalan kecil yang lebih sulit dilacak dan diperbaiki. Yang menimbulkan kekhawatiran etis tentang keandalan, akuntabilitas, dan siapa yang bertanggung jawab ketika sesuatu berjalan salah. Itulah mengapa saya pikir kita juga perlu memperlakukan keamanan siber lebih seperti infrastruktur publik, bukan hanya produk swasta. Kita membutuhkan standar, audit, dan garis akuntabilitas yang jelas agar semuanya bekerja sama dengan aman. Secara etis, menggabungkan desentralisasi dengan pengawasan yang kuat berarti tidak hanya mengurangi kerugian ketika kegagalan terjadi tetapi juga memastikan setiap penyedia bertanggung jawab atas dampak bagian sistem mereka terhadap masyarakat.",
+                  "replies": [
+                    {
+                      "id": "p491694",
+                      "author": "Yosef Nuraga Wicaksana",
+                      "date": "2025-09-02T21:28:37+07:00",
+                      "subject": "Re: Temuan Tugas 1",
+                      "content": "Terima kasih Restu dan Tegar atas pendapatnya. Saya setuju dengan keduanya tetapi saya ingin memperluas perspektif dengan sudut pandang dari pemerintah atau pembuat kebijakan untuk insiden CrowdStrike. Saya percaya bahwa selain penyedia perangkat lunak, para pembuat kebijakan juga memiliki peran besar untuk memastikan regulasi mampu menstandarisasi perangkat lunak digital apa pun yang menjadi tulang punggung aktivitas nasional. Meskipun artikel tersebut sudah menyebutkan bahwa pemerintah perlu meningkatkan regulasi agar lebih ketat dan proaktif dalam menangani bidang digital, baik penyedia maupun pemerintah perlu bersikap proaktif untuk berhasil mengatasi masalah ini. Sejauh yang saya tahu, pemerintah Indonesia sudah memiliki regulasi PSE untuk menstandarisasi layanan digital dari penyedia. Untuk memastikan regulasi ini dapat mengatasi potensi kerentanan zero-day, baik pemerintah maupun penyedia perlu secara aktif dan transparan berbagi pengetahuan baru tentang keamanan siber. Oleh karena itu pemerintah dapat memperhalus standar dan penyedia lainnya juga dapat mengatasi masalah pada sistem mereka. Tindakan kolaborasi ini akan menghasilkan persaingan pasar yang sehat antar penyedia dan sistem digital yang aman bagi masyarakat.",
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p492200",
+          "author": "Syifa Kaffa Billah",
+          "date": "2025-09-03T15:21:38+07:00",
+          "subject": "Tugas 2.1",
+          "content": "Halo semuanya! Saya ingin merekomendasikan sebuah artikel yang menurut saya merupakan contoh bagus dari penggunaan etika yang tepat dalam profesi kita. Artikel ini tentang Frances Haugen, mantan karyawan Facebook yang dengan berani berbicara dan mempertaruhkan kariernya demi kesejahteraan pengguna platform tersebut. Saya sangat mengagumi keberanian Haugen dalam memutuskan untuk membocorkan dokumen internal Facebook. Dia tahu itu bisa merusak kariernya kapan saja, tetapi dia tetap memilih kejujuran dan tanggung jawab, mengungkapkan bahwa perusahaan mengetahui dampak berbahaya platform tersebut pada remaja namun mengutamakan keuntungan. Dia juga mendesak para pembuat undang-undang untuk mendorong transparansi yang lebih besar di Facebook dan mempertimbangkan regulasi yang membuat perusahaan bertanggung jawab atas prioritas algoritmanya. Bagi saya, ini menunjukkan rasa kepedulian dan integritas Haugen yang kuat terhadap masyarakat, meskipun tindakannya agak kontroversial. Apa pendapat kalian semua? Apakah whistleblowing seperti ini diperlukan untuk menjaga dunia teknologi agar tetap adil dan sehat?",
+          "replies": [
+            {
+              "id": "p492299",
+              "author": "Ayu Siti Nasya Ningrum",
+              "date": "2025-09-03T17:03:52+07:00",
+              "subject": "Re: Tugas 2.1",
+              "content": "Halo Syifa! Terima kasih telah membagikan artikel ini. Saya rasa whistleblowing Frances Haugen memang merupakan contoh kuat dari penggunaan etika dalam teknologi. Mengetahui bahwa sistem Facebook menyebabkan kerugian nyata bagi penggunanya, dia memilih untuk berdiri dan berbicara meskipun mempertaruhkan kariernya. Bagi saya, tindakan yang dia lakukan menunjukkan bahwa dia menjunjung tinggi nilai kejujuran dan transparansi. Dia mengungkap kebenaran bahwa algoritma Facebook memperkuat misinformasi, perpecahan, dan bahkan kekerasan demi keterlibatan dan keuntungan. Dengan itu, dia melakukan hal yang benar sebagai tindakan tanggung jawab kepada masyarakat untuk melindungi pengguna dan komunitas dari kerugian lebih lanjut. Meskipun, saya memiliki pandangan negatif terhadap tindakannya. Dia melanggar kepercayaan perusahaan dengan menyimpan dan membocorkan dokumen rahasia. Juga, pengungkapannya bisa disensasionalkan, yang mengarah pada konsekuensi yang tidak diinginkan dalam wacana publik atau pembuatan kebijakan. Namun, saya setuju bahwa whistleblowing diperlukan untuk menjaga dunia teknologi agar tetap adil dan sehat karena hal itu mengungkap kebenaran tersembunyi yang mungkin dikubur oleh perusahaan. Tetapi whistleblowing harus diikuti oleh solusi konkret tentang cara menyelesaikan masalah, seperti regulasi yang lebih jelas atau panduan etika yang lebih kuat.",
+              "replies": [
+                {
+                  "id": "p492316",
+                  "author": "Yosef Nuraga Wicaksana",
+                  "date": "2025-09-03T17:18:15+07:00",
+                  "subject": "Re: Tugas 2.1",
+                  "content": "Artikel yang bagus Syifa dan pendapat yang bagus Ayu! Saya setuju bahwa whistleblowing memang diperlukan untuk menjaga ekosistem digital tetap adil dan mematuhi regulasi yang ada. Karena sebagian besar perusahaan teknologi menyembunyikan sistem mereka sebagai kekayaan intelektual, publik tidak tahu bagaimana data mereka diproses oleh perusahaan atau diperlakukan secara tidak adil. Sebagai karyawan yang etis, kita harus bertindak seperti Haugen karena hal itu mewujudkan salah satu dari sembilan nilai UI yaitu Keadilan. Dengan melaporkan bisnis yang tidak adil dan merugikan masyarakat, kita secara proaktif menjaga ekosistem teknologi agar tetap adil dan sehat. Kita harus mempertimbangkan pengalaman Haugen dengan melakukan penelitian sebelum menyampaikan temuan kepada publik atau pemerintah untuk memverifikasi bahwa masalahnya nyata dan bukan kesalahpahaman yang dapat memengaruhi nilai perusahaan. Mengenai solusi setelah whistleblowing, selain regulasi yang kuat dan panduan etika internal, pemerintah perlu bersikap proaktif dengan mengaudit perusahaan teknologi untuk memastikan semua peningkatan pada infrastruktur digital atau model bisnis mematuhi regulasi.",
+                  "replies": [
+                    {
+                      "id": "p492358",
+                      "author": "Khalisha Hana Aida Putri",
+                      "date": "2025-09-03T18:18:13+07:00",
+                      "subject": "Re: Tugas 2.1",
+                      "content": "Halo Yosef, terima kasih telah berbagi pendapatmu dengan membawa sembilan nilai UI sebagai bagian dari etika dalam profesi kita. Saya setuju bahwa kasus Haugen adalah contoh jelas tentang bagaimana Keadilan seharusnya memandu keputusan etis dalam teknologi. Keberaniannya untuk berbicara, didukung oleh penelitian yang solid, menunjukkan bahwa whistleblowing bukan hanya tentang mengekspos kekurangan tetapi juga tentang melindungi masyarakat. Saya juga berpikir bahwa transparansi algoritma adalah kuncinya. Jika perusahaan lebih terbuka tentang cara kerja sistem mereka, kita bisa mencegah kerugian sebelum menyebar. Singkatnya, pendekatan Haugen mengingatkan kita bahwa tindakan etis membutuhkan keberanian dan bukti.",
+                      "replies": [
+                        {
+                          "id": "p492367",
+                          "author": "Restu Ahmad Ar Ridho",
+                          "date": "2025-09-03T18:32:36+07:00",
+                          "subject": "Re: Tugas 2.1",
+                          "content": "Saya ingin menawarkan cara berbeda untuk melihat diskusi kita. Meskipun kita semua mengagumi keberanian dan pendekatan strategis Frances Haugen, saya mulai berpikir bahwa fokus kita pada dirinya sebagai pahlawan individu mungkin menjadi masalah. Sistem yang membutuhkan seseorang untuk mempertaruhkan seluruh kariernya hanya untuk mengekspos kegagalan etika besar adalah sistem yang pada dasarnya rusak. Artikel tersebut menyebutkan betapa takutnya dia dan bahwa dia khawatir tindakannya akan menghancurkan kariernya. Kita seharusnya tidak membutuhkan pahlawan seperti Haugen untuk memaksa perusahaan melakukan hal yang benar. Pengorbanan pribadinya sebenarnya menyoroti kegagalan mendalam dari model akuntabilitas kita saat ini, bukan memberikan solusi berkelanjutan untuk masa depan. Ini membawa saya kembali ke solusi yang disebutkan Ayu dan Yosef. Alih-alih hanya merayakan whistleblower, mungkin fokus utama kita harus pada menciptakan sistem di mana whistleblowing dramatis seperti itu tidak lagi diperlukan. Di sinilah ide-ide proaktif, seperti saran Yosef untuk audit pemerintah secara rutin dan seruan Ayu untuk regulasi yang lebih kuat, menjadi sangat penting. Alat-alat ini akan mengalihkan beban tanggung jawab dari satu individu yang berani kembali ke sistem itu sendiri. Tujuan akhirnya adalah membuat keselamatan dan transparansi menjadi bagian normal dari bisnis, bukan sesuatu yang membutuhkan seorang pahlawan untuk diperjuangkan.",
+                          "replies": [
+                            {
+                              "id": "p492371",
+                              "author": "Akmal Ramadhan",
+                              "date": "2025-09-03T18:40:34+07:00",
+                              "subject": "Temuan Tugas 2.1",
+                              "content": "Terima kasih semuanya atas pendapat yang telah dibagikan. Satu hal menarik dari artikel ini adalah bahwa Frances Haugen menggunakan senjata Facebook sendiri untuk melawannya. Dia membawa data dan penelitian internal untuk melawan balik, mengikuti prinsip yang dia ketahui dari waktunya di Facebook: 'data memenangkan argumen'. Inilah yang membuat kasusnya begitu kuat dan sulit untuk dibantah, yang berhubungan dengan apa yang disebutkan Yosef tentang pentingnya penelitian dan keadilan. Motivasi pribadi Haugen untuk ingin bekerja di Facebook adalah untuk memastikan orang lain tidak akan mengalami rasa sakit yang dia alami karena kehilangan seorang teman akibat konspirasi online. Ini memotivasi saya untuk percaya bahwa dalam karir kita di masa depan, kita juga harus bertindak dengan kejujuran untuk melindungi kepentingan publik. Saya berharap bahwa kita, sebagai profesional IT, dapat bekerja sesuai dengan etika yang diajarkan di Fasilkom UI dan mampu bertindak sebagai whistleblower ketika ada tindakan yang salah.",
+                              "replies": []
+                            },
+                            {
+                              "id": "p492430",
+                              "author": "Tegar Wahyu Khisbulloh",
+                              "date": "2025-09-03T19:21:00+07:00",
+                              "subject": "Re: Tugas 2.1",
+                              "content": "Sangat setuju denganmu, Restu. Kasus ini juga membuat saya berpikir tentang ketidakseimbangan kekuasaan antara orang-orang yang membangun teknologi dan orang-orang yang terdampak olehnya. Haugen memiliki akses, keterampilan, dan jaringan yang sebagian besar pengguna tidak akan pernah miliki, dan bahkan dia hampir tidak berbicara karena risiko pribadinya. Bayangkan berapa banyak masalah serius yang tidak pernah terungkap karena orang-orang yang melihatnya tidak memiliki hak istimewa atau jaring pengaman yang sama. Itulah yang lebih menakutkan saya daripada keputusan buruk Facebook: masalah-masalah tak terlihat yang tidak akan pernah kita dengar. Jika kita serius tentang etika di bidang kita, mungkin kita tidak hanya harus fokus pada menghukum perusahaan yang buruk atau melindungi whistleblower, tetapi juga pada mendemokratisasi visibilitas, memberikan lebih banyak pihak luar seperti akademisi atau pengguna biasa cara-cara terkontrol untuk mengaudit bagaimana sistem-sistem besar berperilaku. Karena jika kebenaran hanya terungkap ketika seorang Frances Haugen kebetulan berada di tempat yang tepat dengan keberanian untuk bertindak, maka pada dasarnya kita menjalankan internet dengan keberuntungan, bukan etika.",
+                              "replies": []
+                            },
+                            {
+                              "id": "p492510",
+                              "author": "Muhammad Daffa Grahito Triharsanto",
+                              "date": "2025-09-03T21:05:29+07:00",
+                              "subject": "Re: Tugas 2.1",
+                              "content": "Saya setuju dengan Nasya bahwa tindakan Haugen benar-benar menunjukkan kejujuran dan transparansi. Dia berbicara meskipun mempertaruhkan kariernya, dan keberanian itu membuat saya menyadari betapa pentingnya integritas dalam profesi kita. Seperti yang dikatakan Yosef, hal ini juga berkaitan dengan keadilan, karena dia ingin memastikan pengguna tidak diperlakukan secara tidak adil hanya demi keuntungan. Pada saat yang sama, saya merasa bahwa kasus Haugen menyoroti masalah yang lebih besar. Seperti yang disebutkan Restu, kita seharusnya tidak membutuhkan pahlawan untuk mempertaruhkan segalanya hanya untuk mengungkap kebenaran. Saya pikir di sinilah tanggung jawab berperan, bukan hanya untuk individu tetapi juga untuk perusahaan dan pemerintah. Jika sistem dibangun dengan akuntabilitas sejak awal, whistleblowing tidak harus menjadi satu-satunya cara untuk melindungi masyarakat. Bagi saya pribadi, kisah Haugen adalah motivasi. Ini menunjukkan bahwa kejujuran dan transparansi dapat membuat perubahan nyata, tetapi juga bahwa kita perlu mendorong struktur yang lebih kuat agar etika tidak bergantung pada keberanian satu orang. Keseimbangan antara integritas pribadi dan tanggung jawab sistemik terasa seperti pelajaran kunci di sini.",
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p492353",
+          "author": "Khalisha Hana Aida Putri",
+          "date": "2025-09-03T18:04:19+07:00",
+          "subject": "Tugas 2.2",
+          "content": "Halo semuanya! Saya ingin berbagi tentang sebuah artikel yang saya temukan yang menunjukkan beberapa masalah etika dalam profesi kita. Judul artikelnya adalah 'Implikasi Etika dari Pengabaian Elon Musk dan Tesla terhadap Keselamatan Publik'. Artikel tersebut menggarisbawahi kegagalan etika dalam mengutamakan inovasi cepat dan pemasaran di atas keselamatan publik, transparansi, dan integritas rekayasa. Artikel ini juga menyoroti klaim-klaim menyesatkan tentang keamanan sistem, kurangnya akuntabilitas dalam menangani cacat yang dilaporkan, dan bahaya yang lebih luas dari menormalkan mentalitas 'bergerak cepat dan hancurkan segalanya' dari Silicon Valley dalam konteks di mana nyawa manusia dipertaruhkan. Kekhawatiran-kekhawatiran ini mencerminkan pengabaian yang mendalam terhadap etika rekayasa yang telah mapan, termasuk kewajiban untuk melindungi pengguna, memastikan keandalan produk, dan bertindak secara bertanggung jawab ketika risiko diidentifikasi.",
+          "replies": [
+            {
+              "id": "p492355",
+              "author": "Akmal Ramadhan",
+              "date": "2025-09-03T18:12:25+07:00",
+              "subject": "Temuan Tugas 2.2",
+              "content": "Setelah membaca artikel tersebut, saya mengetahui bahwa Silicon Valley memiliki budaya kerja 'pura-pura sampai berhasil' dan 'bergerak cepat dan hancurkan segalanya'. Bagi saya, ini sangat berbahaya dan saya setuju dengan penulis yang mengatakan bahwa hal itu tidak dapat diterima untuk teknologi yang bergantung nyawa manusia karena ini melibatkan nyawa manusia, bukan hanya data pribadi. Kasus ini jelas melanggar etika tanggung jawab. Seperti yang dikatakan penulis, tugas utama seorang insinyur adalah membuat produk kita aman. Jadi, ketika Tesla merilis produk yang bermasalah, Elon Musk dan tim pengembangan jelas mengabaikan nilai ini untuk penggunanya. Dari teks tersebut, penulis bertindak sebagai whistleblower dalam kasus ini. Saya belajar dari kasus ini bahwa ketika teknologi masih belum pasti, keselamatan tim dan tanggung jawab kepada publik harus diutamakan. Sebagai profesional IT, kita harus memikirkan semua risiko dari tindakan kita.",
+              "replies": [
+                {
+                  "id": "p492388",
+                  "author": "Restu Ahmad Ar Ridho",
+                  "date": "2025-09-03T18:53:41+07:00",
+                  "subject": "Re: Temuan Tugas 2.2",
+                  "content": "Saya setuju dengan poin-poin utama Hana dan Akmal tentang kegagalan etika dalam kasus ini. Ini adalah contoh kuat tentang perusahaan yang melanggar Keterpercayaan dan Kepatuhan terhadap Aturan. Publik meletakkan nyawa mereka di tangan para insinyur, mempercayai mereka untuk membuat produk yang aman. Dengan merilis apa yang penulis sebut sebagai 'prototipe rekayasa yang penuh bug' dan mengklaimnya aman, Tesla melanggar kepercayaan fundamental tersebut. Lebih lanjut, perusahaan menunjukkan kurangnya kepatuhan bukan hanya terhadap hukum, tetapi terhadap prinsip-prinsip inti rekayasa yang aman. Fakta bahwa sistem ini dilaporkan bahkan tidak bisa lulus ujian pengemudi DMV adalah tanda jelas bahwa sistem ini tidak memenuhi aturan keselamatan dasar yang telah ditetapkan. Sebagai calon profesional, kasus ini memberikan kita rekomendasi yang jelas tentang bagaimana menegakkan nilai-nilai ini dalam karir kita. Penulis diajarkan bahwa insinyur harus mengatakan tidak pada saat kita menyadari sebuah perangkat adalah bahaya nyata bagi umat manusia. Saya percaya kita harus mengadopsi ini sebagai garis merah etis kita sendiri.",
+                  "replies": [
+                    {
+                      "id": "p492403",
+                      "author": "Tegar Wahyu Khisbulloh",
+                      "date": "2025-09-03T19:05:04+07:00",
+                      "subject": "Re: Temuan Tugas 2.2",
+                      "content": "Saya benar-benar memahami apa yang kalian katakan, dan jujur saya pikir kasus ini menunjukkan betapa kacaunya sesuatu ketika perusahaan-perusahaan besar memperlakukan keselamatan sebagai sesuatu yang tidak penting. Ini bukan hanya melanggar kepercayaan, ini adalah berjudi dengan nyawa orang-orang sambil menjual cerita teknologi yang keren. Saya juga merasa bahwa seluruh budaya 'bergerak cepat' membuat tim terlalu mudah untuk mengabaikan tanda-tanda bahaya. Jika bahkan pemeriksaan keselamatan dasar seperti lulus ujian DMV tidak terpenuhi, itu bukan inovasi, itu kelalaian. Bagi kita sebagai calon insinyur, saya pikir bagian sulitnya bukan mengetahui apa yang benar, tapi memiliki keberanian untuk mengatakan 'stop' ketika semua orang lain mengejar hal besar berikutnya. Dalam kehidupan nyata, ini bukan hanya tentang etika di atas kertas dan mudah untuk membicarakan melakukan hal yang benar di kelas, tetapi apakah kita masih akan berbicara jika itu berarti mempertaruhkan pekerjaan kita atau bahkan memperlambat proyek bergengsi?",
+                      "replies": [
+                        {
+                          "id": "p492582",
+                          "author": "Yosef Nuraga Wicaksana",
+                          "date": "2025-09-03T21:56:51+07:00",
+                          "subject": "Re: Temuan Tugas 2.2",
+                          "content": "Saya setuju dengan masalah yang disebutkan Tegar, karena melakukan hal yang benar sesuai dengan etika yang ideal itu mudah di atas kertas tetapi tidak dalam kenyataan. Saya percaya sebagai insinyur kita dapat memparalelkan alur kerja sehingga satu tim dapat menangani masalah sementara yang lain membuka jalan ke depan untuk proyek tersebut. Hal penting untuk membuat koordinasi ini berhasil adalah transparansi dan akuntabilitas untuk manajemen atas dan insinyur, sehingga produk tidak akan dirilis kepada konsumen jika belum aman karena dapat merugikan reputasi perusahaan dan konsumen itu sendiri.",
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "p492422",
+                  "author": "Syifa Kaffa Billah",
+                  "date": "2025-09-03T19:16:36+07:00",
+                  "subject": "Re: Temuan Tugas 2.2",
+                  "content": "Saya setuju denganmu, Akmal, terutama tentang betapa berbahayanya budaya 'pura-pura sampai berhasil' ketika diterapkan pada produk yang melibatkan nyawa manusia. Bagi saya, kasus Tesla adalah pengingat kuat bahwa tidak peduli seberapa maju teknologi berkembang, itu tidak seharusnya mengabaikan tanggung jawab dan keselamatan pengguna. Transparansi dan pengujian menyeluruh harus selalu menjadi prioritas utama, terutama ketika menyangkut sesuatu yang sepenting keselamatan di jalan. Saya juga setuju dengan poin tentang whistleblower. Berbicara menentang kesalahan perusahaan bisa menjadi sulit dan berisiko bagi karir seseorang, tetapi penting untuk menjaga kepercayaan publik dan mencegah kerugian yang lebih besar. Sebagai calon profesional IT, kita perlu cukup berani untuk berbicara ketika sesuatu menempatkan orang-orang dalam risiko, bahkan jika hal itu datang dengan konsekuensi besar. Namun, ketika kita memilih untuk mengungkap kebenaran, kita juga harus membawa solusi konkret agar tindakan kita benar-benar membuat dampak.",
+                  "replies": [
+                    {
+                      "id": "p492465",
+                      "author": "Ayu Siti Nasya Ningrum",
+                      "date": "2025-09-03T20:12:20+07:00",
+                      "subject": "Re: Temuan Tugas 2.2",
+                      "content": "Saya setuju dengan kalian, dan saya pikir kalian telah membuat hubungan yang sangat penting antara tanggung jawab dan transparansi. Kasus Tesla menunjukkan bahwa ketika perusahaan terburu-buru merilis produk tanpa pengujian yang tepat, mereka tidak hanya mengambil jalan pintas, mereka menempatkan nyawa dalam risiko. Meskipun memang benar bahwa berbicara itu berisiko dan harus diikuti oleh solusi konkret, saya pikir juga penting bagi kita untuk mengatakan 'stop' ketika tekanan mendorong kita untuk menyerahkan produk dengan biaya apa pun. Mungkin pertanyaan yang lebih besar bagi kita sebagai calon profesional IT adalah mencari tahu: bagaimana kita menyeimbangkan ambisi dan inovasi dengan kewajiban etis untuk melindungi keselamatan orang-orang?",
+                      "replies": [
+                        {
+                          "id": "p492518",
+                          "author": "Muhammad Daffa Grahito Triharsanto",
+                          "date": "2025-09-03T21:10:47+07:00",
+                          "subject": "Re: Temuan Tugas 2.2",
+                          "content": "Saya juga setuju dengan Akmal dan Restu bahwa Tesla gagal dalam tanggung jawab dan keterpercayaan dengan merilis produk yang penuh cacat sambil tetap memasarkannya sebagai aman. Keputusan itu tidak hanya melanggar kepercayaan publik tetapi juga menunjukkan kurangnya kepatuhan terhadap aturan, karena bahkan standar keselamatan paling dasar pun tidak terpenuhi. Ini terasa seperti pengkhianatan serius, karena ketika orang-orang membeli teknologi baru, mereka mempercayai bahwa perusahaan telah melakukan tugasnya untuk melindungi mereka. Seperti yang dikatakan Tegar dan Nasya, bagian sulitnya adalah menemukan keberanian untuk berhenti ketika semua orang lain sedang bergegas maju. Secara pribadi, saya pikir kasus ini membuktikan bahwa ambisi tanpa kejujuran itu berbahaya. Inovasi itu bagus, tetapi jika membahayakan nyawa orang, itu berhenti menjadi kemajuan. Menurut saya, kasus Tesla adalah pengingat kuat bahwa etika tidak boleh pernah dikorbankan demi kecepatan atau hype.",
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

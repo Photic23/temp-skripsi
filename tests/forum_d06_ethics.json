@@ -1,0 +1,230 @@
+{
+  "title": "Group D06: View on Ethics",
+  "course": "Fasilkom UI - Week 2",
+  "posts": [
+    {
+      "id": "p490579",
+      "author": "Akmal Ramadhan",
+      "date": "2025-09-01T10:06:16+07:00",
+      "subject": "Group D06: View on Ethics",
+      "content": "Dear Group D06, please use this forum for our Week-2 discussion. D06 Members: Muhammad Daffa Grahito (2206820075), Tegar Wahyu Khisbulloh (2206082032), Akmal Ramadhan (2206081534), Syifa Kaffa Billah (2206816430), Khalisha Hana Aida Putri (2206081484), Yosef Nuraga Wicaksana (2206082751), Ayu Siti Nasya Ningrum (2206025426), Restu Ahmad Ar Ridho (2206028951). Thanks!",
+      "replies": [
+        {
+          "id": "p490763",
+          "author": "Akmal Ramadhan",
+          "date": "2025-09-01T12:26:48+07:00",
+          "subject": "Task 1 finding",
+          "content": "Hi D06! What are your thoughts on the article 'Pembelajaran Kasus CrowdStrike'? Please share your opinions here!",
+          "replies": [
+            {
+              "id": "p490765",
+              "author": "Akmal Ramadhan",
+              "date": "2025-09-01T12:29:14+07:00",
+              "subject": "Task 1 finding",
+              "content": "The CrowdStrike case looks like a technical problem at first. But when you look closer, its also about a serious ethical issue in the tech world. It's very sad that a security service that was supposed to protect people instead shut down important system for many countries. This shows how CrowdStrike failed to follow several ethical values that IT professionals should have. By failing to provide its security service, CrowdStrike showed that it was not responsible to its users. The result of this was the loss of public trust in the company, which you can see from the big drop in their stock prices. I agree with the article. The article says it's very important to be open and communicate clearly to show responsibility and honesty to the public about what happened and how they are fixing it. This can help build back the public's trust. Also, the article mentions that this event pushes for more teamwork between companies in the industry. Even though companies compete, when it affects the public, they should put teamwork or togetherness first to keep the digital world stable. From this case, I have highlighted several ethical values such as Kejujuran, Keterpercayaan, Tanggung Jawab, Kebersamaan, and Keterbukaan, that students at Fakultas Ilmu Komputer should have as future IT professionals. These ethics are also written down in Sembilan Nilai Universitas Indonesia.",
+              "replies": [
+                {
+                  "id": "p490775",
+                  "author": "Ayu Siti Nasya Ningrum",
+                  "date": "2025-09-01T12:50:37+07:00",
+                  "subject": "Re: Task 1 finding",
+                  "content": "When I first read the news about CrowdStrike's faulty update that caused disruptions in almost every aspect of our lives around the world, my immediate reaction was shock and disbelief. It's unbelievable that a system intended to increase protection turned out to be a boomerang, shutting down entire systems instead. This article and my friend Akmal's perspective pushed me to reflect more deeply on the ethical issues of this crisis. Knowing that billions of lives depend on technology, the quote from Mark Zuckerberg, 'Move fast and break things,' should really be reconsidered. In a world where CrowdStrike dominates, a single flaw can have global consequences. As Akmal said, this is not just a technical issue, but an ethical one, because with great power comes great responsibility. I want to expand on his point that responsibility isn't only about fixing problems after they occur, but also about preventing them through full testing and clear contingency plans so that users are protected before harm happens. Companies that hold such a big role in the global system should be extra careful when releasing their products. In the end, the lesson we can take from this article is that technological progress must walk hand in hand with responsibility, accountability, and safety. As a computer science student, I believe that to build resilient digital innovations in the future, we must prioritize safety, integrate strict testing before deployment, ensure transparency in every stage of development, and always keep the human impact in mind.",
+                  "replies": []
+                },
+                {
+                  "id": "p490833",
+                  "author": "Muhammad Daffa Grahito Triharsanto",
+                  "date": "2025-09-01T15:14:51+07:00",
+                  "subject": "Re: Task 1 finding",
+                  "content": "I agree with Akmal's point and with what others have shared, and I would like to add my own perspective. I think it's clear that the CrowdStrike incident is more than just a technical mistake and it highlights some important principles of professional conduct that we, as future IT professionals, should pay close attention to. The biggest ethical issue in my view is a failure of professional responsibility, which is closely tied to not following proper rules and procedures. As a leading cybersecurity provider, CrowdStrike has a duty to make sure its products are tested carefully before release. A breakdown of this scale does not happen by chance, it shows that critical protocols were not followed. The fact that a faulty update was pushed out worldwide and ended up disrupting vital services in some sectors shows how damaging one oversight can be. This is more than a simple slip, it reflects a failure to live up to the level of responsibility that comes with operating on such a global scale. This failure also led to a major loss of user trust. Cybersecurity tools are meant to protect and reassure users, but in this case the product that was supposed to provide security became the cause of widespread system failures. To me, that is a fundamental betrayal of trust. The article also points out how important it is to have a way to quickly roll back faulty updates. That kind of safeguard is not only a technical measure, it is also essential for keeping the trust of customers.",
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "p490782",
+              "author": "Syifa Kaffa Billah",
+              "date": "2025-09-01T13:01:39+07:00",
+              "subject": "Re: Task 1 finding",
+              "content": "After reading about the case involving CrowdStrike, a leading cybersecurity company, it's quite disappointing to see an availability issue that affected almost every sector globally. A system that's supposed to provide security protection instead locked users out of their own systems because of a faulty update. This issue clearly relates to the ethical values outlined in Sembilan Nilai Universitas Indonesia. The most relevant value in this case, in my opinion, is trust. An availability problem of this scale, which nearly paralyzed multiple sectors, makes CrowdStrike appear incapable of delivering a reliable and secure system for its clients. As a result, customers may lose trust and switch to competitors, which is evident from the sharp drop in CrowdStrike's stock price. Beyond trust, this case also ties closely to responsibility and togetherness. CrowdStrike had a responsibility to ensure their system was secure and functional without compromising availability. This incident suggests that their product may not have undergone thorough testing before being rolled out to customers. Stronger togetherness within CrowdStrike is needed to uphold this responsibility, particularly through better collaboration in quality assurance. Transparency is another key issue because CrowdStrike was initially slow to clearly communicate the root cause and solution to affected clients, although they eventually released a full root cause analysis report.",
+              "replies": []
+            },
+            {
+              "id": "p490795",
+              "author": "Khalisha Hana Aida Putri",
+              "date": "2025-09-01T13:46:17+07:00",
+              "subject": "Re: Task 1 finding",
+              "content": "Based on the article published by Kompas, I think there were several ethical issues unintentionally committed by CrowdStrike, a company operating in the field of cybersecurity. The ethical issue that emerged concerns the company's responsibility in maintaining the reliability of the systems they manage. As a security service provider trusted by many leading companies, the failure of the update that triggered a global outage reflects the company's negligence, including the lack of comprehensive testing before release or even the possibility of an internal party deliberately releasing a defective update that ultimately caused losses in entire systems. In addition, there is an issue related to user autonomy, as customers were not given the option to delay or control the installation of updates, which made users feel that their right to manage systems independently was not properly realized. Furthermore, the significant losses suffered by numerous customers, including major companies such as Amazon, indicate that the company should take this matter more seriously. For example, by ensuring transparent communication with all customers and by fostering cross-industry collaboration to establish standardized protocols for system testing. In this way, ethical issues concerning device security can be better mitigated and prevented from recurring in the future.",
+              "replies": []
+            },
+            {
+              "id": "p490816",
+              "author": "Restu Ahmad Ar Ridho",
+              "date": "2025-09-01T14:32:56+07:00",
+              "subject": "Re: Task 1 finding",
+              "content": "I agree with the previous points, especially regarding responsibility and trust. However, I think it's not enough to only criticize CrowdStrike's internal mistakes, like their lack of thorough testing or transparency. That view only looks at one part of the problem. We should also critique the design of our entire digital system. The deeper problem is not just that CrowdStrike failed, but why our system is so fragile that one company's mistake can cause a global shutdown. This points to an ethical problem in how our centralized digital world is built. Therefore, our discussion shouldn't stop at company ethics. We also need to talk about the bigger risk the article highlights, which is the danger of the centralization of power among a few technology giants. The world's dependence on a single entity is the real root of our weakness. So, the most important lesson here isn't just to demand that companies act more responsibly. A better and more ethical long-term solution, as the article suggests, is to push for the development of decentralized systems and solutions. By doing this, we are not just reacting to a crisis, but proactively building a safer and more resilient system for the future.",
+              "replies": [
+                {
+                  "id": "p491536",
+                  "author": "Tegar Wahyu Khisbulloh",
+                  "date": "2025-09-02T15:01:09+07:00",
+                  "subject": "Re: Task 1 finding",
+                  "content": "I agree with your point about decentralization as a way to make systems safer in the long run, Restu. As mentioned in the article, that's a great step, and I want to add one more angle to it. In my opinion, even if we make systems more decentralized, it doesn't automatically make them safe. It's kind of like when we move from a monolithic application to a microservices architecture. Theoretically, breaking things into smaller services makes the whole system more flexible and fault-tolerant. But if those services aren't designed with proper communication, monitoring, and fallback strategies, one broken service can still cause a chain reaction. Instead of one big crash, we just get a lot of smaller failures that are harder to track and fix. Which raises ethical concerns about reliability, accountability, and who takes responsibility when things go wrong. That's why I think we also need to treat cybersecurity more like public infrastructure, not just a private product. We need standards, audits, and clear lines of accountability so everything works together safely. Ethically, combining decentralization with strong oversight means not only reducing harm when failures happen but also ensuring every provider is held responsible for the impact their part of the system has on society.",
+                  "replies": [
+                    {
+                      "id": "p491694",
+                      "author": "Yosef Nuraga Wicaksana",
+                      "date": "2025-09-02T21:28:37+07:00",
+                      "subject": "Re: Task 1 finding",
+                      "content": "Thanks Restu and Tegar for the opinions. I agree with both of you but I want to extend it to have the point of view from the government or the policy makers for the CrowdStrike incident. I believe that beside from the software providers, the policy makers also have a big role to ensure the regulations are able to standardize any digital software that is becoming a backbone for nationwide activities. While the article already mentions that the government needs to improve the regulation to be stricter and proactive in addressing the digital field, both the provider and government need to be proactive to successfully address this problem. As far as I know, the Indonesian government already has the PSE regulation for standardizing digital services from providers. To ensure this regulation can address any potential zero-day vulnerabilities, both the government and providers need to actively and transparently share new knowledge about cyber security. Therefore the government can refine the standard and the other providers can also address the problems for their systems. This act of collaboration will result in a healthy market competition between providers and a safe digital system for the society.",
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p492200",
+          "author": "Syifa Kaffa Billah",
+          "date": "2025-09-03T15:21:38+07:00",
+          "subject": "Task 2.1",
+          "content": "Hi, everyone! I'd like to recommend an article that I think is a great example of proper use of ethics in our profession. It's about Frances Haugen, a former Facebook employee who bravely spoke up and risked her career for the well-being of the platform's users. I really admire Haugen's courage in deciding to leak Facebook's internal documents. She knew it could ruin her career at any moment, but she still chose honesty and responsibility, revealing that the company was aware of the platform's harmful effects on teens yet prioritized profit. She also urged lawmakers to push for greater transparency at Facebook and consider regulations that hold the company accountable for its algorithmic priorities. To me, this shows Haugen's strong sense of care and integrity toward society, even though her actions were somewhat controversial. What do you all think? Is whistleblowing like this necessary to keep the tech world fair and healthy?",
+          "replies": [
+            {
+              "id": "p492299",
+              "author": "Ayu Siti Nasya Ningrum",
+              "date": "2025-09-03T17:03:52+07:00",
+              "subject": "Re: Task 2.1",
+              "content": "Hi Syifa! Thank you for sharing this article. I think Frances Haugen's whistleblowing is indeed a strong example of ethical use in technology. Knowing that Facebook's systems were causing real harm to its users, she chose to stand and speak up even though it risked her career. For me, that kind of act she made shows that she upheld the value of honesty and transparency. She revealed the truth that Facebook's algorithms amplified misinformation, division, and even violence for engagement and profit. By that, she did the right thing as a responsibility act to society to protect users and communities from further harm. Though, I have a cons to her act. She broke the company trust by saving and leaking confidential documents. Also, her revelations could be sensationalized, leading to unintended consequences in public discourse or policymaking. Still, I agree that whistleblowing is necessary to keep the tech world fair and healthy because it brings out hidden truths that companies might bury. But whistleblowing should be followed by concrete solutions on how to resolve the issue, such as clearer regulation or stronger ethical guidelines.",
+              "replies": [
+                {
+                  "id": "p492316",
+                  "author": "Yosef Nuraga Wicaksana",
+                  "date": "2025-09-03T17:18:15+07:00",
+                  "subject": "Re: Task 2.1",
+                  "content": "Great article Syifa and opinion Ayu! I agree that whistleblowing is really necessary to keep the digital ecosystem fair and comply with existing regulations. Since most tech companies keep their systems hidden as intellectual property, the public doesn't know how their data is processed by the company or treated unfairly. As an ethical employee, we should act like Haugen as it embodies one of UI's nine values which is Fairness. By reporting any unfair business that harms the society, we are proactively keeping the tech ecosystem fair and healthy. We should take Haugen's experience into account by conducting research before presenting findings to the public or government to verify that the issues are real and not a misunderstanding that could affect the company's value. Regarding the solutions after whistleblowing, other than strong regulation and internal ethic guidelines, the government needs to be proactive by auditing the tech company to ensure all improvements on digital infrastructure or business model comply with the regulation.",
+                  "replies": [
+                    {
+                      "id": "p492358",
+                      "author": "Khalisha Hana Aida Putri",
+                      "date": "2025-09-03T18:18:13+07:00",
+                      "subject": "Re: Task 2.1",
+                      "content": "Hi Yosef, thank you for sharing your opinion by bringing UI's nine values as part of ethics in our profession. I agree that Haugen's case is a clear example of how Fairness should guide ethical decisions in tech. Her courage to speak up, backed by solid research, shows that whistleblowing isn't just about exposing flaws but also about protecting society. I also think that algorithmic transparency is the key. If companies were more open about how their systems work, we could prevent harm before it spreads. In short, Haugen's approach reminds us that ethical action needs both bravery and evidence.",
+                      "replies": [
+                        {
+                          "id": "p492367",
+                          "author": "Restu Ahmad Ar Ridho",
+                          "date": "2025-09-03T18:32:36+07:00",
+                          "subject": "Re: Task 2.1",
+                          "content": "I want to offer a different way to look at our discussion. While we all admire Frances Haugen's courage and strategic approach, I'm starting to think that our focus on her as an individual hero might be a problem. A system that needs a person to risk their entire career just to expose major ethical failures is a fundamentally broken system. The article mentions how scared she was and that she worried her actions would destroy her career. We should not need heroes like Haugen to force companies to do the right thing. Her personal sacrifice actually highlights the deep failure of our current accountability models, rather than providing a sustainable solution for the future. This brings me back to the solutions Ayu and Yosef mentioned. Instead of only celebrating the whistleblower, maybe our main focus should be on creating a system where such dramatic whistleblowing is no longer necessary. This is where proactive ideas, like Yosef's suggestion for regular government audits and Ayu's call for stronger regulations, become so important. These tools would shift the burden of responsibility from a single brave individual back to the system itself. The ultimate goal should be to make safety and transparency a normal part of business, not something that requires a hero to fight for.",
+                          "replies": [
+                            {
+                              "id": "p492371",
+                              "author": "Akmal Ramadhan",
+                              "date": "2025-09-03T18:40:34+07:00",
+                              "subject": "Task 2.1 finding",
+                              "content": "Thanks everyone for sharing your views. One interesting thing from this article is that Frances Haugen used Facebook's own weapon against itself. She brought internal data and research to fight back, following a principle she knew from her time at Facebook: 'data wins arguments'. This is what makes her case so strong and hard to argue against, which connects to what Yosef mentioned about the importance of research and fairness. Her personal motivation for wanting to work at Facebook was to make sure others wouldn't experience the pain she did of losing a friend to online conspiracies. This motivates me to believe that in our future careers, we must also act with honesty to protect the public's interest. I hope that we, as IT professionals, can work according to the ethics taught in Fasilkom UI and be able to act as whistleblowers whenever there are wrong actions.",
+                              "replies": []
+                            },
+                            {
+                              "id": "p492430",
+                              "author": "Tegar Wahyu Khisbulloh",
+                              "date": "2025-09-03T19:21:00+07:00",
+                              "subject": "Re: Task 2.1",
+                              "content": "Totally agree with you, Restu. This case also makes me think about the power imbalance between the people who build the tech and the people affected by it. Haugen had access, skills, and networks most users will never have, and even she almost didn't speak up because of the personal risk. Imagine how many serious problems are never exposed because the people who see them don't have the same privilege or safety net. That's what scares me more than Facebook's bad decisions: the invisible problems we'll never hear about. If we're serious about ethics in our field, maybe we shouldn't only focus on punishing bad companies or protecting whistleblowers, but also on democratizing visibility, giving more outsiders like academics or regular users controlled ways to audit how big systems behave. Because if the truth only comes out when a Frances Haugen happens to be in the right place with the courage to act, then we're basically running the internet on luck, not ethics.",
+                              "replies": []
+                            },
+                            {
+                              "id": "p492510",
+                              "author": "Muhammad Daffa Grahito Triharsanto",
+                              "date": "2025-09-03T21:05:29+07:00",
+                              "subject": "Re: Task 2.1",
+                              "content": "I agree with Nasya that Haugen's action really shows honesty and transparency. She spoke up even though it risked her career, and that courage makes me realize how important integrity is in our profession. Like Yosef said, it also connects to fairness, because she wanted to make sure users weren't being treated unfairly just for the sake of profit. At the same time, I feel that Haugen's case highlights a bigger problem. As Restu mentioned, we shouldn't need heroes to risk everything just to reveal the truth. I think this is where responsibility comes in, not just for individuals but for companies and governments too. If systems were built with accountability from the start, whistleblowing wouldn't have to be the only way to protect society. For me personally, her story is a motivation. It shows that honesty and transparency can make real change, but also that we need to push for stronger structures so ethics aren't left up to one person's bravery. That balance between personal integrity and systemic responsibility feels like the key lesson here.",
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p492353",
+          "author": "Khalisha Hana Aida Putri",
+          "date": "2025-09-03T18:04:19+07:00",
+          "subject": "Task 2.2",
+          "content": "Hi everyone! I want to share about an article I found that shows some ethical issues in our profession. The article title is 'The Ethical Implications of Elon Musk and Tesla's Contempt for Public Safety'. The article underscores the ethical failure of prioritizing rapid innovation and marketing over public safety, transparency, and engineering integrity. It also calls out the misleading claims about the system's safety, the lack of accountability in addressing reported flaws, and the broader danger of normalizing Silicon Valley's 'move fast and break things' mentality in contexts where human lives are at stake. These concerns reflect a profound disregard for established engineering ethics, including the duty to protect users, ensure product reliability, and act responsibly when risks are identified.",
+          "replies": [
+            {
+              "id": "p492355",
+              "author": "Akmal Ramadhan",
+              "date": "2025-09-03T18:12:25+07:00",
+              "subject": "Task 2.2 finding",
+              "content": "After reading the article, I learned that Silicon Valley has a work culture of 'fake it until you make it' and 'move fast and break things'. To me, this is very dangerous and I agree with the author who said it is not acceptable for a technology that people's lives depend on because it involves people's lives, not just personal data. This case clearly violates the ethics of responsibility. As the author said, the main job of an engineer is to make our products safe. So, when Tesla released a problematic product, Elon Musk and the development team clearly ignored this value for their users. You can see from the text that the author acts as a whistleblower in this case. I learned from this case that when technology is still uncertain, the team's safety and responsibility to the public must come first. As IT professionals, we must think about all the risks of our actions.",
+              "replies": [
+                {
+                  "id": "p492388",
+                  "author": "Restu Ahmad Ar Ridho",
+                  "date": "2025-09-03T18:53:41+07:00",
+                  "subject": "Re: Task 2.2 finding",
+                  "content": "I agree with Hana and Akmal's main points about the ethical failures in this case. This is a powerful example of a company violating Trustworthiness and Compliance with Rules. The public puts their lives in the hands of engineers, trusting them to make safe products. By releasing what the author calls a 'bug-riddled engineering prototype' and claiming it is safe, Tesla breaks that fundamental trust. Furthermore, the company shows a lack of compliance not just with laws, but with the core principles of safe engineering. The fact that the system reportedly cannot even pass a DMV driver's test is a clear sign that it does not comply with basic, established rules for safety. As future professionals, this case gives us a clear recommendation for how to uphold these values in our careers. The author was taught that engineers must say no at the point we realize a device is an outright danger to humanity. I believe we should adopt this as our own ethical red line.",
+                  "replies": [
+                    {
+                      "id": "p492403",
+                      "author": "Tegar Wahyu Khisbulloh",
+                      "date": "2025-09-03T19:05:04+07:00",
+                      "subject": "Re: Task 2.2 finding",
+                      "content": "I completely get what you guys are saying, and honestly I think this case shows just how messed up things can get when big companies treat safety like an afterthought. It's not just breaking trust, it's gambling with people's lives while selling a cool tech story. I also feel like the whole 'move fast' culture makes it way too easy for teams to ignore red flags. If even basic safety checks like passing a DMV test aren't met, that's not innovation, that's negligence. For us as future engineers, I think the hard part isn't knowing what's right, it's having the guts to say 'stop' when everyone else is chasing the next big thing. In real life, it's not just about ethics on paper and it's easy to talk about doing the right thing in class, but would we still speak up if it meant risking our job or even slowing down a high-profile project?",
+                      "replies": [
+                        {
+                          "id": "p492582",
+                          "author": "Yosef Nuraga Wicaksana",
+                          "date": "2025-09-03T21:56:51+07:00",
+                          "subject": "Re: Task 2.2 finding",
+                          "content": "I agree with the problem from Tegar, as doing the right thing aligned with ideal ethics is easy on paper but not in reality. I believe as an engineer we can parallelize the workflow so one team could address the problem while others pave the path forward for the project. The important thing to make this coordination work is transparency and accountability for upper management and the engineer, so the product will not be released to the consumer if it is not safe yet since it could be harmful to the company reputation and the consumer itself.",
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "p492422",
+                  "author": "Syifa Kaffa Billah",
+                  "date": "2025-09-03T19:16:36+07:00",
+                  "subject": "Re: Task 2.2 finding",
+                  "content": "I agree with you, Akmal, especially about how dangerous the 'fake it until you make it' culture is when applied to products that involve people's lives. For me, the Tesla case is a strong reminder that no matter how advanced technology gets, it should never ignore responsibility and user safety. Transparency and thorough testing should always be top priorities, especially when it comes to something as critical as road safety. I also agree with the point about whistleblowers. Speaking out against a company's wrongdoing can be tough and risky for someone's career, but it's important to maintain public trust and prevent greater harm. As future IT professionals, we need to be brave enough to speak up when something puts people at risk, even if it comes with big consequences. However, when we choose to reveal the truth, we should also bring concrete solutions so that our actions really make an impact.",
+                  "replies": [
+                    {
+                      "id": "p492465",
+                      "author": "Ayu Siti Nasya Ningrum",
+                      "date": "2025-09-03T20:12:20+07:00",
+                      "subject": "Re: Task 2.2 finding",
+                      "content": "I agree with you guys, and I think you have made a really important connection between responsibility and transparency. The Tesla case shows that when companies rush products without proper testing, they're not just taking shortcuts, they are putting lives at risk. While it's true that speaking up is risky and must be followed by concrete solutions, I think it's also important for us to say 'stop' when pressure is pushing us to deliver at any cost. Maybe the bigger question for us as future IT professionals is figuring out: how do we balance ambition and innovation with ethical duty to protect people's safety?",
+                      "replies": [
+                        {
+                          "id": "p492518",
+                          "author": "Muhammad Daffa Grahito Triharsanto",
+                          "date": "2025-09-03T21:10:47+07:00",
+                          "subject": "Re: Task 2.2 finding",
+                          "content": "I also agree with Akmal and Restu that Tesla failed in responsibility and trustworthiness by releasing a product full of flaws while still marketing it as safe. That decision not only broke public trust but also showed a lack of compliance to rules, since even the most basic safety standards weren't met. This feels like a serious betrayal, because when people buy into new technology, they're trusting that the company has already done its job to protect them. Like Tegar and Nasya said, the hard part is finding the courage to stop when everyone else is rushing ahead. Personally, I think this case proves that ambition without honesty is dangerous. Innovation is great, but if it risks people's lives, it stops being progress. In my opinion, the Tesla case is a strong reminder that ethics should never be sacrificed for speed or hype.",
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
