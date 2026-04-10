@@ -1,0 +1,95 @@
+{
+  "title": "Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+  "course": "SISTER Gasal 2023/2024",
+  "posts": [
+    {
+      "id": "p384653",
+      "author": "Syifa Nurhayati Syifa",
+      "date": "2023-09-01T14:31:04+07:00",
+      "subject": "Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+      "content": "Dear Mahasiswa Sistem Interaksi, Silakan tuliskan Refleksi #1 teman-teman dengan membalas thread ini. Diingatkan kembali bahwa refleksi bukanlah ringkasan materi, tapi berupa refleksi mengenai apa saja yang baru teman-teman pelajari di minggu pertama ini. Bisa berupa hal-hal yang insightful selama perkuliahan berlangsung atau bisa dikaitkan dengan pengalaman-pengalaman yang telah kalian alami yang berkaitan dengan materi minggu ini. Oleh karena itu, isi refleksi setiap orang seharusnya berbeda. Dengan demikian, proses belajar menjadi lebih meaningful Salam, Syifa",
+      "replies": [
+        {
+          "id": "p384676",
+          "author": "Ihza Dafa Maulidan",
+          "date": "2023-09-01T17:16:28+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat pagi Tim Dosen, asdos, dan teman-teman. Saya Ihza, izin memberikan refleksi saya pada minggu pertama ini Pada pekan ini dalam perkuliahan Sistem Interaksi, kami mempelajari pentingnya desain interaksi, tujuan-tujuannya, serta karakteristik dan prinsip-prinsipnya. Salah satu hal baru yang saya pelajari adalah bahwa tidak semua desain interaksi benar-benar diperlukan atau memberikan solusi yang tepat. Pada sesi perkuliahan hari terdapat video di kelas tentang penemuan benda-benda unik dan inovatif yang, sayangnya, tidak memberikan nilai tambah dari segi fungsionalitas. Melalui video tersebut, saya menyadari bahwa saat merancang aplikasi, penting untuk memahami secara mendalam kebutuhan pengguna dan masalah yang perlu diatasi. Dua poin ini sejalan dengan tujuan desain interaksi, yaitu menciptakan produk yang mudah digunakan dan melibatkan pengguna dalam proses perancangan. Selain melibatkan pengguna, desain interaksi juga mencakup identifikasi tujuan usability yang jelas dan pengalaman pengguna yang dapat diukur serta berjalan secara iteratif. Terdapat beberapa tujuan usability yang penting, termasuk utilitas, efektivitas, learnability, memorability, efisiensi, dan keamanan. Hal yang menarik dalam topik ini adalah ketertarikan manusia terhadap pola atau pola yang dikenal, yang membuat kita sebagai pengguna merasa lebih nyaman dengan desain yang sudah dikenal sebelumnya daripada harus belajar menggunakan desain yang sepenuhnya baru. Selain karakteristik, terdapat juga prinsip-prinsip desain seperti visibility, feedback, constraints, consistency, dan affordance. Prinsip-prinsip ini berperan penting dalam memastikan bahwa desain dapat mencapai tujuan dari desain interaksi, yaitu memenuhi kebutuhan pengguna dengan cara yang tepat, mudah, dan nyaman. Sekian yang bisa saya sampaikan, mohon tambahan atau koreksinya jika ada kekurangan atau kesalahan. Terima kasih. Salam, Ihza Dafa Maulidan",
+          "replies": []
+        },
+        {
+          "id": "p384718",
+          "author": "Anandafa Syukur Rizky - 2106655040 DAFA SR",
+          "date": "2023-09-02T00:27:21+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat malam, Ibu Syifa, asisten dosen dan teman-teman semua. Perkenalkan nama saya Anandafa Syukur Rizky dengan NPM 2106655040. Berikut pendapat dan pandangan saya mengenai forum diskusi kali ini. Pada minggu ini, kita sedang membahas tentang Desain Interaksi. Sebelumnya, dalam mata kuliah Pemrograman Berbasis Platform (PBP), saya cenderung fokus pada pengembangan produk yang hanya terlihat indah atau keren dari segi tampilan visual. Namun, mata kuliah Sistem Interaksi ini memberikan penekanan bahwa langkah pertama yang krusial adalah memahami kebutuhan pengguna dengan baik. Desain interaksi tidak hanya tentang estetika semata, tetapi juga mengenai memahami kebutuhan pengguna secara mendalam. Hal ini penting agar kita dapat menetapkan usability goal dan user experience goal yang jelas. Sistem interaksi bertugas menerjemahkan apa yang diinginkan oleh pengguna ke dalam suatu sistem yang ada, dan berperan sebagai solusi untuk memecahkan masalah yang dihadapi oleh pengguna, yang disesuaikan dengan kebutuhan mereka. Dalam mengembangkan desain interaksi, terdapat beberapa aspek penting yang harus diperhatikan, seperti Visibility, Feedback, Constraints, Consistency, dan Affordance. Semua ini merupakan komponen yang tidak bisa diabaikan dalam proses desain interaksi yang efektif. Sekian itu saja yang dapat saya sampaikan, sekiranya jika terdapat kritik dan saran, dapat anda sampaikan dengan melakukan reply pada forum diskusi ini. Terima kasih. Salam, Anandafa",
+          "replies": []
+        },
+        {
+          "id": "p384865",
+          "author": "RONY AGUS VIAN",
+          "date": "2023-09-03T09:52:50+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat siang Bu Syifa, Tim Asdos, dan teman-teman, Saya Rony Agus Vian, ingin memaparkan weekly reflection minggu ini. Pada minggu ini saya mendapati poin menarik dari simplifikasi piramida desain interaksi yang dijelaskan Bu Syifa, yaitu (dari urutan terendah): UI, Usability , UX. Pada sesi kelas banyak dijelaskan dan diberikan contoh mengenai penerapan desain interaksi yang baik, buruk, dan diantaranya yang \"terlihat\". Hal menarik yang saya pahami adalah bahwa tampilan (UI) sekilas saja bisa berkebalikan dengan usability dan user - experiencenya . Sering terjadi case di mana UI terlihat sederhana dan boring , tapi high - valued dalam usability dan UX. Tapi tidak jarang juga case di mana UI terlihat memukau, tapi low - valued dalam usability dan UX. Oleh karena itu, saya berpendapat bahwa diperlukan implementasi bobot yang sesuai pada ketiga aspek dalam piramida desain interaksi tersebut. Sekian, mohon koreksi apabila terdapat kesalahan. Saya juga terbuka terhadap kritik, saran, atau diskusi lainnya. Terima kasih. Salam, Rony Agus Vian",
+          "replies": []
+        },
+        {
+          "id": "p384884",
+          "author": "Hanin Atina Rahmania",
+          "date": "2023-09-03T13:15:13+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat siang Bu Syifa, Tim Asdos, dan teman-teman semua, perkenalkan saya Hanin Atina Rahmania dengan NPM 2106751234. Pada kesempatan kali ini, izinkan saya menyampaikan weekly reflection saya untuk minggu pertama kelas Sister ini. Selain memahami konsep proses pembelajaran di kelas dengan penjelasan mengenai BRP, pada minggu pertama perkuliahan mata kuliah Sistem Interaksi ini saya mendalami pemahaman terkait desain interaksi. Secara keseluruhan, desain interaksi adalah aspek fundamental yang memiliki signifikansi besar di berbagai domain penelitian dan perancangan sistem komputer untuk pengguna manusia. Selain itu, saya juga mengeksplorasi tujuan dari desain interaksi. Tujuan dari desain interaksi sendiri adalah menghasilkan produk yang mudah digunakan oleh pengguna dan melibatkan pengguna dalam proses perancangannya. Saya juga belajar mengenai prinsip-prinsip dasar desain interaksi, seperti visibility, feedback, constraints, consistency, dan affordance. Selain itu, saya belajar mengenai karakteristik desain interaksi, termasuk keterlibatan pengguna, identifikasi usability, dan user experience goals. Demikian weekly reflection dari saya, atas perhatiannya saya ucapkan Terima Kasih. Salam hangat, Hanin",
+          "replies": []
+        },
+        {
+          "id": "p384920",
+          "author": "Sania Rizqi Maharani",
+          "date": "2023-09-03T17:15:47+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat malam Bu Syifa, tim asdos, dan teman-teman semua. Saya Sania Rizqi Maharani dengan NPM 2006597001. Pada kesempatan ini, saya ingin menyampaikan weekly reflection mengenai apa yang telah dipelajari pada minggu ini. Pada sesi kelas pertama, kita diperlihatkan mengenai bagaimana sebuah desain yang terlihat cukup menarik namun ternyata ketika digunakan tidak semenarik desainnya. Dari keseluruhan materi yang disampaikan minggu ini, bagian yang paling menarik adalah karakteristik desain interaksi, terutama bagaimana mengidentifikasi usability goals dan user experience goals. Setelah mempelajari materi minggu ini, ketika membuka suatu aplikasi saya terkadang mencari-cari apa yang sebenarnya kurang dari aplikasi tersebut dan apa yang bisa diperbaiki 😃. Selain itu, saya juga jadi memahami apa saja prinsip-prinsip desain interaksi beserta contohnya yang sering kita temui dalam kehidupan nyata. Demikian yang dapat saya sampaikan pada kesempatan ini. Terima kasih. Salam, Sania",
+          "replies": []
+        },
+        {
+          "id": "p384994",
+          "author": "M. Raffi - 2106653760 M RAFFI",
+          "date": "2023-09-03T21:48:18+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat Malam Bu Syifa, Tim Asdos dan teman teman semuanya nama saya M.Raffii dengan NPM 2106653760 dan perkenankan saya untuk memberikan refleksi saya pada minggu pertama ini. pada pekan pertama saya banyak belajar hal baru seperti apa apa saja aspek yang harus diperhatikan dalam interaksi sebuah sistem seperti tampilan(UI) dan UX. Saya juga belajar tentang tujuan dan macam macam desain yang baik dan buruk, pada hari pertama saya melihat video tentang contoh design yang kurang bagus yaitu adalah cangkir dengan design kucing beserta telinganya, dari sini terlihat bahwa sesuatu yang secara visual bagus belum tentu secara fungsinalitas dan pengalaman bagus( di diperlihatkan ketika meminum mata pengguna cangkir tersebut tertusuk telinga cangkir). Disini saya mendapati bahwa design dalamn interaksi tidak hanya pada sistem tapi juga berlaku ke semua aspek kehidupan dalam bentuk barang yang membantu memudahkan kita sehari hari. Saya juga adalah pecinta game digital yang saya rasa sudah dimulai semenjak tk(saya bermain psp lalu dilanjutkan nintendo playstation dan nintendo lagi). disini saya menyadari bahwa tiap tiap konsol memiliki design dan fungsionalitas yang berbeda dan itu juga yang membuat saya hanya nyaman terhadap salah satu konsol, design game dan control setting pada game game tertentu juga membuat saya lebih lama atau betah dalam memainkan game game terkait. Saya melihat bahwasannya semua yang ada di hape saya meiliki sistem interaksi yang beragam dalam aplikasi e commerce untuk membeli barang, tiket, jasa dan macam macam lagi, masing masing app bersaing dalam promo dan design yang gila gilaan hal ini tentu disebabkan barang/jasa yang mereka berikan sama jadi yang ditawarkan pada user tentunya UI/UX suatu aplikasi tersebut dan fungsionalitas tiap tiap fitur yang diberikan karena dengan itu perlahan lahan pengalaman yang diciptakan secara nyaman aman dan lancar membuat masyarakat percaya akan aplikasi tersebut. Pada pelajaran SOSI jg banyak diajrkan sistem operasi yang saya rasa ada kaitan nya dengan sister ini karena sistem operasi berdampak besar pada visualisasi dan guna dalam membuka gawai yang dibeli(sistem operasi dengan design atau utilitas yang berbeda dapat menyebabkan pengguna beralih gawai ke sistem operasi yang dirasa lebih nyaman), untuk backend nya saya pelajari ini pada pelajaran pemograman berbasis platform dimana kita dapat mengatur dan mengodekan perintah perintah dan perubahan visual apabila pengguna melakukan sesuatu. Secara inti yang saya tahu ketika membuat sistem desain interaksi pada lkita ahrus mengedepankan pemahaman, estetika, kegunaan, keamanan dan penghematan secara fungsi literal maupun lateral kepada pengguna agar pengguna memiliki pengalaman yang maksimal. Sekian dari saya apabila ada kesalahan kata saya mohon maaf dan terima kasih telah membaca Salam, Raffi",
+          "replies": []
+        },
+        {
+          "id": "p385024",
+          "author": "Nataya Shafira",
+          "date": "2023-09-03T22:53:58+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat malam, Tim dosen dan teman-teman. Pada kesempatan kali ini, saya akan menyampaikan hal-hal menarik yang saya pelajari minggu ini. Pada perkuliahan minggu ini, saya mendapatkan pengetahuan yang menarik mengenai desain suatu produk. Saya telah menyaksikan video mengenai bagaimana desain suatu produk sangat bergantung pada penggunaannya. Melalui video ini juga, saya menyadari bahwa desain produk bisa menjadi pedang bermata dua. Pemahaman mengenai kebutuhan pengguna sangat diperlukan agar desain produk tersebut dapat berfungsi optimal. Selain itu, saya merasa sangat terkesan dengan materi mengenai prinsip-prinsip desain interaksi. Saya baru menyadari bahwa hal-hal sederhana dalam suatu desain dapat memiliki pengaruh yang besar, contohnya visibility yang dapat secara sederhana merangsang intuisi kita untuk mengetahui kegunaan suatu produk. Hal menarik yang saya temukan juga terdapat pada feedback. Saya baru menyadari bahwa feedback merupakan aspek yang perlu diperhatikan oleh designer. Salah satu feedback yang saya ingat dan paling saya rasakan manfaatnya adalah informasi mengenai suatu fitur yang saya hover. Melalui informasi tersebut, saya jadi tahh kegunaan suatu fitur tanpa perlu mempelajari secara dalam. Hal tersebut efektif meringkas waktu saya dalam mempelajari fitur tersebut. Demikian yang dapat saya sampaikan untuk forum hari ini. Kritik, pendapat, dan saran mengenai tulisan ini akan sangat saya hargai. Terima kasih. Salam, Nataya",
+          "replies": []
+        },
+        {
+          "id": "p385025",
+          "author": "Alisya Andiny Alhabsyi",
+          "date": "2023-09-03T22:56:43+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat malam, Bu Syifa, Tim Asisten Dosen, dan teman-teman semua, Perkenalkan, saya Alisya Andiny Alhabsyi dengan NPM 2106706281. Pada kesempatan kali ini, saya akan menyampaikan refleksi saya terkait dengan perkuliahan minggu pertama ini. Pada minggu pertama ini, saya mempelajari hal baru yang belum pernah saya tekuni sebelumnya, yaitu mengenai desain interaksi. Sebelumnya, saya hanya melihat desain interaksi sebatas dari segi tampilan dan estetika saja. Ternyata, desain interaksi memiliki tujuan, keuntungan dalam penerapannya, karakteristik, serta prinsip-prinsipnya. Desain interaksi dapat berpengaruh terhadap usable pada sebuah produk. Kita perlu mempelajari kebutuhan dan permasalahan pengguna terlebih dahulu, kemudian baru mendesain solusi dari permasalahan yang ada. Dalam pengaplikasiannya, kita perlu melibatkan pengguna, mengindentifikasi usability dan user experience goal yang jelas karena keduanya berbeda tetapi saling memengaruhi satu sama lain, serta bersifat iteratif. U sability goals diperlukan untuk mencapai keamanan, learnability , efisiensi, memorability , efektivitas, dan utilitas. Saya menggunakan aplikasi Gojek dan Shopee dalam kehidupan sehari-hari. Saya menggunakan aplikasi Gojek untuk memesan transportasi, membeli makanan, dan lainnya. Menurut saya, aplikasi Gojek memiliki tampilan visual yang menarik. Tampilan icon yang simpel pada halaman utama memudahkan saya untuk mencari layanan yang akan saya pilih. Berbeda dengan aplikasi Shopee, aplikasi ini saya gunakan untuk membeli barang kebutuhan sehari-hari. Namun, saya seringkali kesulitan untuk mencari layanan yang akan saya pilih karena tampilan yang cukup padat. Setelah mempelajari desain interaksi dan melihat hal tersebut, saya menyadari akan pentingnya tampilan dari suatu aplikasi yang kemudian berpengaruh terhadap fungsionalitas dan kenyamanan pengguna. Sekian refleksi saya terkait perkuliahan minggu pertama ini. Mohon maaf apabila terdapat kekurangan. Atas perhatiannya, saya ucapkan terima kasih. Salam, Alisya",
+          "replies": []
+        },
+        {
+          "id": "p385057",
+          "author": "TAUFIK ALGI FAHRI",
+          "date": "2023-09-03T23:55:34+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat Bu Syifa, asisten dosen, dan teman-teman semua. Saya Algi, berikut weekly reflection saya mengenai perkuliahan di minggu pertama ini. Sebagai orang yang selama ini tidak pernah mendalami sistem interaksi, saya sering tidak sadar bahwa terdapat hal yang kita bisa mengerti hanya dengan melihat. Misalnya, kita tahu sebuah pintu dibuka dengan cara ditarik/didorong atau digeser. Pada sebuah web/app biasanya kita tahu di mana harus mencari sebuah \"menu\" yang berisi hal yang kita inginkan. Ternyata itu semua dapat terjadi karena terdapat pola-pola yang berhubungan dengan usability goals yang bisa dikatakan menjadi kebiasaan kita dalam menggunakan sesuatu. Hal itu secara tidak sadar tertanam di dalam alam bawah sadar pengguna awam. Namun hal ini tentu saja bukan sesuatu yang ajaib dan terjadi secara tiba-tiba. Para desainer dapat mencapai hal tersebut dengan mencapai usability goals, user experience goals , dan menerapkan prinsip-prinsip desain. Sekian dari saya, mohon dikoreksi jika sekiranya terdapat kesalahan. Terima kasih. Salam, Taufik Algi Fahri",
+          "replies": []
+        },
+        {
+          "id": "p396800",
+          "author": "Natanael Pascal Simbolon",
+          "date": "2023-10-08T13:30:24+07:00",
+          "subject": "Re: Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+          "content": "Selamat siang, Bu Syifa, tim asdos, dan teman-teman sekalian. Perkenalkan nama saya Natanael Pascal Simbolon dengan NPM 2106751764 ingin menjawab weekly reflection. Pada minggu pertama ini, saya diajarkan mengenai konsep desain interaksi antara suatu produk atau teknologi dengan penggunanya. Pentingnya suatu teknologi tidak hanya terletak pada kemampuan apa yang dapat dilakukannya, tetapi juga pada bagaimana pengguna dapat menggunakannya. Dalam desain interaksi, harus dipertimbangkan aspek-aspek pengembangan produk yang membuatnya mudah digunakan, termasuk utilitas, efektivitas, efisiensi, kemudahan pembelajaran, kemudahan diingat, dan keamanan. Selain itu, pengguna juga harus dilibatkan dalam proses desain agar produk dapat sesuai dengan kebutuhan mereka, menyediakan beragam solusi, tidak mengasumsikan hal-hal tertentu, dan mampu mengatasi berbagai tingkat kepekaan pengguna. Sekian dari saya, saya ucapkan maaf jika ada yang salah. Terima kasih. Salam, Pascal.",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

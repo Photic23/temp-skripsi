@@ -1,0 +1,495 @@
+{
+  "title": "[Kelas E] Weekly Reflection Minggu 2",
+  "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+  "posts": [
+    {
+      "id": "p466365",
+      "author": "Aldyandry Nureza Phutra",
+      "date": "2025-02-14T15:01:20+07:00",
+      "subject": "[Kelas E] Weekly Reflection Minggu 2",
+      "content": "Dear Mahasiswa Sistem Interaksi E, Minggu ini kita telah mempelajari terkait Prinsip-prinsip Kognitif. Silakan tuliskan Weekly Reflection #2 teman-teman dengan membalas thread ini. Diingatkan kembali bahwa refleksi bukanlah ringkasan materi, tapi berupa refleksi mengenai apa saja yang baru teman-teman pelajari di minggu ini. Bisa berupa hal-hal yang insightful selama perkuliahan berlangsung atau bisa dikaitkan dengan pengalaman-pengalaman yang telah kalian alami. Selamat berefleksi! 😆 Salam, Tim AsDos Kelas E",
+      "replies": [
+        {
+          "id": "p466411",
+          "author": "Fakhri Habibi",
+          "date": "2025-02-14T17:20:46+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore tim asdos, Pak Baginda, dan teman-teman Sister E. Saya paham bahwa desain antarmuka harus sejalan dengan cara berpikir manusia. Akan tetapi, sebelum mengikuti kelas Sister E, saya tidak memiliki framework ataupun mental model konkrit yang dapat diikuti. Kini, saya telah memahami proses-proses kognisi yang umum dilalui oleh pengguna dan dapat mengimplementasikan pemahaman tersebut ke desain-desain saya di masa depan. Berikut beberapa poin refleksi berdasarkan pengalaman saya mengikuti kelas Sister E pekan ini: Desainer antarmuka yang baik tidak hanya mampu menciptakan desain yang indah tetapi juga memahami kognisi manusia dan mampu mengurangi cognitive load pengguna dalam desainnya. Beban kognitif atau cognitive load dapat dibagi lagi menjadi tiga, yakni intrinsic load , extraneous load , dan germane load . Salah satu cara mengurangi cognitive load adalah dengan eksternalisasi kognisi (contoh: mencatat kebutuhan belanja agar tidak memenuhi memori) Demikianlah poin-poin refleksi saya terhadap kelas pekan ini, sekian terima kasih. Salam, Fakhri Habibi",
+          "replies": []
+        },
+        {
+          "id": "p466475",
+          "author": "Ezar Akhdan Shada Surahman",
+          "date": "2025-02-14T19:39:33+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore Pak Baginda dan Tim Asdos, berikut adalah beberapa poin refleksi saya dari pelajaran minggu ini: Kognisi dalam desain interaksi sangat mempengaruhi bagaimana pengguna berinteraksi dengan suatu sistem. Saya baru menyadari bahwa desain yang baik bukan hanya mempertimbangkan estetika, tetapi juga bagaimana sistem mendukung proses berpikir pengguna, termasuk perhatian (atensi), persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Atensi dan Persepsi memiliki peran penting dalam desain UI/UX. Saya menjadi lebih memahami bahwa pengguna memiliki keterbatasan dalam menangkap informasi, sehingga elemen-elemen desain seperti warna, layout, dan penggunaan spasi dapat membantu mereka lebih fokus dan memahami konten dengan lebih cepat. Memori dan Mental Model juga menjadi hal yang menarik. Saya menyadari bahwa recognition (mengenali) lebih mudah dibandingkan recall (mengingat), sehingga penggunaan ikon yang familiar, riwayat pencarian, atau fitur rekomendasi sangat membantu dalam pengalaman pengguna. Metakognisi dalam desain memberikan perspektif baru bagi saya bahwa sebuah antarmuka harus membantu pengguna dalam berpikir dan mengambil keputusan, bukan sekadar menjadi alat yang hanya bisa digunakan tanpa refleksi lebih lanjut. Saya juga mulai menghubungkan prinsip-prinsip kognitif ini dengan aplikasi yang saya gunakan sehari-hari. Contohnya, aplikasi ride-hailing yang saya pakai sering menggunakan ikon familiar dan feedback visual untuk memandu pengguna, yang ternyata merupakan implementasi dari prinsip persepsi dan memori dalam desain interaksi. Sekian jawaban dari saya, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p466497",
+          "author": "Regina Meilani Aruan",
+          "date": "2025-02-14T20:14:26+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, Kakak Asdos, dan teman-teman. Saya izin membagikan refleksi saya mengenai materi minggu ini. Minggu ini, saya semakin memahami bagaimana mental model dan prinsip kognitif berperan dalam desain sistem interaksi. Salah satu hal yang menarik bagi saya adalah bagaimana ekspektasi pengguna terhadap suatu sistem dapat sangat memengaruhi cara mereka menggunakannya. Jika desainnya tidak sesuai dengan cara pikir pengguna, hal itu bisa membingungkan dan bahkan membuat frustrasi. Saya pernah salah fokus paham pada salah satu fitur di satu aplikasi seperti tidak seharusnya ada di fitur tersebut. Ternyata, itu karena mental model saya tidak sesuai dengan cara aplikasi tersebut dirancang. Dari situ, saya menyadari bahwa desain sistem yang baik bukan hanya soal estetika, tetapi juga harus mempertimbangkan bagaimana pengguna berpikir. Selain itu, konsep cognitive load juga membuat saya lebih memahami mengapa beberapa sistem terasa lebih nyaman digunakan dibanding yang lain. Jika terlalu banyak informasi ditampilkan sekaligus, otak jadi lebih cepat lelah dan butuh waktu lebih lama untuk memahami sesuatu. Dari pembelajaran ini, saya jadi lebih memperhatikan desain sistem aplikasi yang saya gunakan sehari-hari, terutama dari setiap prinsip-prinsip kognitifnya. Sekian refleksi saya dan terimakasih... Salam, Regina",
+          "replies": []
+        },
+        {
+          "id": "p466527",
+          "author": "Farrell Zidane Raihandrawan",
+          "date": "2025-02-14T21:05:59+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Sore Tim Asdos, Pak Baginda, dan Teman-Teman saya izin membagikan weekly reflection terkait perkuliahan minggu ini Ada beberapa aspek yang penting dalam membuat UI/UX antara lain Atensi (Perhatian) Atensi adalah kemampuan kita untuk fokus pada informasi yang relevan dan mengabaikan gangguan. Contoh: Saat mencari tombol \"Pesan Sekarang\" di aplikasi belanja online, penggunaan warna mencolok membantu menarik perhatian. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak membebani pengguna dengan informasi yang berlebihan. Persepsi Persepsi adalah cara kita memahami dan memberi makna pada informasi yang diterima dari lingkungan. Contoh: Ikon \"keranjang belanja\" dalam e-commerce secara otomatis dipahami sebagai tempat menyimpan produk sebelum checkout. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak membingungkan pengguna, sehingga mereka dapat dengan mudah memahami fungsi setiap elemen tanpa perlu berpikir terlalu lama. Memori Memori membantu kita menyimpan dan mengingat informasi untuk digunakan kembali. Contoh: Riwayat pencarian di aplikasi transportasi online memudahkan pengguna untuk memilih kembali lokasi yang sering dikunjungi. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak mengharuskan pengguna mengingat segala sesuatu secara manual, sehingga pengalaman penggunaan menjadi lebih efisien dan nyaman. Pembelajaran Proses memperoleh pengetahuan atau keterampilan baru, baik secara sengaja maupun tidak. Contoh: Saat pertama kali menggunakan fitur \"Swipe Up\" di media sosial, kita belajar dari pengalaman bahwa itu akan membawa ke tautan eksternal. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak membingungkan pengguna baru, melainkan memungkinkan mereka belajar cara menggunakannya secara intuitif melalui pengalaman interaksi. Kebahasaan Kemampuan memahami dan menggunakan bahasa dalam komunikasi. Contoh: Asisten virtual seperti Google Assistant memberikan respons berdasarkan perintah suara yang kita ucapkan. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak menyulitkan pengguna dalam berkomunikasi, sehingga mereka dapat berinteraksi dengan antarmuka secara lebih alami dan efektif. Metakognisi Kesadaran dan kontrol atas proses berpikir sendiri, seperti perencanaan dan pengambilan keputusan. Contoh: Saat menggunakan aplikasi budgeting, kita berpikir ulang tentang pengeluaran dan memutuskan untuk mengurangi belanja yang tidak perlu. Aspek ini sangat penting untuk diterapkan karena membuat sistem yang kita buat tidak sekadar memberikan informasi, tetapi juga membantu pengguna dalam berpikir, mengevaluasi, dan mengambil keputusan yang lebih baik. sekian weekly reflection dari saya, Terimakasih salam, Farrell",
+          "replies": []
+        },
+        {
+          "id": "p466540",
+          "author": "Ragnall Muhammad Al Fath - 2306210550 Al Fath",
+          "date": "2025-02-14T21:24:57+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Malam Pak Baginda dan kakak - kakak asdos, nama saya Ragnall Muhammad Al Fath dengan NPM 2306210550, Minggu ini saya mempelajari beberapa hal. Pada hari Senin, karena kelas online, saya belajar mandiri di rumah. Saya belajar tentang 6 proses yang melibatkan kognisi terutama aspek metakognisi. Dan di hari Rabu, saya gunakan materi yang sudah dipelajari untuk mengerjakan LK, saya dan teman pair saya berdiskusi mengenai fitur mudah dan sulit pada aplikasi Shopee dan mencari aspek kognisi yang terkait dengan fiturnya dan juga meng-evaluasi layanan go-food berdasarkan tiap proses kognisi, Atensi, Persepsi, Memori, Pembelajaran, Kebahasaan, dan Metakognisi. Selain itu, saya juga mempelajari tentang mental model dan isu - isu terkait mental model. Sekian, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p466607",
+          "author": "Muhammad Daffa Abyaz Tjiptadi",
+          "date": "2025-02-14T22:24:05+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Malam Pak Baginda dan teman teman semua. Izinkan saya untuk memberikan weekly reflection minggu 2 ini. Yang baru dipelajari adalah: Kognisi dan Jenisnya, kognisi adalah proses mental dalam memahami dan mempelajari informasi, yang melibatkan kognisi eksperiensial (intuitif) dan reflektif (memerlukan usaha mental lebih). Memahami keterbatasan dan kemampuan kognitif pengguna penting untuk desain interaksi yang efektif. Proses Kognitif Utama, atensi, persepsi, memori, dan pembelajaran adalah proses kognitif inti yang mempengaruhi cara pengguna berinteraksi dengan antarmuka. Desain harus mengelompokkan informasi secara jelas, mengurangi beban memori, dan memberikan umpan balik yang informatif. Model Mental dan Eksternalisasi Kognitif, pengguna membangun model mental untuk memprediksi interaksi, sehingga desain harus konsisten dan intuitif. Memanfaatkan eksternalisasi kognitif seperti anotasi dan bantuan visual dapat meringankan beban kognitif dan meningkatkan pengalaman pengguna. Sekian dari refleksi dari saya. Terima kasih",
+          "replies": []
+        },
+        {
+          "id": "p466612",
+          "author": "Abraham Jordy Ollen",
+          "date": "2025-02-14T22:26:29+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, kakak asdos dan teman semua. Selama minggu ini, saya menemukan banyak hal baru yang sangat memperluas pengetahuan saya tentang prinsip-prinsip kognitif yang digunakan dalam desain interaksi. Bagaimana berbagai proses kognitif seperti atensi, persepsi, dan memori mempengaruhi cara pengguna berinteraksi dengan sistem adalah salah satu hal yang paling menarik. Saat merancang sebuah antarmuka, saya baru menyadari betapa pentingnya memahami cara pikiran manusia berfungsi, terutama dalam hal membantu pengguna memilih informasi yang mereka butuhkan dan mengurangi beban kognitif. Misalnya, saya sekarang memiliki pemahaman yang lebih baik tentang mengapa penempatan informasi yang jelas dan terstruktur dengan baik sangat penting untuk kenyamanan pengguna. Dalam proses atensi yang saya pelajari minggu ini, dijelaskan bahwa multitasking dapat menyebabkan pengguna menjadi tidak fokus. Ini mengingatkan saya pada pengalaman pribadi saya dengan aplikasi mobile, yang sering membuat saya kewalahan karena terlalu banyak data yang ditampilkan sekaligus tanpa pengelompokan yang jelas. Jadi saya mulai menyadari betapa pentingnya desain yang mempermudah pengguna memproses data. Selain itu, gagasan mental model membuka mata saya pada cara pengguna menggunakan teknologi. Berdasarkan pengalaman sebelumnya, mental model membantu pengguna memprediksi apa yang akan mereka lakukan. Saya juga mulai menyadari bagaimana desain yang buruk dapat membingungkan pengguna karena bertentangan dengan model mental mereka. Sebagai contoh, aplikasi belanja online yang menggunakan ikon yang tidak familiar membuat saya kesulitan memahami fungsi tombol-tombol tersebut. Ini terjadi meskipun aplikasi tersebut secara teknis berfungsi dengan baik. Mungkin sekian insight saya untuk minggu ini. Terima kasih Salam, Abraham Jordy Ollen -2306275102",
+          "replies": []
+        },
+        {
+          "id": "p466680",
+          "author": "Samuel Sebastian Sibarani",
+          "date": "2025-02-15T00:19:24+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Malam Pak Baginda, kakak Asdos serta teman-teman semuanya. Saya Samuel Sebastian dengan NPM : 2306245503 izin untuk memberikan refleksi saya terhadap materi perkuliahan pada minggu kedua ini. Pada pekan ini, saya mendapat suatu pemahaman bahwa proses kognitif manusia dapat diterapkan dalam desain interaksi untuk menciptakan pengalaman pengguna yang lebih baik. Konsep utama yang dibahas meliputi atensi, persepsi, memori, kebahasaan, metakognisi, dan pembelajaran. Saya menyadari bahwa selama ini desain-desain yang telah saya buat masih kurang memenuhi aspek-aspek kognitif manusia dan ini menjadi pembelajaran yang berharga buat saya lewat materi perkuliahan \"prinsip-prinsip kognitif dalam desain interaksi\" Pentingnya desain yang mempertimbangkan keterbatasan dan kemampuan kognitif pengguna ditekankan melalui berbagai prinsip, seperti pengurangan beban memori jangka pendek, penggunaan visualisasi yang jelas, serta penyajian informasi yang terstruktur untuk mendukung atensi dan persepsi. Selain itu, konsep mental model juga menjadi kunci dalam memastikan bahwa desain sesuai dengan ekspektasi pengguna, sehingga interaksi dapat berlangsung secara intuitif. Sekian dan terima kasih. Salam, Samuel",
+          "replies": []
+        },
+        {
+          "id": "p466692",
+          "author": "Evelyn Depthios",
+          "date": "2025-02-15T04:01:35+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda, tim asdos, dan teman-teman. Izinkan saya untuk membagikan refleksi saya mengenai pembelajaran minggu ini. Minggu ini, saya memahami bahwa desain interaksi tidak hanya soal estetika, tetapi juga bagaimana sistem mendukung cara berpikir pengguna. Beberapa hal yang saya pelajari: Cognitive Load : Desain yang baik harus mengurangi beban kognitif pengguna, misalnya dengan tampilan yang sederhana dan informasi yang mudah dipahami. Atensi & Persepsi : Pengguna memiliki keterbatasan dalam menangkap informasi, sehingga elemen seperti warna dan layout harus membantu fokus mereka. Mental Model : Ekspektasi pengguna sangat memengaruhi pengalaman mereka. Desain harus intuitif agar tidak membingungkan. Eksternalisasi Kognitif : Fitur seperti ikon familiar dan riwayat pencarian membantu mengurangi beban memori pengguna. Sekian dari jawaban weekly reflection saya untuk pembelajaran minggu ini, mohon maaf bila ada kesalahan kata. Terima Kasih. Salam, Evelyn",
+          "replies": []
+        },
+        {
+          "id": "p466710",
+          "author": "Marla Marlena",
+          "date": "2025-02-15T09:48:29+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda serta kakak asdos. Izinkan saya untuk membagikan weekly reflection saya minggu ini. Selama dikelas minggu ini, saya belajar apa saja yang menjadi prinsip-prinsip dalam menyusun sebuah design ui/ux, lalu kami juga belajar bagaimana kemampuan dan keterbatasan dari interaksi pengguna menjadi komponen yang sangat penting untuk diperhatikan sehingga dalam menghasilkan desain yang kognitif dan mudah digunakan bagi penggunanya. Sekian refleksi dari saya dan terimakasih.",
+          "replies": []
+        },
+        {
+          "id": "p466720",
+          "author": "Ischika Afrilla - 2306227955 Chika 🐣🐥🐧🕊️",
+          "date": "2025-02-15T10:14:31+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda dan kakak asdos. Izin membagikan apa yang sudah saya pelajari selama seminggu ini. Pada minggu ini saya sudah belajar mengenai prinsip-prinsip kognitif dalam desain interaksi. Keduanya saling terkait karena desain interaksi harus mempertimbangkan cara kerja otak manusia agar sistem lebih mudah digunakan. Desain interaksi yang tidak mempertimbangkan prinsip-prinsip kognitif dapat memberikan b eban kognitif ( cognitive load ) yang besar bagi pengguna. Kesalahan pengguna dalam memahami antarmuka sering terjadi karena mental model mereka tidak sesuai dengan cara kerja sistem, misalnya i kon keranjang belanja dipakai untuk \"Favorit\", pengguna mungkin mengira mereka sudah menambahkan produk ke daftar belanja. Sekian refleksi dari saya, terima kasih Salam, Ischika Afrilla",
+          "replies": []
+        },
+        {
+          "id": "p466731",
+          "author": "Sarah Saphira Setiawan",
+          "date": "2025-02-15T10:42:16+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda, Tim Asdos, dan teman-teman Sistem Interaksi E. Setelah mengikuti perkuliahan minggu ini, saya mendapatkan banyak wawasan baru mengenai bagaimana prinsip-prinsip kognitif berperan dalam desain interaksi. Sebelum ini, saya hanya memahami bahwa desain antarmuka harus intuitif, tetapi saya belum benar-benar memahami dasar kognitif yang melandasinya. Salah satu konsep yang paling menarik bagi saya adalah cognitive load. Saya baru menyadari bahwa terlalu banyak informasi dalam satu tampilan dapat membebani pengguna dan memperlambat proses pengambilan keputusan mereka. Hal ini sejalan dengan prinsip reduce short-term memory load, yang menekankan bahwa sistem sebaiknya membantu pengguna mengenali informasi daripada mengingatnya. Ini membuat saya lebih memahami mengapa fitur seperti riwayat pencarian, ikon familiar, dan auto-suggestions sering digunakan dalam aplikasi modern. Selain itu, saya juga lebih memahami pentingnya mental model dalam desain interaksi. Setiap pengguna memiliki ekspektasi tertentu terhadap cara kerja suatu sistem berdasarkan pengalaman sebelumnya. Jika desain tidak sesuai dengan mental model pengguna, mereka bisa mengalami kebingungan atau bahkan frustrasi. Contohnya, saya pernah mengalami kebingungan saat menggunakan aplikasi baru yang memiliki navigasi berbeda dari aplikasi sejenis yang biasa saya gunakan. Ini mengajarkan saya bahwa menjaga konsistensi dalam desain sangat penting agar pengguna tidak perlu “belajar ulang” cara menggunakan aplikasi. Yang juga menarik adalah konsep metakognisi, yaitu bagaimana sistem bisa membantu pengguna berpikir dan mengambil keputusan. Saya jadi lebih memperhatikan bagaimana aplikasi yang saya gunakan sehari-hari memberikan feedback atau menyediakan fitur bantuan yang memudahkan pengguna dalam menyelesaikan tugas. Dari refleksi ini, saya merasa lebih siap untuk merancang antarmuka yang tidak hanya menarik secara visual tetapi juga memperhitungkan bagaimana pengguna berpikir, mengingat, dan mengambil keputusan. Saya juga akan lebih memperhatikan aspek cognitive load, mental model, dan metakognisi dalam desain yang saya buat. Sekian refleksi saya minggu ini. Terima kasih! Salam, Sarah Saphira Setiawan",
+          "replies": []
+        },
+        {
+          "id": "p466736",
+          "author": "Aliya Zahira Nadra",
+          "date": "2025-02-15T11:02:52+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, tim asdos, dan teman-teman semuanya. Izinkan saya untuk memberikan weekly reflection dari perkuliahan minggu ini. Minggu ini saya memahami bagaimana proses kognitif seperti atensi, persepsi, dan memori berperan dalam cara pengguna berinteraksi dengan sistem. Kesadaran akan pentingnya memahami cara kerja pikiran manusia saat merancang antarmuka menjadi hal yang sangat menarik, terutama dalam membantu pengguna menemukan informasi yang relevan dan mengurangi beban kognitif mereka. Contohnya dalam pembelajaran tentang atensi, saya mengetahui bahwa multitasking dapat mengurangi fokus pengguna. Dari situ, saya menyadari bahwa desain yang efektif harus membantu pengguna dalam menyaring dan memahami data dengan lebih mudah. Dalam aspek persepsi, penggunaan ikon dan simbol yang familiar membantu pengguna memahami fungsinya tanpa harus berpikir terlalu lama. Selain itu, tata letak yang jelas serta kombinasi warna yang kontras dapat meningkatkan keterbacaan dan memudahkan navigasi, sehingga pengguna tidak kebingungan dalam menggunakan sistem. Dalam hal memori, pengguna lebih mudah mengenali sesuatu yang sudah mereka lihat sebelumnya dibandingkan harus mengingat informasi baru. Oleh karena itu, fitur seperti riwayat pencarian, rekomendasi, atau ikon yang konsisten sangat membantu dalam meningkatkan kenyamanan dan efisiensi penggunaan sistem. Penggunaan bahasa yang sederhana, jelas, dan konsisten serta tutorial singkat dapat membantu pengguna dalam aspek pembelajaran dan kebahasaan. Dalam aspek metakognisi, sistem yang baik juga harus mendukung pengguna dalam pengambilan keputusan dengan memberikan informasi yang relevan dan opsi yang membantu mereka dalam memilih tindakan terbaik. Sekian weekly reflection saya, terima kasih. Salam, Aliya",
+          "replies": []
+        },
+        {
+          "id": "p466743",
+          "author": "Sayyid Thariq Gilang Muttaqien",
+          "date": "2025-02-15T11:29:21+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda, tim asdos, dan teman - teman Sister E , beriku adalah hal yang saya pelajari pada minggu ii 1. Desain UI/UX Harus Memahami Kognisi Pengguna Desain yang baik tidak hanya estetis tetapi juga mendukung cara berpikir manusia dengan mengurangi cognitive load pengguna. Cognitive load terdiri dari intrinsic load, extraneous load, dan germane load, yang perlu dikelola dengan baik. 2. Atensi dan Persepsi Mempengaruhi Interaksi Pengguna Pengguna memiliki keterbatasan dalam menangkap informasi, sehingga elemen desain seperti warna, layout, dan spasi harus digunakan untuk mengarahkan perhatian pengguna. 3. Memori dan Mental Model Berperan dalam Kemudahan Penggunaan Recognition lebih mudah daripada recall, sehingga penggunaan ikon familiar, riwayat pencarian, dan fitur rekomendasi dapat meningkatkan pengalaman pengguna. 4. Metakognisi dalam Desain Membantu Pengguna Berpikir dan Mengambil Keputusan Antarmuka yang baik tidak hanya menyediakan alat tetapi juga membantu pengguna memahami, berpikir, dan membuat keputusan dengan lebih efektif. Salam Sayyid,",
+          "replies": []
+        },
+        {
+          "id": "p466834",
+          "author": "Rosanne Valerie",
+          "date": "2025-02-15T15:57:03+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore Pak Baginda dan Tim Asdos, berikut refleksi saya dari perkuliahan Sistem Interaksi pekan 2. Minggu ini, saya jadi lebih ngerti kalau desain interaksi bukan cuma soal tampilan bagus, tapi juga harus sesuai dengan cara pengguna berpikir. Salah satu materi yang menarik bagi saya adalah mental model. Saya pernah mengalami kebingungan saat menggunakan suatu aplikasi karena ekspektasi saya terhadap fitur tertentu tidak sesuai dengan cara aplikasi tersebut dirancang. Dari situ, saya menyadari bahwa desain yang baik harus mempertimbangkan pola pikir pengguna agar tidak membingungkan. Selain itu, konsep cognitive load juga membuat saya lebih peka terhadap pengalaman saya sendiri saat menggunakan aplikasi. Ternyata, ada alasan mengapa beberapa aplikasi terasa lebih nyaman dibanding yang lain. Saat informasi ditampilkan terlalu banyak sekaligus, otak jadi lebih cepat lelah. Sekarang, saya jadi lebih memperhatikan bagaimana sebuah desain bisa membantu mengurangi beban kognitif dengan menyederhanakan tampilan dan memberikan informasi secara bertahap. Secara keseluruhan, materi minggu ini bikin saya lebih sadar bahwa desain yang baik adalah desain yang ngga bikin cape mikir . Dari pengalaman ini, saya semakin memahami bahwa desain yang efektif adalah desain yang terasa natural bagi pengguna. Ke depannya, saya ingin lebih banyak mengamati bagaimana aplikasi-aplikasi yang saya gunakan menerapkan prinsip-prinsip ini dan bagaimana saya bisa mengaplikasikannya dalam desain saya sendiri. Sekian refleksi dari saya, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p466916",
+          "author": "Athallah Nadhif Yuzak",
+          "date": "2025-02-15T18:14:57+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Sore kakak pa Baginda, tim asdos, dan teman teman semua. Minggu ini, saya belajar banyak tentang bagaimana kognisi manusia berpengaruh dalam desain antarmuka. Berikut beberapa hal yang menurut saya menarik: 1. Experiential vs Reflective Cognition Ada dua cara berpikir: experiential (otomatis, seperti ngobrol) dan reflective (butuh usaha, seperti membuat laporan). Saya jadi sadar kapan saya menggunakan masing-masing dalam aktivitas sehari-hari. 2. Atensi (Perhatian) dalam Desain Ternyata desain bisa mengarahkan fokus pengguna! Contohnya, di e-commerce, banyak promo dan notifikasi bisa bikin kita terdistraksi dari tujuan awal. 3. Persepsi dalam Antarmuka Ikon dan simbol membantu kita memahami fitur. Misalnya, ikon keranjang belanja langsung diasosiasikan dengan belanja, tapi kalau ada simbol yang kurang jelas, bisa bikin bingung. 4. Memori dan Kemudahan Navigasi Fitur seperti riwayat pencarian dan autofill sangat membantu karena lebih gampang mengenali dibanding mengingat dari nol. Ini bikin pengalaman pengguna jadi lebih nyaman. 5. Pembelajaran dan Eksplorasi Aplikasi yang baik harus memudahkan pengguna belajar cara menggunakannya, misalnya dengan tooltips atau tutorial di awal. Kalau tidak ada, pengguna bisa merasa kesulitan. 6. Kebahasaan dalam UI Bahasa yang jelas dan tidak terlalu teknis penting agar pengguna tidak bingung. Saya pernah menemukan aplikasi yang pakai istilah rumit tanpa penjelasan, jadi akhirnya harus cari tahu sendiri. 7. Metakognisi dan Kesadaran dalam Menggunakan Aplikasi Kadang kita tanpa sadar cari fitur \"Bantuan\" atau \"Tutorial\" kalau bingung. Itu artinya, desain harus menyediakan petunjuk dan feedback yang membantu pengguna mengevaluasi pilihan mereka. saya jadi lebih peka terhadap bagaimana aplikasi yang saya pakai sehari-hari didesain agar lebih mudah digunakan. Ternyata, ada banyak prinsip kognitif yang diterapkan supaya pengguna bisa lebih nyaman dan efisien dalam berinteraksi dengan teknologi sekian terima kasih, salam, Nadhif",
+          "replies": []
+        },
+        {
+          "id": "p466920",
+          "author": "Adam Caldipawell Sembiring",
+          "date": "2025-02-15T18:26:10+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Sore Pak Baginda dan kakak asdos sister E, Minggu ini saya belajar mengenai salah satu komponen desain yang baik, yaitu kaitan mental model dalam desain interaksi. Aplikasi yang kita desain tentunya dibuat untuk manusia, sehingga aspek bagaimana cara user memahami penggunaan aplikasi kita itu penting. Bukan hanya belajar pentingnya saja, saya juga belajar tentang aspek - aspek mengenai desain antarmuka, seperti mengurangi cognitive load, penempatan elemen yang tepat, dan penyajian informasi yang baik. Saya juga belajar bagaimana cara menilai suatu suatu desain interaksi sehingga saya dapat mengidentifikasi kekurangan dan kelebihannya. Ternyata kita tidak bisa hanya mengatakan sesuatu itu bagus/jelek tanpa alasa tertentu, sebab itu dapat menyulitkan proses evaluasi. sekian refleksi dari saya, Terimakasih.",
+          "replies": []
+        },
+        {
+          "id": "p466925",
+          "author": "Salomo Immanuel Putra",
+          "date": "2025-02-15T18:33:46+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore pak Baginda, para asdos, dan teman teman semuanya, perkenalkan saya Salomo Immanuel dengan NPM 2306219745. Izinkan saya untuk menjawab weekly reflection minggu ini Minggu ini saya belajar mengenai proses kognitif manusia dan bagaimana proses kognitif tersebut dapat diimplementasikan dalam membuat sebuah sistem interaksi untuk meningkatkan pengalaman pengguna. proses kognitif ini berupa atensi, persepsi, memori, kebahasaan, metakognisi, dan pembelajaran. Kemudian saya juga me-review aplikasi yang saya gunakan dan mempelajari bagaimana design yang mereka gunakan mengimplementasikan proses kognitif tersebut. Saya juga mengetahui apa kelebihan dan kekurangan aplikasi yang saya gunakan itu agar dapat menciptakan sistem yang lebih baik kedepannya. Selain itu, saya juga mempelajari tentang mental model dan isu - isu terkait mental model. sekian dan terimakasih salam, Salomo",
+          "replies": []
+        },
+        {
+          "id": "p466941",
+          "author": "Shalya Naura Lionita",
+          "date": "2025-02-15T19:21:51+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, Tim Asdos, dan teman-teman semua, saya izin memberikan refleksi saya terkait nateri prinsip-prinsip kognitif. Minggu ini, saya mendapatkan banyak wawasan baru mengenai bagaimana prinsip-prinsip kognitif berperan dalam desain interaksi. Salah satu hal yang menarik bagi saya adalah bagaimana desain dapat membantu atau justru menghambat proses berpikir pengguna. Sebelumnya, saya hanya berpikir bahwa tampilan yang menarik dan fitur yang lengkap sudah cukup untuk membuat pengalaman pengguna menjadi lebih baik, tetapi ternyata ada banyak lagi faktor kognitif yang harus dipertimbangkan. Salah satu konsep yang paling berkesan bagi saya adalah cognitive load. Saya jadi lebih sadar bahwa ketika sebuah aplikasi terasa membingungkan atau melelahkan untuk digunakan, itu mungkin karena desainnya tidak mempertimbangkan batasan kognitif pengguna. Misalnya, terlalu banyak informasi dalam satu layar dapat membuat pengguna kesulitan fokus atas apa yang ingin dilakukan. Dari sini, saya belajar bahwa desain yang baik harus menyajikan informasi secara bertahap agar lebih mudah dipahami. Selain itu, saya juga tertarik dengan konsep mental model. Saya pernah mengalami kesulitan saat menggunakan aplikasi baru karena ekspektasi saya terhadap cara kerja aplikasi tersebut tidak sesuai dengan kenyataannya. Hal ini membuat saya sadar bahwa memahami bagaimana pengguna berpikir dan apa yang mereka harapkan dari sebuah sistem sangat penting dalam merancang penggunaan yang lebih mudah dipahami. Secara keseluruhan, materi minggu ini membuat saya lebih peka terhadap bagaimana desain dapat memengaruhi cara kita berpikir dan berinteraksi dengan teknologi. Ke depannya, saya ingin lebih banyak memperhatikan bagaimana prinsip-prinsip ini diterapkan dalam aplikasi yang saya gunakan dan bagaimana saya bisa mengaplikasikannya dalam desain saya sendiri. Sekian refleksi dari saya, terima kasih. Salam, Shalya",
+          "replies": []
+        },
+        {
+          "id": "p466993",
+          "author": "Wirya Dharma Kurnia",
+          "date": "2025-02-15T20:35:05+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, para asdos, dan teman-teman semua. Saya Wirya Dharma Kurnia dengan NPM 2306152115 izin menjawab pertanyaan refleksi yang diberikan. Ada beberapa hal yang saya pelajari pada pembelajaran minggu ini. Pertama, saya belajar bahwa dalam desain interaksi, ada 6 prinsip kognitif utama. Keenam prinsip tersebut tak lain adalah atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Semua ini merupakan hal yang penting untuk dipertimbangkan ketika kita membuat sistem yang berinteraksi dengan pengguna. Pada kenyataannya, ternyata ketika saya berkaca pada desain sistem interaksi yang pernah saya buat sebelumnya, saya cenderung tidak terlalu memikirkan keenam prinsip kognitif di atas. Maka melalui kuliah minggu ini, saya sadar akan kesalahan tersebut dan memahami pentingnya desain yang memperitimbangkan kemampuan kognitif pengguna. Ini harus diterapkan agar ke depannya sistem interaksi yang saya buat dapat memberikan user experience yang terbaik. Sekian refleksi saya minggu ini, terima kasih Salam, Wirya",
+          "replies": []
+        },
+        {
+          "id": "p467014",
+          "author": "Dinda Dinanti",
+          "date": "2025-02-15T21:13:29+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam tim asdos, Pak Baginda, dan teman-teman Sister E. Minggu ini saya mempelajari Prinsip-prinsip Kognitif, yang memberikan wawasan baru mengenai bagaimana proses kognisi manusia mempengaruhi interaksi dengan sistem atau aplikasi. Salah satu hal yang paling insightful adalah pemahaman tentang atensi, persepsi dan memori dalam desain interaksi. Sebagai contoh, selama kuliah, saya jadi lebih sadar betapa pentingnya pengelompokan informasi yang relevan agar mudah dipahami oleh pengguna. Hal ini sangat berguna dalam konteks aplikasi atau website yang saya gunakan sehari-hari, seperti Tokopedia atau Gojek, yang menggunakan visualisasi yang jelas untuk menarik perhatian. Saya juga menyadari bahwa beberapa fitur pada aplikasi seringkali membingungkan karena tidak menyertakan penjelasan tambahan. Sebagai contoh, ikon voucher di aplikasi GoFood kadang membuat saya bingung karena tidak ada deskripsi atau tooltip yang menjelaskan apa fungsinya. Ini membuat saya berpikir betapa pentingnya memberikan penjelasan yang lebih jelas di setiap elemen desain agar pengguna bisa lebih mudah memahami dan menggunakan aplikasi tersebut. Melalui minggu ini, saya juga lebih memahami bagaimana metakognisi bekerja, di mana saya perlu mengevaluasi proses berpikir saya saat menggunakan aplikasi atau saat belajar. Dengan begitu, saya bisa lebih efektif dalam mengidentifikasi bagian-bagian yang perlu saya pelajari lebih lanjut atau yang bisa saya perbaiki dalam penggunaan aplikasi. Secara keseluruhan, pembelajaran tentang Prinsip-prinsip Kognitif memberikan pemahaman yang lebih mendalam tentang bagaimana desain aplikasi atau sistem dapat mempengaruhi cara kita berpikir dan berinteraksi, serta bagaimana saya bisa menerapkan prinsip ini untuk menciptakan pengalaman pengguna yang lebih baik di masa depan. Salam, dinda dinanti",
+          "replies": []
+        },
+        {
+          "id": "p467017",
+          "author": "Alya Rasheeda Yuvana",
+          "date": "2025-02-15T21:23:35+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, tim asdos, dan teman teman semua. Berikut saya bagikan poin hasil refleksi saya di minggu ini: - Desain interface harus dibuat sejelas dan seintuitif mungkin agar mudah dipahami tanpa membebani cognitive load pengguna. - Cognitive Load: Beban kognitif pengguna harus diminimalkan dengan desain yang sederhana, tampilan yang tidak berlebihan, serta penyajian informasi yang bertahap agar tidak membebani ingatan. - Mental model berperan penting dalam interaksi, di mana pengguna membayangkan cara kerja sistem berdasarkan pengalaman sebelumnya, sehingga desain harus konsisten untuk menghindari kebingungan. - Atensi & Persepsi berpengaruh dalam desain interaksi, sehingga elemen visual seperti warna, ikon, dan layout harus membantu fokus pengguna tanpa membingungkan. Sekian dari saya. Terimakasih. Salam, Alya Rasheeda",
+          "replies": []
+        },
+        {
+          "id": "p467055",
+          "author": "Ridya Azizah Khayyira Mumtaz",
+          "date": "2025-02-15T22:32:46+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam tim asisten dosen dan Pak Baginda. Izinkan saya untuk menjawab forum weekly reflection ini. Pada minggu ini, saya mempelajari bahwa aspek kognisi seperti atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi sangat berperan dalam bagaimana pengguna berinteraksi dengan suatu sistem. Salah satu hal yang paling menarik bagi saya adalah bagaimana desain yang buruk dapat menghambat pengalaman pengguna. Saya semakin paham bahwa desain sistem interaksi bukan hanya soal tampilan yang menarik, tetapi juga bagaimana sistem dapat membantu atau mengurangi beban kognitif pengguna. Sekian dari saya, terima kasih. Salam, Ridya.",
+          "replies": []
+        },
+        {
+          "id": "p467074",
+          "author": "Sezza Auraghaniya Winanda",
+          "date": "2025-02-15T23:51:53+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, tim asisten dosen, dan teman-teman. Minggu ini, saya semakin memahami bahwa desain interaksi bukan sekadar soal estetika, tetapi juga bagaimana sistem dapat mendukung cara berpikir pengguna. Salah satu konsep penting yang saya pelajari adalah cognitive load, di mana desain yang baik harus mampu mengurangi beban kognitif pengguna dengan tampilan yang sederhana dan informasi yang mudah dipahami. Selain itu, saya juga memahami bahwa pengguna memiliki keterbatasan dalam menangkap informasi, sehingga elemen desain seperti warna dan tata letak harus membantu mereka tetap fokus (atensi & persepsi). Konsep mental model juga menjadi hal yang krusial, karena ekspektasi pengguna sangat memengaruhi pengalaman mereka dalam berinteraksi dengan sistem. Oleh karena itu, desain yang intuitif sangat diperlukan agar tidak membingungkan. Terakhir, saya belajar mengenai eksternalisasi kognitif, yaitu bagaimana fitur seperti ikon yang familiar dan riwayat pencarian dapat membantu mengurangi beban memori pengguna, sehingga pengalaman mereka menjadi lebih efisien dan nyaman. Demikian refleksi saya untuk minggu ini. Mohon maaf jika ada kesalahan kata, dan terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467082",
+          "author": "Nisrina Annaisha Sarnadi",
+          "date": "2025-02-16T00:42:04+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam, Pak Baginda, Kakak-kakak Asdos, dan teman-teman. Setelah mempelajari materi di pekan ini, yaitu terkait Prinsip-Prinsip Kognitif dalam Desain Interaksi, saya semakin memahami bagaimana proses kognitif manusia memengaruhi pengalaman pengguna. Salah satu konsep penting yang saya pelajari adalah cognitive load , yaitu beban kognitif yang harus diminimalkan agar sistem lebih mudah digunakan. Untuk mengurangi beban tersebut, prinsip-prinsip kognitif perlu diterapkan dalam desain. Misalnya, atensi membantu pengguna fokus pada tujuan utama, persepsi memudahkan mereka mengenali fungsionalitas suatu desain, dan memori mendukung kemudahan navigasi. Penggunaan bahasa yang baik juga penting agar sistem lebih mudah dipahami dan metakognisi membantu pengguna dalam pengambilan keputusan. Selain itu, dari pengerjaan LK 2, saya juga berlatih mengidentifikasi prinsip-prinsip kognitif dalam sebuah aplikasi. Hal ini menjadi pembelajaran bagi saya tentang bagaimana prinsip-prinsip kognitif manusia dapat memengaruhi pengalaman pengguna dalam berinteraksi dengan sistem. Sekian refleksi saya pada pekan ini. Terima kasih. Salam, Nisrina",
+          "replies": []
+        },
+        {
+          "id": "p467083",
+          "author": "Filbert Aurelian Tjiaranata",
+          "date": "2025-02-16T01:26:32+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Malam, Pak Baginda, kakak - kakak asdos, dan teman-teman semua, izin memberikan weekly reflection saya. Hari senin minggu ini, seperti yang kita semua ketahui, kelas sister diadakan secara online ( hepi / sad). Saya pun mendengarkan rekaman presentasi canva Pak Baginda bersama teman-teman, termasuk Ragnall M. Al Fath . Dari presentasi tersebut, ada beberapa hal yang saya dapatkan mengenai Prinsip-Prinsip Kognitif dalam Desain Interaksi yang secara singkat bertujuan untuk menciptakan sistem yang secara efektif mengarahkan perhatian pengguna pada informasi relevan melalui elemen visual yang tepat ( Atensi ), memudahkan pemahaman makna aplikasi dengan menggunakan ikon yang tepat ( Persepsi ), mendukung penyimpanan serta pengingatan informasi agar tidak membebani kognisi pengguna ( Memori ), memungkinkan pembelajaran yang alami melalui pengalaman interaksi ( Pembelajaran ), memfasilitasi komunikasi dengan bahasa yang jelas dan mudah dimengerti ( Kebahasaan ), serta membantu pengguna dalam merencanakan dan mengevaluasi keputusan ( Metakognisi ). Selanjutnya, seperti biasa saya pun diberikan Lembar Kerja untuk dikerjakan dimana saya dan rekan saya Ragnall M. Al Fath mengaplikasikan apa yang telah kami ketahui dan pelajari dari prinsip prinsip kognisi pada desain interaksi ke beberapa contoh kasus yang kami temui di aplikasi yang running di sekitar kita. Sekian refleksi saya minggu ini, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467086",
+          "author": "Joshua Hans Vito Soehendra",
+          "date": "2025-02-16T02:41:42+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, kakak asdos, dan teman-teman, saya izin membagikan weekly reflection saya untuk minggu ke-2 ini. Pengalaman minggu ini membuka perspektif baru bagi saya tentang betapa mendalamnya peran pikiran dalam mendesain antarmuka yang efektif. Sebelumnya, saya cenderung fokus pada tampilan yang menarik saja, namun pembelajaran minggu ini mengajarkan bahwa kita harus mempertimbangkan cara pengguna berpikir dalam desain yang kita buat. Saya pernah mengalami momen frustasi ketika harus berhadapan dengan aplikasi yang penuh sekali dengan informasi yang tidak terstruktur, sehingga membuat saya kewalahan dalam mencari data yang saya butuhkan. Pengalaman tersebut kini mengingatkan saya bahwa setiap tampilan harus mampu mengurangi beban mental pengguna, seperti menyusun informasi secara terstruktur sehingga tidak membuat otak bekerja ekstra untuk memilah mana yang penting. Secara keseluruhan, minggu ini saya belajar untuk lebih memperhatikan aspek kognitif dalam setiap desain saya, seperti dengan pemilihan layout, ikon, dan sebagainya. Saya akan mempertimbangkan bagaimana pengguna berpikir dan merasakan, sehingga hasil desain saya tidak hanya bagus secara estetika, tetapi juga mendukung proses berpikir mereka secara optimal. Sekian dari saya, terima kasih. Salam, Joshua",
+          "replies": []
+        },
+        {
+          "id": "p467093",
+          "author": "Shabrina Aulia Kinanti",
+          "date": "2025-02-16T09:35:35+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Pagi Pak Baginda, kakak kakak asdos dan teman teman semua. Izinkan saya untuk memberikan weekly reflection minggu 2 ini. 1. Desain harus membantu fokus pengguna dengan elemen visual yang jelas dan mudah dipahami. 2. Sistem yang sesuai dengan mental model pengguna akan lebih intuitif dan mudah digunakan. 3. Desain yang baik mengurangi beban kognitif dengan menyajikan informasi yang sederhana dan terstruktur. 4. Prinsip-prinsip kognitif membantu mengurangi beban kognitif pengguna dengan menyajikan antarmuka yang intuitif, sederhana, dan terstruktur. Demikianlah poin-poin refleksi saya pekan ini, sekian terima kasih. Salam, Shabrina Aulia ☺️🙏",
+          "replies": []
+        },
+        {
+          "id": "p467094",
+          "author": "Nadia Rahmadina Aristawati",
+          "date": "2025-02-16T09:44:49+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, tim asisten dosen, dan teman-teman kelas E. Izinkan saya untuk menyampaikan refleksi saya mengenai pembelajaran minggu ini. Minggu ini, saya belajar tentang kognisi dan bagaimana prinsip-prinsip kognitif berperan dalam menciptakan desain antarmuka yang efektif dan intuitif. Salah satu hal yang saya sadari adalah bahwa aspek kognitif sering kali terabaikan oleh desainer maupun developer, meskipun memiliki dampak besar terhadap pengalaman pengguna. Hal ini terjadi karena adanya perbedaan harapan antara pengguna dan pengembang. Sebagai pengembang, kita cenderung memahami sistem dari sudut pandang teknis, sedangkan pengguna melihatnya dari perspektif kebutuhan dan kemudahan penggunaan. Jika desain antarmuka tidak memperhitungkan keterbatasan kognitif pengguna, seperti beban kognitif yang terlalu tinggi atau kurangnya kejelasan dalam navigasi, maka pengalaman pengguna bisa menjadi sulit dan membingungkan. Oleh karena itu, penting untuk memahami bagaimana manusia memproses informasi, mengenali pola, dan mengingat suatu elemen dalam antarmuka agar desain yang dibuat lebih ramah pengguna. Melalui refleksi ini, saya semakin menyadari bahwa desain yang baik bukan hanya soal estetika, tetapi juga bagaimana suatu antarmuka dapat mendukung pemrosesan kognitif pengguna dengan lebih baik. Ke depannya, saya ingin lebih memperhatikan aspek ini dalam setiap desain yang saya buat, agar dapat menghasilkan pengalaman pengguna yang lebih nyaman dan intuitif. Sekian refleksi dari saya. Salam, Nadia",
+          "replies": []
+        },
+        {
+          "id": "p467102",
+          "author": "Gnade Yuka",
+          "date": "2025-02-16T10:48:07+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi Pak Baginda dan Tim Asdos, berikut adalah hasil dari pembelajaran saya minggu ini: Saya belajar bahwa ternyata kognisi sangat memengaruhi cara pengguna berinteraksi dengan sistem, sehingga desain harus mempertimbangkan bagaimana manusia memahami dan memproses informasi. Saya menyadari bahwa desain yang baik harus mempertimbangkan prinsip kognitif untuk memudahkan pengguna dalam memahami, mengingat, dan mengambil keputusan secara efisien. Salah satu contohnya, atensi pengguna bisa dipengaruhi oleh faktor desain seperti warna, animasi, dan spasi, sehingga desain harus memastikan informasi utama mudah ditemukan. Saya juga belajar bahwa mental model sangat memengaruhi cara pengguna memahami sistem, sehingga desain harus sesuai dengan pola pikir dan ekspektasi mereka, dan ternyata kognisi tidak hanya terjadi di dalam otak, tetapi juga dipengaruhi oleh lingkungan dan alat bantu seperti catatan dan diagram, yang bisa dimanfaatkan dalam desain interaksi. Sekian refleksi dari saya, Salam, Yuka 😊",
+          "replies": []
+        },
+        {
+          "id": "p467115",
+          "author": "Annisa Dwiyanti Ismael",
+          "date": "2025-02-16T11:53:07+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang, Pak Baginda, kakak-kakak asdos, dan teman-teman. Izin menyampaikan hal yang saya pelajari di pekan ini. Saya belajar bahwa desain interaksi tidak hanya tentang estetika, tetapi juga harus mempertimbangkan aspek kognitif pengguna. Terlalu banyak informasi dalam antarmuka dapat meningkatkan cognitive load dan membuat pengguna kesulitan dalam mengambil keputusan. Oleh karena itu, elemen desain harus dirancang dengan jelas, menggunakan warna, ikon, dan bahasa yang efektif agar komunikasi dalam sistem lebih intuitif. Saya juga memahami bahwa kognisi manusia terdiri dari berbagai aspek yang berperan penting dalam desain interaksi. Atensi memengaruhi bagaimana pengguna memusatkan perhatian pada elemen tertentu, sedangkan persepsi menentukan cara mereka memahami informasi yang ditampilkan. Memori berperan dalam mengenali dan mengingat elemen dalam antarmuka, sementara proses pembelajaran membantu pengguna memahami cara kerja sistem dengan lebih mudah. Selain itu, kebahasaan juga memengaruhi kejelasan komunikasi dalam desain, dan metakognisi berperan dalam bagaimana pengguna merencanakan, mengambil keputusan, serta menyelesaikan masalah saat berinteraksi dengan sistem. Dengan memahami aspek-aspek tersebut, saya menyadari bahwa tantangan dalam desain interaksi adalah menciptakan antarmuka yang intuitif, efisien, dan nyaman digunakan tanpa mengorbankan kreativitas dan estetika. Desain yang baik tidak hanya menarik secara visual, tetapi juga harus mendukung proses kognitif pengguna agar pengalaman mereka lebih optimal. Salam, Annisa Dwiyanti",
+          "replies": []
+        },
+        {
+          "id": "p467117",
+          "author": "Rogerio Geraldo Wibhowo",
+          "date": "2025-02-16T12:08:18+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, kakak asdos dan teman-teman semua, izinkan saya untuk memberikan refleksi saya terhadap perkuliahan minggu ini. Perkuliahan Sistem Interaksi pada minggu ini mengajarkan saya cara pandang manusia dari sisi psikologi terhadap desain antarmuka suatu sistem, mulai dari aspek atensi, persepsi, memori, kebahasaan, pembelajaran dan metakognisi. Saya jadi tau bagaimana perspektif dari pengguna tentang desain sistem interaksi yang dibutuhkan dan disukai oleh mereka, sehingga akan saya terapkan prinsip-prinsip tersebut kedepannya dalam membuat desain sistem interaksi. Sekian dari saya, terimakasih. Salam hormat, Aldo.",
+          "replies": []
+        },
+        {
+          "id": "p467118",
+          "author": "Claudia Paskalia Koesno",
+          "date": "2025-02-16T12:22:12+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, tim asdos, dan teman-teman semua. Pada minggu ini hal baru yang saya pelajari adalah mengenai proses yang melibatkan kognisi. Proses tersebut terdiri atas enam aspek yaitu atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Setiap aspek memiliki implikasinya tersendiri dengan konsep desain. Dari keenam aspek tersebut yang paling menarik perhatian saya adalah aspek persepsi dan metakognisi. Aspek persepsi menuntut desainer untuk memahami cara pandang pengguna dan menerapkannya dalam desain. Dalam mendesain sistem ikon atau representasi grafis lainnya, penting untuk memastikan bahwa pengguna dapat dengan mudah memahami maksud atau arti dari ikon tersebut. Saya menemukan hal ini saat mengerjakan Lembar Kerja (LK), di mana terdapat ikon keranjang yang bentuknya sangat mirip dengan bentuk sapu. Hal-hal seperti inilah yang perlu dihindari dalam membuat desain sistem. Selain itu, dari sisi persepsi, suatu desain sebaiknya memberikan umpan balik yang jelas kepada pengguna tentang hal-hal yang kurang lazim atau tidak biasa. Gojek adalah salah satu contoh aplikasi yang menurut saya sudah sangat baik dalam menerapkan hal ini. Mengenai aplikasi Gojek, saya juga merasa bahwa aplikasi ini sudah sangat baik dalam mengimplementasikan aspek metakognisi. Aspek metakognisi berfokus pada desain sistem yang memfasilitasi pengguna untuk menyimpan preferensi mereka dan membantu dalam pengambilan keputusan secara cepat. Hal ini terbukti dengan adanya fitur draft pada proses pemesanan, di mana pengguna yang hendak melakukan transaksi namun tidak jadi melanjutkan, pesanan mereka akan disimpan dalam bentuk draft. Ketika pengguna membuka kembali aplikasi Gojek, draft pesanan mereka akan muncul di bagian bawah aplikasi, sehingga memudahkan mereka untuk melanjutkan pesanan tanpa perlu mengulang langkah-langkah sebelumnya. Keenam aspek dalam proses kognisi tersebut akan memudahkan manusia dalam mengurangi cognitive load selama berinteraksi dengan suatu sistem. Pengurangan cognitive load dalam desain sistem membantu pengguna berinteraksi dengan lebih mudah dan efisien. Dengan menyajikan informasi secara jelas, pengguna dapat memahami dan mengambil keputusan tanpa merasa terbebani. Desain yang baik akan meningkatkan kenyamanan, mengurangi kesalahan, dan meningkatkan kepuasan pengalaman pengguna. Sekian refleksi saya minggu ini, terima kasih. Salam, Claudia",
+          "replies": []
+        },
+        {
+          "id": "p467120",
+          "author": "Yose Yehezkiel Maranata",
+          "date": "2025-02-16T12:44:01+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, Tim Asdos, dan teman-teman. Minggu ini saya lebih memahami bagaimana cara pengguna berpikir dan berinteraksi dengan antar muka. Desain yang baik bukan dilihat dari estetika, tetapi dari kognisi dari penggunanya. Desain yang melupakan hal tersebut meski memiliki penampilan bagus, dapat membingungkan pengguna karena tidak sesuai dengan pemikiran dan pemahaman pengguna dari antarmuka. Setelah memahami hal ini, saya juga memahami betapa pentingnya mengurangi cognitive load. Semakin banyak cognitive load pada pengguna dapat menyebabkan pengguna jadi tidak nyaman dalam interaksi antar muka. Dengan konsep-konsep kognitif, kita dapat mengurangi cognitive load dengan cara menggunakan desain yang konsisten, sederhana, menggunakan ikon-ikon yang familiar, mengurangi beban memori pengguna, dan lain-lain. Intinya pengguna harus berinteraksi semudah mungkin dan tidak perlu waktu lama untuk memahami interaksi antarmuka. Sekian refleksi saya di kelas pekan ini, terimakasih. Salam, Yose",
+          "replies": []
+        },
+        {
+          "id": "p467122",
+          "author": "Rifqisyandi Khairurrizal",
+          "date": "2025-02-16T12:54:40+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore tim asdos, Pak Baginda, dan teman-teman Sister E. Minggu ini, saya semakin memahami bagaimana prinsip-prinsip kognitif berperan dalam desain interaksi. Sebelumnya, saya hanya melihat desain UI/UX dari aspek estetika dan fungsionalitas, tetapi sekarang saya menyadari bahwa faktor kognitif pengguna sangat menentukan efektivitas sebuah desain. Beberapa hal insightful yang saya pelajari minggu ini: Atensi pengguna sangat terbatas, Informasi yang berlebihan (cognitive overload) bisa membuat pengguna bingung atau kewalahan, sehingga desain harus membantu mereka memfokuskan perhatian pada elemen yang paling penting. Memori jangka pendek pengguna sangat terbatas, Oleh karena itu, sistem harus menyimpan informasi penting untuk mengurangi beban kognitif pengguna, misalnya dengan fitur \"Order Again\" pada aplikasi GrabFood. Prinsip eksternalisasi kognisi, Dengan menyediakan visual cues seperti ikon yang intuitif dan hierarki informasi yang jelas, kita dapat membantu pengguna mengambil keputusan lebih cepat. Pengalaman ini membuat saya lebih kritis dalam mengevaluasi desain antarmuka dan lebih memahami pentingnya menyelaraskan UI dengan proses berpikir pengguna. Ke depan, saya ingin lebih memperhatikan aspek kognitif dalam setiap desain yang saya buat. Demikian refleksi saya minggu ini, terima kasih! Salam, Rifqi",
+          "replies": []
+        },
+        {
+          "id": "p467130",
+          "author": "Abdul Zacky",
+          "date": "2025-02-16T13:31:26+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang Pak Baginda, tim asdos, dan teman-teman semua. Setelah mengikuti perkuliahan minggu ini, saya mendapatkan wawasan baru mengenai bagaimana prinsip-prinsip kognitif berperan dalam desain interaksi. Sebelumnya, saya hanya menganggap desain UI/UX sebagai tampilan yang menarik dan mudah digunakan, tetapi ternyata ada aspek kognitif yang sangat menentukan efektivitasnya. Salah satu konsep yang menarik bagi saya adalah cognitive load. Saya menyadari bahwa ketika sebuah aplikasi terasa sulit digunakan, seringkali bukan karena desainnya kurang menarik, tetapi karena beban kognitifnya terlalu tinggi. Misalnya, terlalu banyak informasi yang ditampilkan dalam satu layar bisa membuat pengguna kewalahan dalam mengambil keputusan. Oleh karena itu, saya mulai memahami pentingnya menyederhanakan tampilan dan menyajikan informasi secara bertahap agar lebih mudah dicerna. Selain itu, konsep mental model juga membuka perspektif baru bagi saya. Pengguna memiliki ekspektasi tertentu terhadap sistem berdasarkan pengalaman sebelumnya, dan jika sistem tidak sesuai dengan ekspektasi tersebut, mereka bisa mengalami kebingungan. Saya pernah mengalami hal ini ketika menggunakan aplikasi dengan ikon yang tidak sesuai dengan fungsinya, sehingga saya salah memahami cara penggunaannya. Dari sini, saya belajar bahwa konsistensi dalam desain sangat penting agar pengguna tidak mengalami kebingungan atau frustasi. Saya juga semakin menyadari bagaimana atensi dan persepsi berperan dalam desain interaksi. Sebagai contoh, pemilihan warna, tata letak, dan hierarki visual sangat mempengaruhi bagaimana pengguna memusatkan perhatian mereka pada elemen penting dalam sebuah aplikasi. Hal ini sangat relevan dalam mendesain UI yang efektif dan mudah dipahami. Dari refleksi ini, saya semakin memahami bahwa desain yang baik bukan hanya soal estetika, tetapi juga harus mendukung cara berpikir pengguna. Ke depannya, saya ingin lebih memperhatikan bagaimana aplikasi-aplikasi yang saya gunakan menerapkan prinsip-prinsip ini dan bagaimana saya bisa mengaplikasikannya dalam desain saya sendiri. Sekian refleksi saya minggu ini, terima kasih. Salam, Abdul Zacky",
+          "replies": []
+        },
+        {
+          "id": "p467131",
+          "author": "Shane Michael Tanata Tendy",
+          "date": "2025-02-16T13:48:20+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore Pak Baginda dan Tim Asdos, Setelah mempelajari mengenai prinsip-prinsip kognitif dalam desain interaksi minggu ini, saya merasa lebih memahami bagaimana aspek-aspek kognitif mempengaruhi pengalaman pengguna dalam berinteraksi dengan sistem. 1. Desain UI/UX dan Kognisi Pengguna Desain yang baik tidak hanya memperhatikan estetika, tetapi juga mendukung proses berpikir pengguna dengan mengurangi cognitive load. Prinsip kognitif seperti atensi, persepsi, dan memori sangat penting dalam memastikan antarmuka yang intuitif dan tidak membingungkan. 2. Atensi dan persepsi memiliki peran penting dalam desain UI/UX. Pengguna juga punya limit dalam memproses informasi, sehingga elemen desain seperti warna, layout, dan spasi dapat membantu pengguna lebih fokus dan memahami konten dengan cepat. 3. Penggunaan elemen desain yang mendukung memori, seperti ikon yang familiar dan riwayat pencarian, sangat membantu pengguna dalam mengenali dan mengingat informasi tanpa merasa terbebani. 4. Konsep metakognisi menunjukkan bahwa desain antarmuka harus tidak hanya menjadi alat, tetapi juga membantu pengguna berpikir dan mengambil keputusan secara lebih efektif. Contohnya adalah aplikasi Gojek yang menggunakan fitur draft untuk memudahkan pengguna melanjutkan transaksi mereka, yang sangat mengurangi beban mental pengguna. 5. Implikasi Prinsip Kognitif pada Desain Sistem Prinsip-prinsip kognitif ini saya rasa sangat penting dalam mengurangi cognitive load, yang pada gilirannya membuat pengalaman pengguna menjadi lebih menyenangkan dan efisien. Sebagai contoh, aplikasi yang memberikan feedback visual yang jelas, seperti aplikasi Gojek, sangat membantu pengguna dalam pengambilan keputusan dan memori. Terima kasih atas perhatiannya, Salam, Shane Michael",
+          "replies": []
+        },
+        {
+          "id": "p467137",
+          "author": "Ramy Ardya Ramadhan",
+          "date": "2025-02-16T14:19:41+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang tim dosen dan teman-teman, Minggu ini saya mempelejari banyak hal baru. Aspek - aspek kognisi menjadi salah satu materi yang paling insightful bagi saya. Banyak materi mengenai aspek kognisi yang berkaitan dengan pengalaman saya sendiri. Salah satu contohnya, saya jadi teringat bahwa saya seringkali malas melakukan sebuha aksi di sebuah aplikasi jika prosedurnya terlalu panjang atau rumit. Hal ini saya pelajari pada materi beban kognitif minggu ini. Salam, Ramy",
+          "replies": []
+        },
+        {
+          "id": "p467138",
+          "author": "Raihan Akbar",
+          "date": "2025-02-16T14:20:37+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore Pak Baginda dan Tim Asdos, berikut adalah beberapa poin refleksi saya dari pelajaran minggu ini: Prinsip-prinsip kognitif memberikan wawasan baru bagi saya tentang bagaimana manusia memproses informasi dan bagaimana hal ini berdampak pada cara kita belajar serta berinteraksi dengan dunia sekitar. Salah satu hal yang menarik bagi saya adalah bagaimana skema pengetahuan yang sudah dimiliki seseorang dapat mempengaruhi cara mereka memahami informasi baru. Saya jadi lebih menyadari bahwa ketika mempelajari sesuatu yang baru, saya sering kali menghubungkannya dengan pengalaman atau pengetahuan sebelumnya agar lebih mudah dipahami. Selain itu, saya juga memahami bahwa keterbatasan kapasitas memori kerja membuat kita perlu strategi yang lebih efektif dalam menyerap dan mengingat informasi, seperti chunking atau penggunaan visual yang mendukung pemahaman. Selain itu, saya juga mulai mengaitkan prinsip-prinsip ini dengan pengalaman sehari-hari, terutama dalam cara saya mengonsumsi informasi digital. Misalnya, ketika membaca artikel atau menggunakan aplikasi, saya lebih sadar bahwa desain tampilan yang baik sangat membantu dalam proses kognitif, terutama dalam aspek atensi dan persepsi. Saya juga melihat bagaimana sistem rekomendasi di berbagai platform memanfaatkan prinsip recognition dibandingkan recall, sehingga pengguna lebih mudah mengakses informasi yang relevan tanpa perlu mengingat banyak detail. Refleksi ini membuat saya semakin memahami pentingnya kognisi dalam desain interaksi dan bagaimana aspek-aspek ini dapat diterapkan dalam kehidupan sehari-hari. Salam, Raihan Akbar",
+          "replies": []
+        },
+        {
+          "id": "p467179",
+          "author": "Meutia Fajriyah",
+          "date": "2025-02-16T16:09:14+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore Pak Baginda, tim Asdos, dan teman-teman. Izin menjawab weekly reflection minggu kedua ini. Pada minggu ini, saya belajar mengenai proses kognisi manusia dalam berinteraksi dengan design antarmuka. Di luar dari aspek estetika, aplikasi yang kita buat juga harus mempertimbangkan aspek-aspek kognitif manusia. Seperti atensi, persepsi, memori, kebahasaan, pembelajaran, dan metakognisi. Misalnya, dari aspek atensi dan persepsi, kita perlu memastikan bahwa elemen penting yang digunakan dalam aplikasi dapat dengan mudah menarik perhatian pengguna dengan mempertimbangkan penggunaan warna, ukuran, sampai penempatan posisi yang tepat. Sedangkan dari sisi memori, kita tidak boleh membebani pengguna dengan terlalu banyak informasi sekaligus untuk menghindari pengguna dari kebingungan dan kewalahan. Seluruh aspek tersebut memainkan peran yang penting dalam membuat sebuah desain interaksi tidak hanya terlihat bagus, tetapi juga membantu pengguna mencapai tujuan awal mereka dengan lebih efektif dan efisien. Hal ini akhirnya akan menghasilkan pengalaman pengguna yang lebih memuaskan terhadap aplikasi yang kita buat. Sekian refleksi dari saya, terima kasih. Salam, Meutia",
+          "replies": []
+        },
+        {
+          "id": "p467180",
+          "author": "Trias Fahri Naufal",
+          "date": "2025-02-16T16:10:28+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selama sore tim Asdos, Pak Baginda, dan rekan rekan Sister E. Minggu ini, saya belajar bahwa kognisi manusia berperan penting dalam desain interaksi, karena pengguna memproses informasi dengan berbagai keterbatasan dan kemampuan. Berbagai teori kognitif, seperti Cognitive Load Theory dan Hick's Law, membantu memahami bagaimana manusia memperhatikan, mengingat, dan mengambil keputusan saat berinteraksi dengan sistem. Dalam desain interaksi, penting untuk mempertimbangkan keterbatasan pengguna, seperti kapasitas memori kerja yang terbatas dan perhatian selektif, sehingga antarmuka harus dirancang agar meminimalkan beban kognitif. Oleh karena itu, penerapan prinsip kognitif dalam desain interaksi, seperti penyederhanaan informasi, konsistensi tata letak, dan penggunaan metafora visual yang familiar, sangat diperlukan agar sistem lebih intuitif dan mudah digunakan. Sekian , terimakasih Salam, Fahri",
+          "replies": []
+        },
+        {
+          "id": "p467193",
+          "author": "Micheline Wijaya Limbergh",
+          "date": "2025-02-16T17:17:50+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore pak. Minggu ini hal baru yang saya dapatkan adalah bagaimana banyaknya aspek yang sebelumnya belum pernah saya sadari dalam mempertimbangkan UI dari sebuah website. Saya belajar bahwa persepsi dari User juga didukung oleh penguatan atensi, metakognisi, dan lainnya menjadi sangat amat penting dalam pembuatan desain. Sekian, terimakasih",
+          "replies": []
+        },
+        {
+          "id": "p467199",
+          "author": "Nasha Zahira",
+          "date": "2025-02-16T17:42:13+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, kakak-kakak Asdos, dan teman-teman. Berikut adalah refleksi saya untuk minggu ini. Minggu ini, saya belajar tentang bagaimana prinsip kognitif manusia berperan penting dalam desain interaksi. Prinsip kognitif bukan sekadar teori, tetapi sangat praktis. Desain yang baik adalah yang memahami keterbatasan manusia (seperti memori terbatas, mudah terdistraksi) dan mengakomodasinya melalui interface yang intuitif. Pengalaman buruk menggunakan aplikasi seringkali terjadi karena desainer mengabaikan prinsip ini, sementara aplikasi favorit saya (Instagram, spotify, dll) berhasil karena memanfaatkan atensi, persepsi, dan mental model dengan baik. Saya akan lebih kritis dalam mengevaluasi desain interface sebagai pengguna maupun desainer. Misalnya adalah mulai mempertanyakaan hal seperti \"Apakah layout ini mengurangi beban kognitif?\" atau \"Bagaimana cara menyesuaikan desain dengan model mental pengguna?\". Hal ini tidak hanya meningkatkan keterampilan desain, tetapi juga empati terhadap pengguna. Sekian dari saya. Terima kasih. Salam, Nasha",
+          "replies": []
+        },
+        {
+          "id": "p467205",
+          "author": "Nisa Najla Hanina Hasanah",
+          "date": "2025-02-16T17:57:18+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Sore Pak Baginda, tim asdos, dan teman-teman semua. Izin menyampaikan beberapa hal yang saya dapatkan setelah mengikuti kelas Sister pekan ini. Minggu ini, saya memahami bahwa desain interaksi tidak hanya soal estetika dan fungsionalitas, tetapi juga bagaimana otak manusia memproses informasi. Salah satu konsep yang paling menarik bagi saya adalah mental model. Saya jadi memahami bahwa ketika kita menggunakan suatu aplikasi, kita sebenarnya membentuk ekspektasi tertentu berdasarkan pengalaman sebelumnya. Jika desain tidak sesuai dengan ekspektasi pengguna, maka akan muncul kebingungan. Hal tersebut sesuai dengan pengalaman pribadi saya saat pertama kali menggunakan aplikasi baru. Saya sering kali merasa bingung ketika antarmuka tidak sesuai dengan yang saya bayangkan berdasarkan penggunaan saya pada aplikasi lain sebelumnya. Selain itu, saya juga mulai menyadari pentingnya atensi dalam desain. Saat menggunakan aplikasi, saya sering tidak menyadari bagaimana elemen-elemen seperti warna, spasi, atau animasi membantu mengarahkan perhatian saya ke informasi penting. Namun setelah mempelajari materi ini, saya lebih paham bagaimana desainer menggunakan prinsip ini untuk menciptakan pengalaman yang lebih efisien dan intuitif bagi pengguna. Sekian dari refleksi saya pekan ini, terima kasih. Salam, Nisa",
+          "replies": []
+        },
+        {
+          "id": "p467217",
+          "author": "Indah Cahya Puspitahati",
+          "date": "2025-02-16T19:02:17+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, tim asdos, dan teman-teman semuanya. Izin membagikan refleksi terkait materi perkuliahan minggu ini. Pada minggu ini, saya mempelajari bahwa aspek kognisi seperti atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi sangat berperan dalam bagaimana pengguna berinteraksi dengan suatu sistem. Saya semakin memahami bahwa desain sistem interaksi bukan hanya soal estetika, tetapi juga bagaimana sistem dapat membantu atau mengurangi beban kognitif pengguna agar pengalaman penggunaan menjadi lebih efektif dan intuitif. Saya juga menyadari bahwa mengurangi beban kognitif sangat penting agar pengguna tidak merasa terbebani saat menggunakan antarmuka. Dengan menerapkan desain yang sederhana, konsisten, dan menggunakan elemen yang familiar, sistem dapat lebih mudah dipahami dan digunakan tanpa memerlukan usaha yang berlebihan dari para pengguna. Sekian yang dapat saya sampaikan, terima kasih. Salam, Indah",
+          "replies": []
+        },
+        {
+          "id": "p467230",
+          "author": "Daffa Abhipraya Putra",
+          "date": "2025-02-16T19:42:02+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, Kakak Asdos, dan teman-teman semuanya, Minggu ini, saya belajar banyak tentang bagaimana prinsip-prinsip kognitif dapat memengaruhi desain interaksi pengguna. Salah satu hal yang paling menarik adalah konsep cognitive load, di mana saya baru sadar bahwa terlalu banyak informasi yang ditampilkan sekaligus dapat membebani pengguna dan memperlambat proses pengambilan keputusan. Selain itu, mental model juga menjadi penting dalam desain. Saya menyadari bahwa jika desain tidak sesuai dengan ekspektasi atau pengalaman sebelumnya pengguna, hal itu bisa membingungkan mereka. Hal ini membuat saya lebih sadar bahwa desain yang baik harus mempertimbangkan cara pengguna berpikir dan berinteraksi dengan sistem. Secara keseluruhan, materi minggu ini membuka wawasan saya tentang pentingnya desain yang tidak hanya menarik, tetapi juga intuitif dan mudah dipahami oleh pengguna. Saya semakin termotivasi untuk mengaplikasikan prinsip-prinsip kognitif ini dalam pekerjaan dan proyek saya ke depan. Sekian, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467241",
+          "author": "Sultan Ibnu Mansiz",
+          "date": "2025-02-16T20:08:45+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam, Pak Baginda, Kaka-kaka asdos, dan teman-teman semua! Minggu ini, saya mempelajari prinsip-prinsip kognisi dalam desain interaksi, terutama bagaimana perhatian, persepsi, memori, dan mental model memengaruhi pengalaman pengguna. Saya menyadari bahwa desain yang efektif tidak hanya mempertimbangkan estetika, tetapi juga bagaimana sistem mendukung cara berpikir pengguna. Misalnya, ikon yang familiar dan tata letak yang konsisten membantu mengurangi beban kognitif dan mempercepat adaptasi. Selain itu, penggunaan warna, layout, dan spasi yang tepat dapat meningkatkan fokus dan pemahaman pengguna terhadap informasi. Pembelajaran ini juga membuat saya lebih kritis dalam mengevaluasi desain aplikasi yang sering saya gunakan. Saya melihat bagaimana aplikasi ride-hailing menerapkan prinsip persepsi dan memori melalui feedback visual dan ikon yang mudah dikenali. Kesadaran akan pentingnya metakognisi dalam desain semakin memperkuat pemahaman saya bahwa antarmuka yang baik bukan hanya alat, tetapi juga dapat membimbing pengguna dalam berpikir dan mengambil keputusan dengan lebih efisien. Sekian dari saya, terima kasih!",
+          "replies": []
+        },
+        {
+          "id": "p467265",
+          "author": "Crysandya Vic Rajendra",
+          "date": "2025-02-16T21:11:14+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat Malam Pak Baginda dan kakak asdos, berikut adalah weekly reflection saya Proses Kognitif dalam Interaksi Pengguna Memahami atensi, persepsi, dan memori membantu dalam merancang antarmuka yang lebih efektif agar pengguna dapat berinteraksi dengan sistem secara optimal. Atensi dan Persepsi dalam Desain Multitasking dapat menurunkan fokus, sehingga desain harus membantu pengguna menyaring informasi. Ikon yang familiar, tata letak yang rapi, dan warna kontras juga mempermudah navigasi. Memori dan Kemudahan Penggunaan Pengguna lebih mudah mengenali informasi yang pernah dilihat sebelumnya. Oleh karena itu, fitur seperti riwayat pencarian, rekomendasi, dan ikon yang konsisten dapat meningkatkan efisiensi sistem. Bahasa dan Pengambilan Keputusan Penggunaan bahasa yang jelas serta tutorial singkat membantu pemahaman pengguna. Selain itu, sistem yang menyediakan informasi relevan dan opsi yang tepat dapat mendukung pengambilan keputusan yang lebih baik.",
+          "replies": []
+        },
+        {
+          "id": "p467270",
+          "author": "Karolina Jocelyn",
+          "date": "2025-02-16T21:21:28+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda dan tim asdos, Pada minggu kedua ini, saya mempelajari suatu hal menarik bahwa membuat suatu desain UI/UX itu harus berdasarkan prinsip kognisi. Saya mempelajari beberapa prinsip kognisi seperti: Atensi, yaitu proses seleksi informasi sebagai pusat konsentrasi pengguna, menentukan mana informasi yang relevan agar pengguna tidak pusing melihatnya. Persepsi, yaitu informasi yang diberikan harus mudah dipahami agar pengguna bisa mengambil keputusan dengan cepat, seperti ikon yang bermakna. Memori, yaitu seperti mengadakan history pencarian agar pengguna bisa mengenali. Pembelajaran, yaitu membuat desain yang mendorong eksplorasi tanpa membuat menjadi membingungkan. Kebahasaan, yaitu seperti menggunakan bahasa yang tepat, jelas, dan familiar bagi pengguna. Metakognisi, yaitu bagaimana pengguna merencanakan cara mempelajari sesuatu, seperti dengan adanya halaman tutorial. Saya tertarik terhadap prinsip2 ini karena saya berefleksi ketika membuka aplikasi sesuatu, saya melihat apakah aplikasi ini sudah sesuai dengan prinsip-prinsip ini. Saya juga sadar bahwa aplikasi-aplikasi yang saya kurang sukai, ternyata memiliki beberapa kekurangan dalam salah satu prinsip yang telah dipelajari. Sekian dari saya, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467287",
+          "author": "Nabeel Muhammad",
+          "date": "2025-02-16T21:48:22+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam, Pak Baginda dan kakak-kakak asdos kelas E. Minggu ini, saya mendapatkan banyak wawasan tentang bagaimana kognisi manusia memengaruhi desain interaksi. Beberapa hal yang paling menarik bagi saya: Beban Kognitif Semakin banyak informasi yang harus diproses, semakin besar usaha yang diperlukan untuk memahaminya. Saya langsung teringat pengalaman menggunakan fitur filter di e-marketplace yang terlalu banyak opsi, justru membuat saya bingung memilih daripada terbantu. Mental Model Pengguna memiliki ekspektasi terhadap cara kerja suatu sistem. Jika desainnya tidak sesuai dengan kebiasaan mereka, maka akan sulit dipahami. Saya pernah mengalami ini ketika menemukan aplikasi dengan tombol back yang tidak berfungsi seperti yang saya harapkan, sehingga saya justru salah navigasi. Atensi & Memori Desain yang baik harus menarik perhatian di tempat yang tepat dan mengurangi kebutuhan untuk mengingat terlalu banyak informasi. Saya semakin menyadari pentingnya feedback visual, seperti perubahan warna atau animasi saat tombol diklik, agar pengguna yakin bahwa aksinya berhasil. Dari refleksi ini, saya memahami bahwa desain bukan hanya soal estetika, tetapi juga tentang menciptakan pengalaman pengguna yang lebih intuitif dan nyaman. Salam, Nabeel",
+          "replies": []
+        },
+        {
+          "id": "p467307",
+          "author": "Nabilah Devina Mu'Min",
+          "date": "2025-02-16T22:30:31+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam pak Baginda, saya Nabilah Devina Mumin izin untuk menyampaikan refleksi saya dari perkuliahan Sistem Interaksi pekan 2 Pada minggu ini, saya semakin memahami bahwa desain interaksi bukan sekadar tentang estetika, tetapi juga harus sesuai dengan cara berpikir pengguna. Salah satu konsep yang paling menarik bagi saya adalah mental model, yaitu bagaimana ekspektasi pengguna terhadap suatu fitur bisa berbeda dari cara fitur tersebut dirancang. Saya pernah mengalami kebingungan saat menggunakan aplikasi karena fitur yang saya kira akan berfungsi dengan cara tertentu ternyata bekerja dengan cara yang berbeda. Dari pengalaman tersebut, saya menyadari bahwa desain yang efektif harus memperhitungkan pola pikir pengguna agar lebih mudah dipahami dan digunakan. Selain itu, konsep cognitive load membuat saya lebih menyadari pengalaman saya sendiri dalam menggunakan aplikasi. Sekarang saya memahami mengapa beberapa aplikasi terasa lebih nyaman digunakan—mereka mampu mengurangi beban kognitif dengan menyajikan informasi secara bertahap dan tidak berlebihan. Ketika terlalu banyak informasi ditampilkan sekaligus, otak lebih cepat merasa lelah, sehingga pengalaman pengguna menjadi kurang optimal. Secara keseluruhan, pembelajaran minggu ini membuat saya semakin sadar bahwa desain yang baik adalah desain yang terasa alami dan tidak membebani pengguna dalam memahami serta berinteraksi dengan sistem",
+          "replies": []
+        },
+        {
+          "id": "p467344",
+          "author": "Rebecca Zaneta Octoria Hutajulu",
+          "date": "2025-02-16T23:11:33+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, tim asdos, dan teman-teman Sister E. Minggu ini, saya mendapatkan banyak wawasan baru tentang bagaimana prinsip-prinsip kognitif berperan dalam desain sistem interaksi. Salah satu hal yang paling menarik bagi saya adalah konsep Cognitive Load—bagaimana beban kognitif yang terlalu tinggi dapat menghambat pengalaman pengguna dalam berinteraksi dengan suatu sistem. Saya jadi teringat pengalaman pribadi saat pertama kali menggunakan Figma. Awalnya, saya merasa bingung karena banyaknya fitur dan shortcut yang harus diingat. Namun, setelah memahami prinsip recognition over recall, saya menyadari betapa pentingnya elemen-elemen seperti ikon yang intuitif, tooltips, dan UI yang membantu user mengenali fungsi tanpa harus mengingat banyak hal sekaligus. Saya jadi lebih memahami mengapa beberapa aplikasi terasa lebih “natural” digunakan dibandingkan yang lain—ternyata, ini berkaitan dengan sejauh mana desain aplikasi tersebut sesuai dengan ekspektasi mental pengguna. Misalnya, tombol berbentuk kartu dengan bayangan biasanya diasosiasikan sebagai sesuatu yang bisa diklik, sehingga pengguna tidak perlu berpikir dua kali untuk berinteraksi dengannya. Dari refleksi minggu ini, saya semakin sadar bahwa desain sistem interaksi yang baik bukan hanya tentang estetika, tetapi juga tentang bagaimana memahami cara kerja kognisi manusia. Hal ini membuat saya lebih memperhatikan aspek usability dalam proyek-proyek saya 😊 Sekian dari saya, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467345",
+          "author": "Andreas Timothy",
+          "date": "2025-02-16T23:11:43+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat sore kakak asdos dan pak Baginda, izin menyampaikan refleksi saya untuk minggu ini. Terdapat beberapa aspek kognisi dalam desain interaksi, yaitu: 1. Atensi: Kemampuan untuk fokus pada informasi tertentu sambil mengabaikan yang lain. Dalam interaksi sistem, atensi berperan dalam desain antarmuka yang tidak membebani pengguna dengan informasi berlebih. 2. Persepsi: Proses bagaimana pengguna menerima dan menginterpretasikan informasi dari lingkungan, seperti teks, warna, dan ikon. Desain sistem harus mempertimbangkan persepsi visual dan auditori agar mudah dipahami. 3. Memori: Kapasitas pengguna untuk menyimpan dan mengingat informasi. Sistem yang baik harus mengurangi beban memori dengan memberikan petunjuk dan desain yang intuitif agar pengguna tidak perlu mengingat terlalu banyak langkah. 4. Kebahasaan: Berkaitan dengan bagaimana pengguna memahami dan menggunakan bahasa dalam antarmuka. Pemilihan kata yang jelas dan konsisten dalam instruksi serta navigasi akan meningkatkan keterbacaan dan pemahaman. 5. Pembelajaran: Kemampuan pengguna untuk memahami dan menguasai sistem seiring waktu. Sistem yang efektif menyediakan pengalaman yang mudah dipelajari dengan feedback yang membantu pengguna memahami cara kerja fitur-fitur baru. 6. Metakognisi: Kesadaran pengguna terhadap cara mereka berpikir dan menyelesaikan masalah. Sistem yang mendukung refleksi dan pengambilan keputusan akan membantu pengguna memahami proses berpikir mereka sendiri dan meningkatkan interaksi yang lebih efisien. Sekian refleksi dari saya, terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467349",
+          "author": "Argya Farel Kasyara",
+          "date": "2025-02-16T23:13:39+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat siang tim asdos, Pak Baginda, dan teman-teman Sister E Izinkan saya memberikan refleksi minggu kedua. Pada minggu ini saya belajar tentang bagaimana aspek kognisi manusia berpengaruh dengan bagaimana kita mendesain sebuah aplikasi. Saya juga belajar tentang bagaimana mencari aspek-aspek tersebut dalam sebuah fitur aplikasi. Dengan kata lain, saya belajar untuk menganalisa desain sebuah aplikasi yang sudah ada dan mengaitkannya ke aspek kognisi manusia. Hal ini membuat saya lebih paham akan perbedaan desain yang bagus dan yang jelek. Desain yang jelek akan membebani kognisi penggunanya tetapi desain yang baik akan memudahkan penggunanya dalam menyelesaikan apa yang kita mereka mau. Saya juga belajar tentang aspek-aspek kognisi manusia dan bagaimana hal tersebut berkaitan dengan kehidupan saya sehari-hari terutama dalam pembelajaran. Salah satu aspek kognisi yang paling menarik bagi saya adalah persepsi. Persepsi merupakan proses di mana manusia memahami, menafsirkan, dan memberi makna pada informasi yang diterima melalui pancaindra. Dalam proses ini, kita sering kali secara otomatis mencari pola, hubungan, atau keterkaitan yang paling dekat dengan pengalaman sebelumnya. Hubungannya dengan desain interaksi adalah kita harus mencoba membuat desain kita se- relate mungkin dengan pengguna sehingga pengguna mudah untuk memakainya. Pertanyaan saya adalah bisa kah kita melawan prinsip desain tersebut dan masih mempunyai desain yang bagus? ataukah aspek persepsi tersebut sudah tertanam jauh di pikiran kita sehingga terdapat semacam aturan tidak tertulis dalam membuat sebuah desain? Sekian terima kasih.",
+          "replies": []
+        },
+        {
+          "id": "p467355",
+          "author": "Rizqya Az Zahra Putri",
+          "date": "2025-02-16T23:21:00+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam, Pak Baginda, tim asdos, dan teman-teman semua. Setelah mengikuti perkuliahan minggu ini, saya mendapat pemahaman lebih mengenai prinsip-prinsip kognitif dan hubungannya dengan desain interaksi. Ternyata, prinsip-prinsip kognitif sangat berperan dalam menciptakan desain interaksi yang efektif dan intuitif. Jika desain dari suatu aplikasi tidak sesuai dengan mental model pengguna, mereka bisa mengalami kebingungan, misalnya ketika ikon tidak mencerminkan fungsinya atau tata letak mengalami perubahan. Hal ini menunjukkan pentingnya menjaga konsistensi dan memastikan navigasi yang jelas agar pengguna dapat memahami dan menggunakan aplikasi dengan nyaman. Sekian refleksi dari saya. Terima kasih. Salam, Rizqya",
+          "replies": []
+        },
+        {
+          "id": "p467362",
+          "author": "Anders Willard Leo",
+          "date": "2025-02-16T23:28:21+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, kakak-kakak asdos, dan teman-teman semua. Izin memberikan insight yang saya dapatkan pada minggu ini Saya belajar bahwa ternyata terdapat banyak aspek-aspek yang harus diperhatikan dalam mendesain sebuah aplikasi selain estetikanya saja. Selain itu, saya belajar bagaimana menganalisis dan merancang desain sebuah aplikasi dari aspek kognisi manusia. Hal ini mencakup pemahaman tentang bagaimana pengguna berpikir, memproses informasi, dan berinteraksi dengan antarmuka yang diberikan. Dengan memperhatikan aspek ini, sebuah aplikasi dapat dirancang menjadi lebih intuitif dan nyaman digunakan oleh pengguna. Demikian dari saya. Terimakasih. Salam, Anders",
+          "replies": []
+        },
+        {
+          "id": "p467364",
+          "author": "Brian Altan",
+          "date": "2025-02-16T23:31:17+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, tim asdos, dan teman-teman semuanya, Minggu ini, saya belajar banyak tentang prinsip-prinsip kognitif dalam desain interaksi. Contohnya adalah Cognitive Load, di mana desain antarmuka harus dibuat dengan mengurangi beban kognitif agar pengguna tidak kesulitan fokus. Selain itu, Persepsi dan Atensi pengguna perlu dijaga melalui elemen visual seperti warna dan ikon. Hal yang paling berkesan bagi saya adalah Metakognisi, di mana antarmuka yang baik dapat memberikan feedback kepada pengguna dan mendukung pengambilan keputusan yang lebih efektif. Sekian refleksi saya minggu ini. Terima kasih!",
+          "replies": []
+        },
+        {
+          "id": "p467383",
+          "author": "Michael Ignasius",
+          "date": "2025-02-17T00:28:04+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak Baginda, izinkan saya memberikan refleksi tentang minggu ini. - Desain yang dibuat sebaiknya memperhatikan 6 aspek kognitif - Desain yang dibuat sebaiknya mengurangi beban kognitif pengguna Sekian refleksi saya, terima kasih. Salam, Michael",
+          "replies": []
+        },
+        {
+          "id": "p467384",
+          "author": "Andi Muhammad Adlyn Fakhreyza Khairi Putra",
+          "date": "2025-02-17T00:30:14+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat malam Pak baginda, tim asdos, dan teman-teman sekalian, Setelah mempelajari materi perkuliahan pekan ini, saya tersadar akan betapa pentingnya penerapan prinsip kognitif dalam merancang sistem interaksi yang intuitif dan efektif bagi pengguna. Ketidakseusaian antara desain antarmuka dengan model mental pengguna dapat menimbulkan kebingungan, misalnya ketika ikon memiliki makna ambigu atau terjadi perubahan tata letak yang tidak terduga. Hal menarik terkait kognisi yang menarik perhatian saya adalah persepsi dan memori, khususnya bagaimana manusia mengolah informasi berdasarkan pola pengalaman sebelumnya. Hal ini mempertegas pentingnya menggunakan elemen desain yang konsisten dan yang telah dikenal pengguna. Pembelajaran ini mengubah perspektif saya bahwa merancang aplikasi bukan sekadar memperhatikan estetika visual, tetapi tetapi juga harus memperhatikan proses kognitif pengguna dalam memproses informasi dan beradaptasi dengan antarmuka, sehingga menciptakan pengalaman yang mudah dan menyenangkan. Sekian Terima kasih, Andi Muhammad Adlyn Fakhreyza Khairi Putra",
+          "replies": []
+        },
+        {
+          "id": "p467453",
+          "author": "Fransisca Ellya Bunaren",
+          "date": "2025-02-17T08:27:07+07:00",
+          "subject": "Re: [Kelas E] Weekly Reflection Minggu 2",
+          "content": "Selamat pagi. Pak Bagindan, dan teman-teman Sister E, Mendesain harus menganalisa juga kognisi ketika berinteraksi dengan produk. Proses kognitif ada atensi (fokus), persepsi (cara pengguna memahami informasi dan bagaimana desain memudahkan pemahaman), memori (kemampuan mengenali daripada mengingat), pembelajaran (bagaimana desai mendukung proses belajar pengguna), kebahasaan (peran bahasa dalam antarmuka), dan metakognisi (kesadaran pengguna terhadap proses berpikir serta mengambil keputusan). Sekian dari saya, terima kasih. Salam, Fransisca",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}
