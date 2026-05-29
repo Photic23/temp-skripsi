@@ -1,10 +1,17 @@
+import html as _html
+import math
 import os
 import re
+import unicodedata
 from langdetect import detect
 from dotenv import load_dotenv
 
+import torch
 from flask import Flask, request, jsonify
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+print(f"Using device: {DEVICE}")
 
 # Load environment variables
 load_dotenv()
@@ -17,9 +24,28 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 USE_CLAUDE = os.getenv("USE_CLAUDE", "false").lower() == "true"
 CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-haiku-4-5-20251001")
+USE_T5_INDONESIAN = os.getenv("USE_T5_INDONESIAN", "false").lower() == "true"
+USE_LEXRANK = os.getenv("USE_LEXRANK", "false").lower() == "true"
 
-# Whitespace normalizer required by mT5_multilingual_XLSum
-WHITESPACE_HANDLER = lambda k: re.sub(r'\s+', ' ', re.sub(r'\n+', ' ', k.strip()))
+# Whitespace normalizer required by mT5_multilingual_XLSum.
+# Uses '. ' instead of ' ' for newlines to preserve post boundary information
+# as sentence separators rather than collapsing all structure into a flat blob.
+WHITESPACE_HANDLER = lambda k: re.sub(r' +', ' ', re.sub(r'\n+', '. ', k.strip()))
+
+
+def clean_text(text):
+    """Normalize raw user-generated text before it enters the summarization pipeline.
+
+    Applied once at the input boundary so all model backends receive consistent,
+    clean input regardless of how the forum frontend stores post content.
+    """
+    text = _html.unescape(text)                    # &amp; → &, &lt; → <, etc.
+    text = re.sub(r'<[^>]+>', ' ', text)           # strip HTML tags
+    text = re.sub(r'https?://\S+', '', text)       # remove bare URLs
+    text = unicodedata.normalize('NFKC', text)     # NBSP, curly quotes, ligatures
+    text = re.sub(r'\n+', '. ', text.strip())      # newlines → sentence separator
+    text = re.sub(r' +', ' ', text)                # collapse repeated spaces
+    return text.strip()
 
 # Initialize models
 if USE_CLAUDE:
@@ -35,11 +61,25 @@ elif USE_GEMINI:
     from google.genai import types
     client = genai.Client(api_key=GEMINI_API_KEY)
     print("Using Gemini API for summarization")
+elif USE_T5_INDONESIAN:
+    T5_ID_MODEL_NAME = "panggi/t5-base-indonesian-summarization-cased"
+    t5_id_tokenizer = AutoTokenizer.from_pretrained(T5_ID_MODEL_NAME)
+    t5_id_model = AutoModelForSeq2SeqLM.from_pretrained(T5_ID_MODEL_NAME).to(DEVICE)
+    print(f"Using T5 Indonesian model: {T5_ID_MODEL_NAME} on {DEVICE}")
+elif USE_LEXRANK:
+    import nltk
+    nltk.download('punkt', quiet=True)
+    nltk.download('punkt_tab', quiet=True)
+    from sumy.parsers.plaintext import PlaintextParser
+    from sumy.nlp.tokenizers import Tokenizer as SumyTokenizer
+    from sumy.summarizers.lex_rank import LexRankSummarizer
+    _lexrank_summarizer = LexRankSummarizer()
+    print("Using LexRank extractive summarization")
 else:
     MT5_MODEL_NAME = "csebuetnlp/mT5_multilingual_XLSum"
     mt5_tokenizer = AutoTokenizer.from_pretrained(MT5_MODEL_NAME)
-    mt5_model = AutoModelForSeq2SeqLM.from_pretrained(MT5_MODEL_NAME)
-    print(f"Using mT5 multilingual model: {MT5_MODEL_NAME}")
+    mt5_model = AutoModelForSeq2SeqLM.from_pretrained(MT5_MODEL_NAME).to(DEVICE)
+    print(f"Using mT5 multilingual model: {MT5_MODEL_NAME} on {DEVICE}")
 
 # Token budget reserved for the context prefix prepended to each chunk:
 # "Previous summary: {summary}. " or "Ringkasan sebelumnya: {summary}. "
@@ -55,11 +95,13 @@ MIN_TOKENS_TO_SUMMARIZE = 50
 def count_tokens(text):
     """Count tokens for the active model.
 
-    Uses the mT5 tokenizer for exact counts, or word count as a fast
-    approximation when running against a cloud API.
+    Uses the model's own tokenizer for exact counts, or word count as a fast
+    approximation when running against a cloud API or LexRank.
     """
-    if USE_CLAUDE or USE_GEMINI:
+    if USE_CLAUDE or USE_GEMINI or USE_LEXRANK:
         return len(text.split())
+    if USE_T5_INDONESIAN:
+        return len(t5_id_tokenizer.encode(text, add_special_tokens=False))
     return len(mt5_tokenizer.encode(text, add_special_tokens=False))
 
 
@@ -139,6 +181,40 @@ Summary:"""
         raise
 
 
+def generate_summary_with_t5_indonesian(input_text, language=None):
+    """Generate summary using panggi/t5-base-indonesian-summarization-cased."""
+    input_ids = t5_id_tokenizer.encode(
+        input_text,
+        return_tensors="pt",
+        truncation=True,
+        max_length=512,
+    ).to(DEVICE)
+    output_ids = t5_id_model.generate(
+        input_ids,
+        max_length=150,
+        num_beams=4,
+        repetition_penalty=2.5,
+        length_penalty=1.5,
+        no_repeat_ngram_size=3,
+        early_stopping=True,
+    )[0]
+    return t5_id_tokenizer.decode(output_ids, skip_special_tokens=True)
+
+
+def generate_summary_with_lexrank(input_text, language=None):
+    """Generate extractive summary using LexRank.
+
+    Selects the most representative sentences from the input rather than
+    generating new text — no hallucination, output length scales with input.
+    """
+    parser = PlaintextParser.from_string(input_text, SumyTokenizer("english"))
+    total_sentences = len(list(parser.document.sentences))
+    # Extract roughly 1 sentence per 3 input sentences, between 2 and 7.
+    sentences_count = max(2, min(7, math.ceil(total_sentences / 3)))
+    summary_sentences = _lexrank_summarizer(parser.document, sentences_count)
+    return " ".join(str(s) for s in summary_sentences)
+
+
 def generate_summary(input_text, language=None):
     """Run the appropriate model based on configuration."""
     if USE_CLAUDE:
@@ -153,6 +229,18 @@ def generate_summary(input_text, language=None):
         print(f"[Gemini API] Generating summary for {language} text")
         return generate_summary_with_gemini(input_text, language)
 
+    if USE_T5_INDONESIAN:
+        if language is None:
+            language = detect_language(input_text)
+        print(f"[T5-Indonesian] Generating summary for {language} text")
+        return generate_summary_with_t5_indonesian(input_text, language)
+
+    if USE_LEXRANK:
+        if language is None:
+            language = detect_language(input_text)
+        print(f"[LexRank] Generating extractive summary for {language} text")
+        return generate_summary_with_lexrank(input_text, language)
+
     # mT5 multilingual (default)
     if language is None:
         language = detect_language(input_text)
@@ -163,13 +251,18 @@ def generate_summary(input_text, language=None):
         padding="max_length",
         truncation=True,
         max_length=512,
-    )["input_ids"]
+    )["input_ids"].to(DEVICE)
+    # Scale min_length to input size to avoid forcing hallucination on short posts.
+    input_token_count = len(mt5_tokenizer.encode(input_text, add_special_tokens=False))
+    dynamic_min = max(20, min(80, input_token_count // 3))
+
+    num_beams = 4 if DEVICE == "cuda" else 1
     output_ids = mt5_model.generate(
         input_ids=input_ids,
-        min_length=80,
+        min_length=dynamic_min,
         max_new_tokens=256,
         no_repeat_ngram_size=3,
-        num_beams=4,
+        num_beams=num_beams,
         length_penalty=1.5,
         repetition_penalty=1.2,
         early_stopping=True,
@@ -227,13 +320,26 @@ def recursive_summarize(text, previous_summary=None, language=None):
     if language is None:
         language = detect_language(text)
 
-    max_tokens = 32000 if (USE_GEMINI or USE_CLAUDE) else 512
+    max_tokens = 32000 if (USE_GEMINI or USE_CLAUDE) else (4096 if USE_LEXRANK else 512)
     chunk_budget = max_tokens - (CONTEXT_RESERVE if previous_summary else 0)
     chunks = chunk_text(text, chunk_budget)
 
     summary = previous_summary
     for i, chunk in enumerate(chunks):
         if summary:
+            # Clamp the rolling summary so prefix + chunk never exceeds max_tokens.
+            # mT5 can emit up to 256 tokens but CONTEXT_RESERVE is only 160; without
+            # clamping a long summary would push the total input over 512 and the
+            # tokenizer would silently truncate the trailing content of the chunk.
+            context_token_limit = CONTEXT_RESERVE - 5  # 5 tokens for prefix literal
+            if not (USE_GEMINI or USE_CLAUDE or USE_LEXRANK or USE_T5_INDONESIAN):
+                summary_ids = mt5_tokenizer.encode(summary, add_special_tokens=False)
+                if len(summary_ids) > context_token_limit:
+                    summary = mt5_tokenizer.decode(
+                        summary_ids[:context_token_limit],
+                        skip_special_tokens=True,
+                        clean_up_tokenization_spaces=False,
+                    )
             if language == "id":
                 input_text = f"Ringkasan sebelumnya: {summary}. {chunk}"
             else:
@@ -282,9 +388,9 @@ def summarize_post_thread(post, parent_context=None, _depth=0, max_depth=50):
       langdetect to flip between models at different tree levels.
     """
     if _depth > max_depth:
-        return post.get("content", "").strip()
+        return clean_text(post.get("content", ""))
 
-    content = post.get("content", "").strip()
+    content = clean_text(post.get("content", ""))
     author = post.get("author", "Unknown")
     replies = post.get("replies", [])
 
@@ -361,7 +467,7 @@ def summarize():
     if not data or "text" not in data:
         return jsonify({"error": "Field 'text' is required"}), 400
 
-    text = data["text"]
+    text = clean_text(data["text"])
     previous_summary = data.get("previous_summary")
 
     summary = recursive_summarize(text, previous_summary)

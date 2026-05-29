@@ -7,3 +7,6 @@ langdetect
 google-genai
 anthropic
 python-dotenv
+rouge-score
+bert-score
+sumy

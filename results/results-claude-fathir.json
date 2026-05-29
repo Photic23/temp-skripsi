@@ -1,0 +1,917 @@
+{
+  "averages": {
+    "rouge": {
+      "rouge1": 0.3315,
+      "rouge2": 0.0912,
+      "rougeL": 0.1947
+    },
+    "bertscore": {
+      "precision": 0.749,
+      "recall": 0.7055,
+      "f1": 0.7264
+    }
+  },
+  "entries": [
+    {
+      "id": "sister-gasal-20232024\\week1",
+      "title": "Weekly Reflection #1 (Due: 3 Sep 2023 23:59)",
+      "course": "SISTER Gasal 2023/2024",
+      "generated_summary": "# Ringkasan Konten\n\nDosen Syifa meminta mahasiswa Sistem Interaksi membuat refleksi pembelajaran minggu pertama, bukan ringkasan materi. Refleksi mahasiswa mengungkapkan pemahaman kunci: desain interaksi bukan hanya estetika, tetapi keseimbangan UI, usability, dan UX yang melibatkan pengguna. Prinsip utama mencakup visibility, feedback, constraints, consistency, dan affordance. Mahasiswa menyadari pentingnya memahami kebutuhan pengguna untuk menciptakan produk yang fungsional, intuitif, dan memberikan pengalaman optimal dalam kehidupan sehari-hari.",
+      "reference_summary": "Berdasarkan beragam sudut pandang yang disampaikan, desain interaksi lebih dari sekadar tampilan visual yang menarik, melainkan adalah solusi praktis untuk mengatasi permasalahan pengguna. desain dapat menjadi \"pisau bermata dua,\" di mana inovasi visual dapat gagal memberikan nilai tambah jika kebutuhan pengguna tidak dipahami secara mendalam. topik menarik lainnya yang diangkat adalah urgensi dalam menetapkan tujuan usability dan user experience yang terukur, termasuk aspek seperti efektivitas, efisiensi, keamanan, dan kemampuan pembelajaran (learnability). Saya memahami bahwa elemen desain yang tampak sederhana memiliki dampak signifikan. misalnya, prinsip visibilitas dapat memicu pemahaman intuitif tentang fungsi suatu produk. Selain itu, umpan balik (feedback), seperti informasi yang muncul saat kursor diarahkan ke fitur tertentu (hover), terbukti efektif dalam mempercepat proses pembelajaran pengguna. Secara keseluruhan, pemahaman tentang pola yang konsisten dan interaksi yang nyaman akan menumbuhkan kepercayaan pengguna terhadap suatu sistem, baik dalam konteks aplikasi e-commerce, konsol permainan, atau perangkat sehari-hari.",
+      "rouge": {
+        "rouge1": 0.2381,
+        "rouge2": 0.0385,
+        "rougeL": 0.1238
+      },
+      "bertscore": {
+        "precision": 0.7176,
+        "recall": 0.6861,
+        "f1": 0.7015
+      }
+    },
+    {
+      "id": "sister-gasal-20232024\\week2",
+      "title": "Weekly Reflection #2 | Due: 09/09/2023 23:59",
+      "course": "SISTER Gasal 2023/2024",
+      "generated_summary": "# Ringkasan\n\nMahasiswa Sistem Interaksi merefleksikan pembelajaran minggu kedua tentang prinsip kognitif dalam desain interaksi. Mereka mempelajari enam proses kognisi: atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Pemahaman tentang hukum-hukum desain (Miller's Law, Hick's Law, Law of Similarity) diterapkan dalam merancang UI/UX yang user-friendly. Konsep-konsep ini penting untuk menciptakan interaksi efektif, meningkatkan kepuasan pengguna, dan mempertimbangkan kebutuhan kognitif pengguna dalam setiap elemen desain.",
+      "reference_summary": "Dalam forum diskusi selama sepekan terakhir, isu sentral yang diperbincangkan adalah prinsip-prinsip kognitif dalam perancangan interaksi. Pemahaman tentang kognisi sebagai aktivitas mental yang berlangsung saat individu belajar menjadi esensial dalam menghasilkan desain aplikasi atau situs web yang intuitif serta efektif. Perbincangan tersebut mencakup pembedaan kognisi menjadi kognisi eksperiensial dan kognisi reflektif (membutuhkan fokus penuh), serta mengacu pada enam tahapan kognisi menurut Eysenck & Brysbaert (2018): atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Selanjutnya, implementasi konkret dari prinsip-prinsip tersebut dalam desain juga dibahas, seperti penataan informasi untuk menarik atensi, pemakaian kontras warna untuk meningkatkan persepsi, penggunaan ikon/label untuk mempermudah memori, penyediaan panduan untuk mendukung pembelajaran, pemilihan tipografi yang tepat untuk kebahasaan, hingga fitur \"favorit\" untuk memfasilitasi metakognisi. Contoh penerapan praktis turut disertakan, misalnya bagaimana ikon-ikon pada Instagram menimbulkan harapan tertentu pada pengguna. Selain itu, diskusi ini menghubungkan aspek kognisi dengan berbagai Law of UX, termasuk Law of Similarity, Miller's Law terkait kapasitas memori kerja, Hick's Law, Jakob's Law, Tesler's Law, serta Goal Gradient Hypothesis. Kesimpulan umum yang diperoleh dari forum ini adalah bahwa desain interaksi yang efektif harus tidak hanya berfokus pada aspek estetika, tetapi juga mengedepankan empati terhadap proses kognitif pengguna, sehingga interaksi terasa lebih mudah, efisien, dan meningkatkan kepuasan pengguna.",
+      "rouge": {
+        "rouge1": 0.3188,
+        "rouge2": 0.146,
+        "rougeL": 0.2029
+      },
+      "bertscore": {
+        "precision": 0.7771,
+        "recall": 0.7027,
+        "f1": 0.7381
+      }
+    },
+    {
+      "id": "sister-gasal-20232024\\week3",
+      "title": "Weekly Reflection #3 | Due: 16/09/2023 23:59",
+      "course": "SISTER Gasal 2023/2024",
+      "generated_summary": "# Ringkasan Padat\n\nPembelajaran Sistem Interaksi minggu ketiga membahas interaksi sosial dalam desain interaksi. Materi mencakup empat jenis komunikasi: asynchronous/synchronous dan in-person/online. Konsep kunci meliputi telepresence (teknologi menciptakan kehadiran virtual) dan co-presence (penggunaan teknologi kolaboratif simultan). Mahasiswa memahami bahwa pemilihan media komunikasi dipengaruhi waktu, jarak, dan jumlah partisipan, serta pentingnya interaksi sosial untuk komunikasi efektif dan membangun hubungan bermakna dalam aplikasi digital.",
+      "reference_summary": "Isu utama yang menjadi fokus diskusi di forum Refleksi Mingguan minggu ketiga, berdasarkan pengamatan terhadap berbagai unggahan, adalah mengenai \"Interaksi Sosial dalam Desain Interaksi\". diskusi yang ada memperlihatkan kesepahaman bersama tentang krusialnya pemahaman mengenai mekanisme interaksi sosial, mengingat perannya yang fundamental dalam kehidupan sehari-hari serta dampaknya yang signifikan terhadap suatu produk. Topik-topik yang menonjol meliputi kategorisasi tipe tipe komunikasi ke dalam empat bagian berdasarkan dimensi waktu dan lokasi, yaitu: asinkron tatap muka (contoh: catatan tempel), asinkron daring (contoh: utas diskusi forum), sinkron tatap muka (contoh: pertemuan langsung), dan sinkron daring (contoh: perkuliahan melalui Zoom/Google Meet). Diskusi juga menyentuh aturan-aturan dasar dalam percakapan (permulaan, tanggapan, keberlanjutan) dan bagaimana aturan-aturan ini sedikit berbeda dalam lingkungan digital. Sejumlah mahasiswa juga memberikan perhatian khusus dan definisi terhadap konsep teknologi baru yang dipelajari, yaitu Telepresence teknologi virtual yang memungkinkan pengguna merasakan kehadiran fisik dalam situasi yang berjauhan dan Co Presence atau Teknologi yang Dapat Dibagikan kemampuan teknologi untuk digunakan secara simultan oleh banyak pengguna (seperti GDocs, Figma, dan Canva). Selain itu, terdapat pula mahasiswa yang melakukan eksplorasi dengan menganalisis aplikasi tertentu seperti iMessage dalam kerangka interaksi sosial dan kolaborasi. Secara umum, pemahaman ini dianggap sangat berharga untuk memperluas pengetahuan mahasiswa dalam mendesain aplikasi atau situs web agar interaksi pengguna menjadi lebih mudah.",
+      "rouge": {
+        "rouge1": 0.2383,
+        "rouge2": 0.0655,
+        "rougeL": 0.1733
+      },
+      "bertscore": {
+        "precision": 0.7144,
+        "recall": 0.6406,
+        "f1": 0.6755
+      }
+    },
+    {
+      "id": "sister-gasal-20232024\\week4",
+      "title": "Weekly Reflection #4 dan #5 (Due: 30 Sept 2023 23:59 WIB)",
+      "course": "SISTER Gasal 2023/2024",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi merefleksikan pembelajaran minggu ke-4 dan ke-5. Minggu ke-4 mencakup perbedaan UI/UX, usability, serta Shneiderman's Eight Golden Rules untuk desain antarmuka yang baik. Minggu ke-5 membahas metode desain interaksi: User-Centered Design, Activity-Centered Design, Genius Design, dan Design Sprint. Pemahaman pendekatan yang tepat penting untuk mengoptimalkan desain sistem interaksi yang efektif dan sesuai kebutuhan pengguna.",
+      "reference_summary": "Secara umum, forum ini membahas prinsip-prinsip dasar antarmuka dan metodologi desain interaksi. Pada diskusi minggu keempat, perhatian utama diberikan pada pemahaman perbedaan esensial antara User Interface (UI), User Experience (UX), dan Usability. Mahasiswa menjelaskan bahwa UI adalah tampilan visual yang dihadapi pengguna, UX adalah pengalaman pengguna secara keseluruhan, dan Usability adalah faktor penting dalam kemudahan penggunaan dan kepuasan pengguna. Diskusi juga mencakup berbagai jenis dan bentuk antarmuka (CLI, GUI, VUI, Haptic, VR, Wearable) serta pentingnya penerapan Shneiderman's Eight Golden Rules dan pertimbangan aksesibilitas bagi pengguna dengan keterbatasan, demi menghasilkan desain yang efektif dan inklusif. Selanjutnya, pada minggu kelima, forum berfokus pada proses desain interaksi melalui berbagai metodologi. Para mahasiswa berbagi pandangan mengenai berbagai pendekatan desain, termasuk User Centered Design (UCD) yang mengutamakan perspektif pengguna, Designer Centered Design, Activity Centered Design (ACD) yang menitikberatkan pada tugas, Genius Design yang mengandalkan intuisi desainer, dan framework Design Sprint yang terdiri dari 6 langkah untuk merancang dan menguji solusi dengan cepat. Kesimpulan dari diskusi ini menyoroti pentingnya pendekatan holistik yang menyatukan aspek visual (UI), pengalaman (UX), dan kegunaan (usability), serta kemampuan pengembang untuk beradaptasi dalam memilih metode desain yang paling sesuai dengan konteks dan tujuan produk. Demikian rangkuman yang dapat saya sampaikan berdasarkan diskusi forum. Saya mohon maaf atas segala kekurangan atau kesalahan.",
+      "rouge": {
+        "rouge1": 0.3321,
+        "rouge2": 0.1164,
+        "rougeL": 0.2455
+      },
+      "bertscore": {
+        "precision": 0.77,
+        "recall": 0.705,
+        "f1": 0.7361
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week1",
+      "title": "Weekly Reflection #1 (Deadline: Minggu, 1 September 2024 23:59)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan Padat\n\nPada minggu pertama perkuliahan Sistem Interaksi, mahasiswa mempelajari konsep fundamental desain interaksi meliputi: (1) Good Design yang menggabungkan estetika, usability, dan learnability; (2) pentingnya User Research untuk memahami kebutuhan pengguna yang beragam berdasarkan demografi dan budaya; (3) prinsip desain seperti Visibility, Feedback, dan Consistency; serta (4) bahwa desain berkualitas harus inklusif, user-friendly, dan disesuaikan dengan target pengguna spesifik.",
+      "reference_summary": "Perbincangan terpusat pada perbandingan antara Desain yang Baik versus Desain yang Buruk, serta signifikansi esensial dari Riset Pengguna. Terdapat kesepahaman umum bahwa desain yang berkualitas tidak hanya unggul dari sisi estetika visual, tetapi juga imperatif untuk mengutamakan kegunaan, efektivitas, dan efisiensi, sehingga inti dari sebuah produk dapat tersampaikan secara optimal kepada pengguna (seperti ilustrasi pada mangkuk sereal). Diskusi ini menggarisbawahi urgensi untuk mengerti perbedaan antara UI, UX, dan Usability, di mana UX yang baik bersumber dari desain yang mudah dipelajari (learnability) dan dipahami, sementara UI berperan sebagai penghubung yang mendukung. Proses pengembangan sistem yang ideal semestinya diawali dengan riset pengguna yang mendalam (seperti yang dipraktikkan pada LK 1) untuk memahami karakteristik, kebutuhan, dan preferensi dari berbagai lapisan demografis pengguna, termasuk batasan visual atau motorik yang mungkin dialami oleh pengguna lanjut usia. Lebih lanjut, relevansi prinsip-prinsip desain interaksi seperti Visibility, Feedback yang akurat, dan terutama Consistency (konsistensi tata letak menu/fungsi) ditekankan karena pengaruhnya yang krusial dalam mengurangi kebingungan pengguna, memfasilitasi navigasi, dan membangun kepercayaan pengguna terhadap sebuah aplikasi digital. Secara komprehensif, pemahaman akan materi ini mendorong mahasiswa untuk memiliki sikap proaktif dan responsif terhadap permasalahan pengguna, menjadi lebih analitis dalam mengevaluasi produk digital, serta semakin mengapresiasi proses desain yang berulang dan berpusat pada kebutuhan pengguna (user-centered design).",
+      "rouge": {
+        "rouge1": 0.2444,
+        "rouge2": 0.0597,
+        "rougeL": 0.163
+      },
+      "bertscore": {
+        "precision": 0.7687,
+        "recall": 0.7026,
+        "f1": 0.7341
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week10",
+      "title": "Weekly Reflection #10 (Deadline: Minggu, 17 November 2024)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan\n\nPada minggu ke-10, mahasiswa merefleksikan pembelajaran tentang Arsitektur Informasi dan Prototyping. Arsitektur informasi menekankan pengaturan informasi untuk memudahkan akses dan penemuan. Prototyping low-fidelity terbukti efektif untuk eksplorasi ide dan pengumpulan umpan balik awal. Insight kunci adalah pengguna sering tidak menyadari kebutuhan mereka hingga menggunakan produk, sehingga iterasi desain dalam pengembangan sistem interaksi sangat penting.",
+      "reference_summary": "Pemahaman saya berkembang mengenai Arsitektur Informasi sebagai fondasi pengaturan dan penyajian informasi yang memudahkan penemuan dan pemanfaatan. Konsep-konsep seperti usability dan findability merefleksikan pengalaman pribadi saya dalam menghadapi kesulitan pencarian dokumen pada platform dengan struktur yang kurang memadai. Diskusi mengenai prototyping membuka perspektif tentang urgensi memulai dengan pendekatan sederhana, seperti low-fidelity prototype, dalam rangka eksplorasi ide dan pengumpulan umpan balik. Aspek yang paling relevan bagi saya adalah realisasi bahwa pengguna seringkali belum menyadari kebutuhan mereka sampai mereka berinteraksi langsung dengan produk. Hal ini menekankan krusialnya iterasi dalam proses desain. Materi pembelajaran ini memberikan wawasan yang berharga untuk pengembangan desain di masa mendatang.",
+      "rouge": {
+        "rouge1": 0.4099,
+        "rouge2": 0.1132,
+        "rougeL": 0.2981
+      },
+      "bertscore": {
+        "precision": 0.81,
+        "recall": 0.7563,
+        "f1": 0.7822
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week11",
+      "title": "Weekly Reflection #11 (Deadline: Minggu, 24 November 2024)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan\n\nMahasiswa Sistem Interaksi mempelajari Figma minggu ini—software desain UI/UX yang dapat diakses melalui browser atau desktop. Fitur utamanya adalah kolaborasi real-time yang memungkinkan tim bekerja bersama dalam satu file, serta dukungan berbagai plugin seperti icon library dan color generator. Pembelajaran ini memberikan wawasan tentang pentingnya memanfaatkan tools modern untuk meningkatkan efisiensi desain interface.",
+      "reference_summary": "Pada minggu ini, fokus pembelajaran adalah pengenalan Figma sebagai perangkat lunak desain kontemporer yang krusial dalam pengembangan antarmuka pengguna (UI) dan pengalaman pengguna (UX). Pembelajaran ini menggarisbawahi bahwa Figma adalah alat serbaguna yang memungkinkan pembuatan beragam desain, termasuk desain situs web, prototipe aplikasi seluler, wireframe, logo, diagram, hingga presentasi. Para peserta diskusi memberikan apresiasi tinggi terhadap fleksibilitas akses yang ditawarkan Figma, baik melalui peramban web maupun aplikasi desktop. Kemampuan desain kolaboratif merupakan fitur unggulan yang paling dirasakan manfaatnya, memungkinkan anggota tim untuk berkolaborasi secara simultan dalam satu berkas yang sama, melakukan wireframing, dan menguji desain secara waktu nyata. Diskusi juga mencakup pemahaman baru tentang dukungan plugin untuk memperluas kapabilitas desain, yang memfasilitasi penambahan fitur eksternal seperti pustaka ikon, generator palet warna, hingga pemeriksa aksesibilitas. Pemanfaatan plugin ini signifikan dalam meningkatkan produktivitas, efisiensi alur kerja, dan mempercepat proses desain secara keseluruhan, sekaligus memberikan perspektif baru tentang adaptabilitas dan fleksibilitas Figma dalam memenuhi berbagai kebutuhan desain. Pembelajaran pada minggu ini memberikan wawasan berharga mengenai pentingnya pemanfaatan perangkat modern dalam pengembangan UI/UX, dan terdapat rencana untuk eksplorasi lebih lanjut fitur-fitur Figma di masa mendatang guna meningkatkan kemampuan dalam merancang antarmuka dan pengalaman pengguna yang lebih baik, selaras dengan konsep dan prinsip yang telah dipelajari dalam mata kuliah Sistem Interaksi.",
+      "rouge": {
+        "rouge1": 0.2642,
+        "rouge2": 0.0608,
+        "rougeL": 0.1962
+      },
+      "bertscore": {
+        "precision": 0.7661,
+        "recall": 0.6914,
+        "f1": 0.7269
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week3",
+      "title": "Weekly Reflection #3 (Deadline: Selasa, 17 Sep 2024)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan\n\nPada minggu ketiga pembelajaran Sistem Interaksi, mahasiswa merefleksikan pentingnya interaksi sosial dalam desain produk digital. Mereka menemukan bahwa pemahaman komunikasi sinkron/asinkron, telepresence, dan co-presence sangat krusial untuk menciptakan produk responsif dan inklusif. Riset mendalam, iterasi desain berbasis feedback pengguna, dan fitur kolaborasi real-time terbukti meningkatkan kualitas interaksi dan kepuasan pengguna dalam aplikasi modern.",
+      "reference_summary": "Pada refleksi pada pekan ketiga mata kuliah Sistem Interaksi ini berfokus pada esensi pemahaman konsep interaksi sosial dalam perancangan desain interaksi produk yang optimal. Diskusi mencakup berbagai topik, termasuk evolusi komunikasi akibat digitalisasi, yang memunculkan fenomena telepresence dan co-presence, serta bagaimana desain dapat meningkatkan efisiensi komunikasi melalui penerapan sharable technologies.Forum ini juga menyoroti pengaruh signifikan interaksi sosial terhadap pendekatan desain produk interaktif. Pengembangan fitur media sosial untuk memaksimalkan sosialisasi daring, serta pembaruan dan perbaikan fitur secara berkala, dianggap penting untuk meningkatkan kepuasan pengguna. Lebih lanjut, integrasi observasi interaksi sosial ke dalam desain memerlukan metode riset yang mendalam, seperti studi etnografi dan pengumpulan data real-time, untuk memahami konteks penggunaan produk dan pengaruh faktor sosial budaya. Iterasi desain berdasarkan umpan balik interaksi sosial, pembuatan prototipe cepat, dan pengujian kegunaan dengan pengguna nyata merupakan langkah krusial untuk mencapai keberhasilan produk. Hal ini menegaskan bahwa interaksi sosial memengaruhi tidak hanya tahap awal ide, tetapi juga keseluruhan siklus hidup desain produk.",
+      "rouge": {
+        "rouge1": 0.3241,
+        "rouge2": 0.1121,
+        "rougeL": 0.2222
+      },
+      "bertscore": {
+        "precision": 0.7801,
+        "recall": 0.7265,
+        "f1": 0.7524
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week4",
+      "title": "Weekly Reflection #4 (Due: Minggu, 22 September 2024 23:59 WIB)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan\n\nPada minggu keempat perkuliahan Sistem Interaksi, mahasiswa mempelajari desain antarmuka melalui Eight Golden Rules Shneiderman. Pembelajaran mencakup konsep usability versus user experience, implementasi praktis di aplikasi seperti Discord dan IKEA AR, serta pentingnya consistency dan informative feedback. Mahasiswa memahami bahwa desain antarmuka berkualitas tidak hanya aspek visual, tetapi juga memfasilitasi interaksi pengguna yang intuitif, efisien, dan memuaskan untuk memenuhi standar industri.",
+      "reference_summary": "Forum refleksi minggu keempat mata kuliah Sistem Interaksi ini menghadirkan berbagai diskusi yang konstruktif dari mahasiswa terkait desain antarmuka dan Delapan Aturan Emas Shneiderman. wawasan mengenai penerapan praktis aturan-aturan tersebut pada beragam aplikasi seluler, yang melampaui sekadar konsep teoretis. penerapan khusus aturan \"Konsistensi\" dan \"Umpan Balik Informatif\" dengan mengilustrasikannya melalui contoh nyata seperti antarmuka aplikasi Discord yang seragam di berbagai platform. Diskusi juga mencakup perbedaan esensial antara \"usability\" dan \"user experience,\" serta implementasi antarmuka dalam Augmented Reality (AR), seperti yang terlihat pada aplikasi IKEA yang menjanjikan untuk layanan virtual di masa depan. Lebih lanjut, forum ini mengulas potensi pengembangan fitur \"Shortcuts\" guna meningkatkan efisiensi pengguna. Secara garis besar, forum ini menggarisbawahi urgensi pemahaman desain antarmuka dalam menciptakan produk yang fungsional, intuitif, dan memberikan pengalaman pengguna yang positif.",
+      "rouge": {
+        "rouge1": 0.3579,
+        "rouge2": 0.0638,
+        "rougeL": 0.2105
+      },
+      "bertscore": {
+        "precision": 0.7407,
+        "recall": 0.6792,
+        "f1": 0.7086
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week6",
+      "title": "Weekly Reflection #6 (Deadline: Minggu, 6 Oktober 2024)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu keenam mata kuliah Sistem Interaksi membahas pengumpulan data sebagai fondasi desain berbasis pengguna. Mahasiswa mempelajari berbagai metode seperti wawancara mendalam, survei, observasi, dan usability testing, masing-masing dengan kelebihan dan kekurangan. Pemahaman kunci adalah pentingnya memilih metode sesuai tujuan penelitian, melakukan triangulasi data, dan mengolah data secara analitis untuk menghasilkan insight bermakna guna menciptakan solusi desain yang memenuhi kebutuhan pengguna.",
+      "reference_summary": "Rangkuman forum minggu ini menunjukkan adanya pemahaman mendalam serta wawasan baru terkait esensi pengumpulan data dalam ranah desain UX/UI, desain interaksi, dan Interaksi Manusia dan Komputer (IMK). Secara garis besar, disepakati bahwa pengumpulan data merupakan fondasi utama untuk memahami secara tepat kebutuhan, perilaku, dan preferensi pengguna, yang selanjutnya menjadi landasan pengambilan keputusan berbasis data dalam rangka mewujudkan solusi yang berpusat pada pengguna. Diskusi meliputi beragam metode yang diterapkan, seperti wawancara mendalam, survei, kuesioner, observasi, think aloud, A/B testing, serta usability testing, yang masing-masing memiliki kekuatan dan kelemahan tersendiri. Sorotan utama tertuju pada efektivitas usability testing dalam menemukan masalah secara objektif saat pengguna berinteraksi langsung dengan antarmuka, sekaligus memberikan wawasan berharga yang dapat langsung diterapkan untuk menyempurnakan desain. Refleksi ini juga menekankan urgensi metode triangulasi data, yakni pengumpulan data dari berbagai sumber dan pendekatan, guna memperkuat validitas hasil riset dan menghindari bias akibat hanya mengandalkan satu metode.",
+      "rouge": {
+        "rouge1": 0.3396,
+        "rouge2": 0.0667,
+        "rougeL": 0.217
+      },
+      "bertscore": {
+        "precision": 0.7621,
+        "recall": 0.7045,
+        "f1": 0.7322
+      }
+    },
+    {
+      "id": "sister-gasal-20242025\\week8",
+      "title": "Weekly Reflection #8 (Deadline: Minggu, 3 November 2024)",
+      "course": "SISTER Gasal 2024/2025",
+      "generated_summary": "# Ringkasan\n\nMinggu ini mahasiswa Sistem Interaksi mempelajari pentingnya menentukan kebutuhan dalam desain interaksi. Pembelajaran kunci mencakup membedakan kebutuhan dan keinginan pengguna, enam kategori requirements (fungsional, data, lingkungan, karakteristik pengguna, usability, dan pengalaman), serta teknik pengumpulan data seperti wawancara dan observasi. Mengidentifikasi kebutuhan memerlukan analisis mendalam terhadap konteks dan kebutuhan tersembunyi pengguna, bukan sekadar bertanya langsung. Konsep persona, task analysis, dan use case membantu desainer menciptakan produk user-centered yang intuitif, relevan, dan memuaskan bagi pengguna.",
+      "reference_summary": "Ringkasan mingguan ini membahas materi mengenai pemenuhan kebutuhan pelanggan dan analisis kebutuhan dalam pengembangan desain interaksi. Pemahaman penting yang didapatkan adalah bahwa penciptaan user experience yang optimal tidak hanya bergantung pada pengumpulan permintaan eksplisit atau pertanyaan langsung mengenai detail yang diinginkan pelanggan. Seringkali, pengguna tidak sepenuhnya menyadari atau mampu mengartikulasikan kebutuhan laten mereka secara langsung. Oleh karena itu, proses penguraian (breakdown) dan analisis kebutuhan (requirements), termasuk pemahaman konteks yang mendasari permintaan tersebut, menjadi sangat penting. Hal ini bertujuan untuk meminimalkan potensi miskomunikasi, menghindari kesalahan interpretasi, dan menghasilkan produk yang lebih memuaskan yang benar-benar selaras dengan harapan pengguna. Dalam proses UX Research, desain secara esensial harus menyeimbangkan antara kebutuhan (needs) dan keinginan (wants) pengguna, serta memahami enam kategori utama requirements. Teknik pengumpulan data, seperti wawancara, kelompok fokus (focus groups), dan observasi langsung, terbukti efektif dalam memberikan wawasan yang lebih mendalam terkait pain points dan kebutuhan pengguna. penggunaan persona sangat membantu tim desain dalam memahami karakteristik, kebutuhan, dan preferensi pengguna secara konkret dan realistis. Sementara itu, analisis tugas (task analysis) dan use case memberikan panduan dalam memahami proses interaksi pengguna dengan sistem, yang pada akhirnya membantu menciptakan alur penggunaan yang intuitif dan responsif.",
+      "rouge": {
+        "rouge1": 0.367,
+        "rouge2": 0.1208,
+        "rougeL": 0.2622
+      },
+      "bertscore": {
+        "precision": 0.7683,
+        "recall": 0.7226,
+        "f1": 0.7447
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\FD\\week2",
+      "title": "[Kelas A] Apa itu Cognition? Apa hubungannya dengan HCI?",
+      "course": "SISTER Genap 2025/2026 / A / Forum Diskusi",
+      "generated_summary": "# Ringkasan Diskusi Kognisi dan Interaction Design\n\nKognisi adalah proses mental yang mencakup persepsi, perhatian, ingatan, pemahaman, dan pengambilan keputusan dalam memperoleh serta mengolah informasi. Dalam Interaction Design, kognisi sangat penting karena desain yang efektif harus mempertimbangkan cara manusia berperpikir dan memproses informasi. Dengan memahami prinsip-prinsip kognitif seperti cognitive load dan mental models, desainer dapat menciptakan antarmuka intuitif, mudah dipahami, dan user-friendly yang meningkatkan pengalaman pengguna serta mengurangi beban kognitif.",
+      "reference_summary": "Berdasarkan pemahaman para peserta, kognisi merupakan proses mental yang mencakup cara manusia memperoleh, mengolah, menyimpan, serta menggunakan informasi melalui pemikiran, pengalaman, dan panca indera, yang melibatkan berbagai aspek seperti persepsi, atensi, memori, pembelajaran, dan pengambilan keputusan. Keterkaitan konsep tersebut dengan Interaction Design sangat erat karena tujuan utama dari perancangan interaksi adalah menciptakan produk yang selaras dengan cara kerja otak pengguna, sehingga menghasilkan antarmuka yang intuitif, efisien, dan mudah dipahami. Dengan mempertimbangkan berbagai keterbatasan dan prinsip kognitif seperti pengelolaan beban kognitif, penerapan mental model yang sesuai ekspektasi, serta dukungan terhadap pengenalan alih-alih pengingatan pola—sebuah desain dapat secara efektif mencegah kebingungan, meminimalkan potensi kesalahan pengguna, dan pada akhirnya menghadirkan pengalaman interaksi yang jauh lebih nyaman serta menyenangkan.",
+      "rouge": {
+        "rouge1": 0.4894,
+        "rouge2": 0.1183,
+        "rougeL": 0.266
+      },
+      "bertscore": {
+        "precision": 0.815,
+        "recall": 0.7663,
+        "f1": 0.7899
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\FD\\week4",
+      "title": "[Kelas A] Pertanyaan Pemicu: Contoh Antarmuka Metaverse",
+      "course": "SISTER Genap 2025/2026 / A / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMetaverse adalah dunia virtual imersif yang menggabungkan elemen fisik dan digital melalui teknologi VR, AR, dan MR. Antarmuka pendukung mencakup headset VR (Oculus Quest), AR glasses (HoloLens), perangkat haptic, gesture-based interface, dan brain-computer interface. Prinsip desain UI yang penting meliputi: user-centered design, immersion & presence, navigasi intuitif, aksesibilitas inklusif, konsistensi desain, responsivitas real-time, minimal cognitive load, dan keamanan data untuk menciptakan pengalaman pengguna yang optimal, aman, dan dapat diakses semua kalangan.",
+      "reference_summary": "Metaverse dipahami sebagai sebuah ruang digital tiga dimensi yang bersifat imersif dan menggabungkan elemen dunia nyata dengan virtual, memungkinkan pengguna untuk berinteraksi secara real-time. Untuk mengimplementasikan konsep tersebut, diperlukan berbagai jenis antarmuka seperti headset Virtual Reality (VR) yang menyeluruh, perangkat Augmented Reality (AR) atau Mixed Reality (MR) yang menyisipkan objek digital ke lingkungan fisik, haptic feedback untuk umpan balik sensitif, serta kendali berbasis gestur, suara, hingga Brain-Computer Interface (BCI). Dalam merancang antarmuka pengguna untuk ekosistem Metaverse, terdapat beberapa prinsip desain yang sangat krusial untuk diterapkan, di antaranya adalah menciptakan pengalaman immersion dan rasa kehadiran (presence) yang mendalam agar pengguna merasa benar-benar terlibat di dalam dunia virtual tersebut. Selain itu, desain haruslah intuitif dan ramah pengguna dengan navigasi spasial yang mudah dipahami, meminimalkan beban kognitif agar antarmuka tetap sederhana dan tidak membingungkan, serta memastikan konsistensi elemen visual di seluruh lingkungan. Faktor pendukung lainnya mencakup pemberian feedback secara real-time yang responsif tanpa latensi berlebih untuk menghindari rasa pusing atau motion sickness, hingga penekanan pada aspek aksesibilitas dan inklusivitas sehingga produk dapat diakses dan disesuaikan dengan nyaman oleh berbagai kalangan pengguna, termasuk mereka yang memiliki keterbatasan fisik.",
+      "rouge": {
+        "rouge1": 0.3561,
+        "rouge2": 0.0611,
+        "rougeL": 0.197
+      },
+      "bertscore": {
+        "precision": 0.7661,
+        "recall": 0.7118,
+        "f1": 0.738
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\FD\\week3",
+      "title": "[Kelas A] Pertanyaan Pemicu: Pengalaman Berkesan saat Berinteraksi Daring",
+      "course": "SISTER Genap 2025/2026 / A / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nPada pekan ke-3 perkuliahan, mahasiswa kelas A mempelajari desain interaksi sosial melalui produk interaktif untuk mendukung komunikasi, koordinasi, dan kolaborasi. Mahasiswa berbagi pengalaman berinteraksi daring melalui berbagai platform (WhatsApp, Discord, Instagram, Google Meet, dll) dan menyimpulkan bahwa desain produk yang user-friendly, fitur terorganisir, serta komunikasi terstruktur sangat penting untuk interaksi digital yang efektif dan bermakna.",
+      "reference_summary": "Interaksi daring melalui platform perpesanan, media sosial, hingga layanan kolaborasi memberikan dampak yang signifikan dalam menjaga hubungan sosial, memperluas jaringan pertemanan, hingga mendukung produktivitas kerja tim tanpa batasan fisik. Para peserta merasakan bahwa keberhasilan komunikasi dan koordinasi virtual sangat bergantung pada pemilihan platform yang tepat sesuai kebutuhan serta pemanfaatan fitur pendukungnya secara maksimal, seperti fitur pinned message, voice channel, screen sharing, dan chatbot, yang mampu meminimalkan miskomunikasi serta menyederhanakan alur informasi. Meskipun demikian, tantangan seperti informasi yang mudah tenggelam dalam obrolan, risiko penipuan, hingga penggunaan teknologi yang berlebihan hingga mengganggu fokus tetap dapat terjadi; sehingga pelajaran utama yang diambil adalah bahwa desain antarmuka yang intuitif dan ramah pengguna saja tidak cukup jika tidak diimbangi dengan kesadaran pengguna dalam menerapkan etika, kedisiplinan mengatur waktu, serta pembuatan kesepakatan bersama mengenai aturan komunikasi dari awal.",
+      "rouge": {
+        "rouge1": 0.2199,
+        "rouge2": 0.0212,
+        "rougeL": 0.1257
+      },
+      "bertscore": {
+        "precision": 0.6969,
+        "recall": 0.6557,
+        "f1": 0.6757
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\FD\\week5",
+      "title": "[Kelas A] Prompt: Metode User Research",
+      "course": "SISTER Genap 2025/2026 / A / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas A menjelaskan berbagai metode User Research, antara lain: User-Centered Design (UCD) yang melibatkan pengguna di setiap tahap desain; Design Sprint—proses 5 hari untuk menyelesaikan masalah dengan cepat; Genius Design yang mengandalkan intuisi desainer; User Interviews dan Observations untuk menggali kebutuhan pengguna; Usability Testing untuk mengevaluasi kemudahan produk; Activity-Centered Design berfokus pada aktivitas; A/B Testing untuk membandingkan pilihan; dan Contextual Inquiry melalui observasi di lingkungan pengguna. Semua metode bertujuan menghasilkan desain sesuai kebutuhan pengguna.",
+      "reference_summary": "Berbagai metode dapat dimanfaatkan dalam riset pengguna guna menghasilkan produk yang sesuai kebutuhan, di antaranya pendekatan User-Centered Design (UCD) yang secara iteratif melibatkan pengguna mulai dari identifikasi kebutuhan, perancangan, hingga evaluasi prototipe. Untuk memahami motivasi dan hambatan secara mendalam, peneliti dapat mengandalkan teknik wawancara langsung maupun observasi di lingkungan asli pengguna (contextual inquiry) yang mampu mengungkap dinamika penggunaan yang sering kali tidak tertangkap oleh metode kuantitatif. Di sisi lain, pengembangan ide dapat dipercepat melalui Design Sprint dengan proses lima tahap terstruktur yang berujung pada pengujian prototipe singkat, berbeda dengan Genius Design yang lebih mengutamakan keahlian dan intuisi desainer untuk menghemat waktu tanpa riset ekstensif. Sementara itu, keberfungsian desain dapat divalidasi menggunakan Usability Testing, dioptimalkan alur kerjanya lewat Activity-Centered Design, serta dikomparasi efektivitasnya melalui pendekatan AB Testing untuk menentukan opsi antarmuka terbaik berdasarkan respons langsung dari target audiens.",
+      "rouge": {
+        "rouge1": 0.4414,
+        "rouge2": 0.1636,
+        "rougeL": 0.2432
+      },
+      "bertscore": {
+        "precision": 0.7437,
+        "recall": 0.7045,
+        "f1": 0.7236
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\WR\\week1",
+      "title": "[KELAS A] Weekly Reflection Minggu 1",
+      "course": "SISTER Genap 2025/2026 / A / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nPada minggu pertama kuliah Sistem Interaksi, mahasiswa SisTer A mempelajari pentingnya **User-Centered Design (UCD)** dalam mengembangkan produk. Melalui studi kasus smartpen, mereka memahami bahwa desain efektif bukan hanya fokus pada teknologi canggih atau estetika, tetapi pada memenuhi **kebutuhan pengguna yang beragam**. Prinsip-prinsip utama desain interaksi—visibility, feedback, constraints, consistency, dan affordance—menjadi fondasi menciptakan sistem intuitif. **Riset mendalam tentang pengguna** melalui wawancara dan observasi sangat penting untuk menghasilkan solusi relevan yang meningkatkan **user experience** dan kenyamanan penggunaan. Pendekatan iteratif dengan umpan balik pengguna terbukti krusial untuk penyempurnaan produk berkelanjutan.",
+      "reference_summary": "Refleksi pada pekan pertama perkuliahan menghasilkan kesadaran mendalam bahwa keberhasilan sebuah produk tidak semata-mata ditentukan oleh kecanggihan teknologi atau keindahan estetika, melainkan oleh sejauh mana desain mampu memahami dan mengakomodasi kebutuhan pengguna secara spesifik. Aktivitas eksplorasi mengenai kebutuhan smartpen membuktikan bahwa setiap individu memiliki preferensi yang beragam seperti kenyamanan ergonomis, fitur pelacakan, hingga integrasi perangkat yang sangat bergantung pada peran dan aktivitas masing-masing, sehingga riset langsung melalui wawancara menjadi kunci untuk menggali wawasan yang tidak terduga. Pemahaman ini memantapkan fondasi user-centered design yang menekankan pentingnya empati dalam proses perancangan, di mana penerapan prinsip-prinsip desain seperti visibility, feedback, constraints, konsistensi, dan affordance menjadi penentu utama agar sistem tidak hanya fungsional, tetapi juga intuitif dan menyenangkan digunakan. Pada akhirnya, proses desain yang ideal bersifat iteratif dan terus melibatkan masukan pengguna, karena teknologi yang sebenarnya bermanfaat adalah yang mampu beradaptasi dengan kebiasaan serta memberikan kemudahan nyata dalam menyelesaikan permasalahan pengguna.",
+      "rouge": {
+        "rouge1": 0.418,
+        "rouge2": 0.0826,
+        "rougeL": 0.2131
+      },
+      "bertscore": {
+        "precision": 0.7316,
+        "recall": 0.7273,
+        "f1": 0.7295
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\WR\\week3",
+      "title": "[Kelas A] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / A / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu ini, mahasiswa Sistem Interaksi A mempelajari **Interaksi Sosial dalam Desain Interaksi**. Pembelajaran mencakup konsep **telepresence** (kehadiran virtual) dan **co-presence** (kolaborasi real-time), serta perbedaan komunikasi sinkron/asinkron. Mahasiswa menyadari desain interaksi tidak hanya fokus pada tampilan, tetapi juga mendukung komunikasi dan kolaborasi efektif antar pengguna melalui fitur seperti chat, video call, dan sharable technologies (Google Docs, Zoom, Discord, Figma). Meskipun teknologi digital memudahkan koneksi lintas jarak, tantangan seperti keterbatasan ekspresi non-verbal tetap ada, sehingga desain harus mempertimbangkan aspek sosial dan emosional untuk menciptakan pengalaman pengguna yang bermakna.",
+      "reference_summary": "Pemahaman yang dominan selama pembelajaran minggu ini menunjukkan pergeseran paradigma bahwa desain interaksi tidak sekadar memediasi hubungan antara pengguna dan mesin, melainkan juga harus menjadi wadah yang mampu memfasilitasi komunikasi antarindividu. Pengalaman nyata dalam menggunakan berbagai platform kolaborasi dan komunikasi daring membuat konsep telepresence serta co-presence terasa sangat relevan, di mana teknologi berhasil menembus batasan geografis untuk menciptakan rasa kebersamaan dan kehadiran dalam satu ruang digital. Baik melalui mekanisme komunikasi sinkron maupun asinkron, keterlibatan aspek sosial dan emosional dalam sebuah rancangan produk terbukti sangat menentukan kelancaran koordinasi serta keberhasilan kerja sama tim. Meski demikian, kesadaran akan keterbatasan teknologi dalam mereplikasi detail ekspresi non-verbal dan nuansa fisik tatap muka menjadi catatan penting bahwa desain interaksi sosial yang ideal adalah yang mampu mendekati, bukan menggantikan sepenuhnya, kealamian komunikasi manusia secara langsung.",
+      "rouge": {
+        "rouge1": 0.3767,
+        "rouge2": 0.1267,
+        "rougeL": 0.1704
+      },
+      "bertscore": {
+        "precision": 0.7297,
+        "recall": 0.7277,
+        "f1": 0.7287
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\WR\\week4",
+      "title": "[Kelas A] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / A / Weekly Reflection",
+      "generated_summary": "# Ringkasan Umum\n\nMahasiswa Sistem Interaksi A mempelajari topik antarmuka melalui Shneiderman's Eight Golden Rules, yang menekankan konsistensi, feedback informatif, dan pengurangan beban memori pengguna. Mereka memahami antarmuka bukan hanya tampilan visual, tetapi jembatan komunikasi manusia-teknologi yang harus user-friendly dan fungsional. Eksplorasi berbagai jenis antarmuka (GUI, VUI, AR/VR, haptic) memperluas perspektif tentang interaksi digital modern. Pembelajaran mendorong evaluasi kritis aplikasi sehari-hari dan penerapan user-centered design dalam pengembangan sistem.",
+      "reference_summary": "Perkuliahan minggu ini berhasil mengubah perspektif bahwa antarmuka bukan sekadar wujud visual yang menarik, melainkan merupakan jembatan komunikasi kritis antara pengguna dan teknologi yang harus dirancang secara fungsional. Pemahaman mendalam mengenai Shneiderman’s Eight Golden Rules, khususnya aspek konsistensi, pemberian feedback yang informatif, serta pengurangan beban memori jangka pendek, membuat banyak pihak menjadi lebih kritis dan sadar akan mengapa suatu aplikasi terasa nyaman atau justru membingungkan digunakan sehari-hari. Di samping itu, pembahasan mengenai evolusi ragam antarmuka mulai dari Command Line Interface (CLI) dan Graphical User Interface (GUI), hingga bentuk modern seperti Voice User Interface (VUI), Haptic, AR, dan VR membuka wawasan baru bahwa setiap medium memiliki tantangan desain tersendiri untuk menciptakan pengalaman yang semakin natural dan imersif. Pada akhirnya, refleksi ini menegaskan bahwa kesuksesan sebuah produk digital sangat bergantung pada pendekatan user-centered, di mana estetika harus diseimbangkan dengan kemudahan navigasi, pencegahan kesalahan, dan kenyamanan psikologis pengguna agar teknologi benar-benar dapat mempermudah aktivitas manusia.",
+      "rouge": {
+        "rouge1": 0.3668,
+        "rouge2": 0.1057,
+        "rougeL": 0.1834
+      },
+      "bertscore": {
+        "precision": 0.7741,
+        "recall": 0.7171,
+        "f1": 0.7445
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\A\\WR\\week5",
+      "title": "[KELAS A] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / A / Weekly Reflection",
+      "generated_summary": "# Ringkasan Teks\n\nPada minggu kelima perkuliahan Sistem Interaksi, mahasiswa merefleksikan Proses Desain Interaksi dengan insight mendalam. Mereka menyadari desain interaksi bukan sekadar estetika, melainkan pemecahan masalah berpusat pengguna. Berbagai metode seperti User-Centered Design (UCD), Activity-Centered Design (ACD), Design Sprint, dan Genius Design diterapkan sesuai konteks. Mahasiswa menekankan pentingnya melibatkan pengguna sejak awal, proses iteratif berkelanjutan, prototyping, dan evaluasi sistematis. Kesimpulan umum: desain interaksi efektif memerlukan riset pengguna mendalam, feedback berkelanjutan, dan keseimbangan antara intuisi desainer dengan data empiris untuk menciptakan pengalaman pengguna yang intuitif dan fungsional.",
+      "reference_summary": "minggu kelima, diskusi refleksi berfokus pada pemahaman bahwa Proses Desain Interaksi bukanlah sekadar tentang estetika visual, melainkan sebuah proses pemecahan masalah yang sistematis dan berorientasi pada kebutuhan pengguna untuk menciptakan pengalaman yang efektif dan efisien. Teman-teman mendalami berbagai metode desain, mulai dari User-Centered Design (UCD) yang menekankan pentingnya keterlibatan pengguna secara aktif melalui tahapan riset, perancangan, prototyping, dan evaluasi, hingga pendekatan lain seperti Activity-Centered Design (ACD) yang berfokus pada tugas, Genius Design yang mengandalkan intuisi desainer, dan Design Sprint untuk solusi cepat. Terdapat kesadaran baru bahwa desain merupakan siklus iteratif yang tidak pernah selesai, di mana pengujian seperti evaluasi heuristik pada aplikasi publik menjadi kunci untuk menemukan celah usability dan memperbaiki interface. Selain itu, konsep expectation management juga disorot sebagai hal penting karena pengguna seringkali tidak sepenuhnya menyadari kebutuhan mereka, sehingga umpan balik yang konkret selama proses pengembangan menjadi sangat krusial untuk memastikan produk yang dihasilkan benar-benar relevan dan intuitif bagi pengguna.",
+      "rouge": {
+        "rouge1": 0.4426,
+        "rouge2": 0.157,
+        "rougeL": 0.2459
+      },
+      "bertscore": {
+        "precision": 0.7841,
+        "recall": 0.7451,
+        "f1": 0.7641
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\FD\\week2",
+      "title": "[Kelas B] Apa itu Cognition? Apa hubungannya dengan HCI?",
+      "course": "SISTER Genap 2025/2026 / B / Forum Diskusi",
+      "generated_summary": "# Ringkasan\n\nDiskusi ini membahas pengertian kognisi dan relevansinya dengan HCI/Interaction Design. Kognisi adalah proses mental manusia yang mencakup persepsi, perhatian, memori, dan pemecahan masalah. Dalam Interaction Design, pemahaman kognisi sangat penting untuk merancang antarmuka intuitif dan user-friendly yang sesuai dengan cara berpikir pengguna, mengurangi beban kognitif, dan meningkatkan pengalaman pengguna secara keseluruhan.",
+      "reference_summary": "minggu ini, diskusi kelas berfokus pada pemahaman mengenai kognisi serta peran pentingnya dalam Human-Computer Interaction (HCI) dan Desain Interaksi. Kognisi didefinisikan sebagai proses mental yang mencakup kemampuan berpikir, mengingat, belajar, memahami, memecahkan masalah, mengambil keputusan, serta persepsi dan perhatian terhadap informasi. Para siswa menyadari bahwa hubungan antara kognisi dengan HCI sangat erat, di mana desainer harus memahami cara kerja otak manusia untuk menciptakan antarmuka yang intuitif, efisien, dan user-friendly. Aspek utama yang dibahas meliputi pentingnya pengelolaan beban kognitif (cognitive load) dengan menghindari tampilan yang terlalu ramai atau kompleks agar pengguna tidak merasa kewalahan, serta penerapan mental model pengguna melalui penggunaan ikon, simbol, dan skema warna yang universal seperti tombol hijau untuk setuju dan merah untuk batal agar sistem mudah dipahami tanpa berpikir panjang. Konsep lain yang turut disoroti adalah perlunya mencegah kesalahan (error prevention), kemudahan dipelajari (learnability), serta pemahaman mengenai experiential dan reflective cognition. Secara keseluruhan, materi ini menegaskan bahwa desain interaksi yang efektif adalah yang mampu menyesuaikan diri dengan kemampuan dan keterbatasan kognitif manusia, sehingga memungkinkan pengguna berinteraksi dengan teknologi secara alami dan meminimalisir kesalahan.",
+      "rouge": {
+        "rouge1": 0.3362,
+        "rouge2": 0.0609,
+        "rougeL": 0.2069
+      },
+      "bertscore": {
+        "precision": 0.8005,
+        "recall": 0.7175,
+        "f1": 0.7567
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\FD\\week5",
+      "title": "[Kelas B] Metode Mengenal Pengguna Aplikasi",
+      "course": "SISTER Genap 2025/2026 / B / Forum Diskusi",
+      "generated_summary": "# Summary\n\nMahasiswa Sistem Interaksi Kelas B presented various User Research methods as requested by instructor Harry Budi Santoso. Methods discussed include User-Centered Design, Usability Testing, User Interviews, Behavioral Research, Activity Centered Design, Design Sprint, and Sequence of Work Interviews. Each method aims to understand user needs, preferences, and behaviors through different approaches—qualitative (interviews, observation) and quantitative (surveys, A/B testing)—to create user-friendly, relevant products. Design Sprint notably offers rapid five-day problem-solving cycles, while traditional methods provide deeper insights but require more resources.",
+      "reference_summary": "Berdasarkan beragam respons dari mahasiswa, diskusi ini menitikberatkan pada penamaan dan penjabaran satu metode saja dari penelitian pengguna. Berbagai metode yang dibahas mencakup wawancara (termasuk wawancara latar belakang, pengumpulan kebutuhan, dan wawancara pengguna), observasi lapangan, serta pengujian seperti tes kegunaan yang dijelaskan langkah-langkahnya secara rinci, dan pengujian A/B. Mahasiswa juga membahas penggunaan kuesioner atau survei. Penjelasan umum menyoroti fokus utama dari metode-metode ini, yakni untuk memahami kebutuhan, perilaku, preferensi, serta masalah pengguna agar produk atau layanan yang dikembangkan bersifat intuitif, mudah digunakan, dan benar-benar memenuhi harapan. Selain metode penelitian pengguna murni, beberapa tanggapan juga mengulas pendekatan Desain Berpusat Pengguna (UCD) dan metode Genius Design, yang meskipun lebih merupakan pendekatan atau metode desain, tetap berkaitan dalam pembahasan tentang konteks pemahaman pengguna.",
+      "rouge": {
+        "rouge1": 0.0377,
+        "rouge2": 0.0095,
+        "rougeL": 0.0377
+      },
+      "bertscore": {
+        "precision": 0.6646,
+        "recall": 0.6539,
+        "f1": 0.6592
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\FD\\week4",
+      "title": "[Kelas B] Pertanyaan Pemicu: Berbagi Contoh Antarmuka (Interfaces)",
+      "course": "SISTER Genap 2025/2026 / B / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas B menganalisis berbagai aplikasi dan jenis antarmukanya. Aplikasi yang dibahas mencakup Instagram, Git, WhatsApp, Spotify, Google Docs, Pokémon GO, Google Assistant, dan X (Twitter) dengan tipe antarmuka GUI, CLI, VUI, dan AR. Analisis menunjukkan desain UI efektif menggabungkan intuitivitas, konsistensi, navigasi mudah, dan feedback visual. Tantangan VUI termasuk pengenalan suara akurat, sementara GUI memprioritaskan user-friendly experience. Penelitian menekankan pentingnya responsivitas lintas perangkat dan aksesibilitas untuk UX optimal.",
+      "reference_summary": "Secara garis besar, mayoritas tanggapan membahas penggunaan Graphical User Interface (GUI) pada berbagai aplikasi populer seperti Instagram, WhatsApp, Spotify, dan Google Docs, menonjolkan keunggulan berupa kemudahan penggunaan melalui elemen visual seperti ikon, tombol, dan menu drop-down serta navigasi yang intuitif. Sebaliknya, satu tanggapan mengangkat Git yang menerapkan Command Line Interface (CLI), membandingkannya dengan GUI serta menelaah aspek kecepatan, kontrol, dan efisiensi bagi pengguna profesional. Sejumlah mahasiswa juga menyertakan telaah jurnal terkait yang membahas bagaimana desain UI yang baik, intuitif, responsif, dan konsisten—dengan mempertimbangkan faktor seperti microinteractions, cognitive load, dan konteks penggunaan—dapat secara signifikan meningkatkan kepuasan, kepercayaan, retensi pengguna, serta usability lintas perangkat.",
+      "rouge": {
+        "rouge1": 0.2889,
+        "rouge2": 0.0562,
+        "rougeL": 0.1778
+      },
+      "bertscore": {
+        "precision": 0.74,
+        "recall": 0.721,
+        "f1": 0.7303
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\FD\\week3",
+      "title": "[Kelas B] Pertanyaan Pemicu: Contoh aplikasi untuk berinteraksi sosial dengan sesama",
+      "course": "SISTER Genap 2025/2026 / B / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas B berbagi pengalaman menggunakan berbagai aplikasi media sosial (WhatsApp, Instagram, Twitter/X, Discord, TikTok, Facebook). Keunggulan umum mencakup kemudahan komunikasi, akses informasi, dan pembentukan komunitas. Pain points meliputi kecanduan, penyebaran berita palsu, UI kompleks, dan notifikasi berlebihan. Media sosial berdampak positif untuk koneksi global namun negatif pada attention span dan privasi, memerlukan penggunaan bijak dan fitur kontrol yang lebih baik.",
+      "reference_summary": "Menurut sejumlah tanggapan dari mahasiswa, aplikasi yang paling sering dibicarakan mencakup WhatsApp, Instagram, Twitter/X, dan TikTok. Mahasiswa menekankan sejumlah aspek positif seperti antarmuka pengguna (UI) yang ringan dan mudah pada WhatsApp, UI yang mudah dipahami pada Instagram, karakter komunikasi teks terbuka di Twitter/X yang mendukung komunitas pendidikan, serta penerapan yang sempurna dari fitur video pendek dan ketepatan algoritma pada TikTok sebagai pelopor format ini. Namun, pembicaraan juga menyoroti berbagai masalah dan efek buruk, antara lain keterbatasan ruang penyimpanan cadangan Google Drive di WhatsApp, meningkatnya bot dan metrik postingan yang tidak penting di Twitter/X, perubahan ukuran feed mobile Instagram yang merusak estetika puzzle feed, serta masalah kecanduan, privasi, dan fenomena filter bubble. Selanjutnya, terdapat kajian mendalam tentang dampak sosial yang lebih besar, termasuk penurunan signifikan dalam rentang perhatian (attention span) manusia, penyebaran informasi yang tidak terpercaya, serta munculnya kesenjangan dalam komunikasi langsung akibat gaya hidup yang serba digital dan individualistis. Sebagai solusi dan saran, mahasiswa merekomendasikan penambahan fitur pembatasan penggunaan (hard limit), variasi konten yang lebih beragam, peningkatan keamanan akun, serta penambahan fitur sorting di kolom pencarian, sambil mengedepankan pentingnya kebijaksanaan pengguna dalam mengatur konsumsi media sosial sebagai langkah pencegahan terhadap dampak negatif yang mungkin muncul.",
+      "rouge": {
+        "rouge1": 0.25,
+        "rouge2": 0.0458,
+        "rougeL": 0.1439
+      },
+      "bertscore": {
+        "precision": 0.7122,
+        "recall": 0.6624,
+        "f1": 0.6864
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\WR\\week1",
+      "title": "[KELAS B] Weekly Reflection Minggu 1",
+      "course": "SISTER Genap 2025/2026 / B / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nDosen Harry meminta mahasiswa Sistem Interaksi Kelas B menulis refleksi pembelajaran minggu pertama yang menghubungkan momen penting dengan pengalaman pribadi. Dari berbagai refleksi mahasiswa, poin utama yang muncul adalah desain sistem interaksi tidak hanya fokus pada estetika visual, tetapi harus memprioritaskan usability, user experience, dan kebutuhan pengguna. Desain yang efektif memadukan fungsionalitas dengan antarmuka intuitif, melibatkan pengguna dalam proses iteratif, serta mempertimbangkan faktor psikologis dan keragaman kebutuhan pengguna untuk menciptakan produk yang berguna dan memuaskan.",
+      "reference_summary": "Berdasarkan sejumlah refleksi dari rekan-rekan mahasiswa, inti yang dibahas adalah pergeseran pemahaman mendasar bahwa perancangan sistem interaksi tidak seharusnya hanya berorientasi pada nilai estetika atau keindahan visual semata. Rekan-rekan secara bersama-sama memahami bahwa kegunaan dan Pengalaman Pengguna (UX) lebih penting, di mana produk yang tampak menawan seperti contoh mangkuk atau cangkir artistik dalam video pembelajaran dapat menjadi tidak efisien jika tidak mendukung fungsionalitasnya secara maksimal dan malah menyulitkan pengguna. Sejumlah mahasiswa menekankan signifikanya keterlibatan aktif pengguna dalam proses desain, memahami prinsip kognisi visual yang sederhana untuk mengurangi beban mental, melakukan penelitian mengenai kebutuhan pengguna dari tahap awal, dan memperhatikan faktor psikologis serta preferensi pengguna demi menciptakan solusi yang intuitif dan familiar. Di samping itu, juga dibicarakan tentang signifikansi penetapan Usability dan UX Goals yang jelas, pemanfaatan logika yang tepat agar aplikasi tidak terganggu, serta kontribusi teknologi seperti data science dan machine learning dalam menghasilkan pengalaman pengguna yang terbaik. Diskusi ditutup dengan pertanyaan reflektif tentang cara menemukan titik pertemuan yang paling tepat antara aspek idealisme estetika dan aspek fungsionalitas yang efektif dalam sebuah desain.",
+      "rouge": {
+        "rouge1": 0.3241,
+        "rouge2": 0.0637,
+        "rougeL": 0.1897
+      },
+      "bertscore": {
+        "precision": 0.7589,
+        "recall": 0.6997,
+        "f1": 0.7281
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\WR\\week2",
+      "title": "[Kelas B] Weekly Reflection Minggu 2",
+      "course": "SISTER Genap 2025/2026 / B / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi B mempelajari Prinsip-Prinsip Kognisi dalam Desain Interaksi melalui Weekly Reflection #2. Pembelajaran utama mencakup bahwa desain interaksi bukan hanya tentang estetika, melainkan mempertimbangkan aspek kognitif manusia seperti cognitive load, mental models, persepsi, memori, dan atensi. Elemen penting meliputi struktur informasi, navigasi intuitif, konsistensi desain, dan aksesibilitas untuk menciptakan pengalaman pengguna yang optimal dan mengurangi beban kognitif pengguna.",
+      "reference_summary": "Diskusi ini dimulai dengan sistem Interaksi B untuk merefleksikan pemahaman baru mereka mengenai kognisi dalam desain, bukan sekadar merangkum materi. Para mahasiswa sepakat bahwa estetika visual saja tidak cukup untuk menghasilkan antarmuka yang berkualitas. Sebaliknya, pemahaman mendalam tentang proses kognisi manusia seperti atensi, persepsi, memori, dan pembelajaran merupakan elemen esensial. Refleksi khusus dari mahasiswa menekankan perlunya memperhatikan faktor-faktor seperti cognitive load agar antarmuka tidak membingungkan, mental models pengguna untuk menciptakan pengalaman intuitif, serta struktur informasi, navigasi, dan aksesibilitas. Contoh konkret yang dibahas mencakup penempatan tombol familiar pada posisi yang diantisipasi serta pemanfaatan whitespace secara efektif. Secara keseluruhan, pemahaman tentang kognisi dianggap mampu membantu desainer menciptakan pengalaman pengguna yang lebih optimal, efisien, dan memuaskan.",
+      "rouge": {
+        "rouge1": 0.4294,
+        "rouge2": 0.1943,
+        "rougeL": 0.2825
+      },
+      "bertscore": {
+        "precision": 0.7792,
+        "recall": 0.7381,
+        "f1": 0.7581
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\WR\\week3",
+      "title": "[Kelas B] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / B / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi B mempelajari \"Interaksi Sosial dalam Desain Interaksi\" melalui Weekly Reflection #3. Mereka memahami bahwa desain aplikasi harus mempertimbangkan aspek sosial pengguna, bukan hanya fungsionalitas teknis. Konsep telepresence dan copresence memungkinkan interaksi virtual bermakna melalui platform seperti Zoom, Discord, dan WhatsApp. Fitur sosial seperti komentar, like, dan emoji meningkatkan keterlibatan, namun desainer perlu menyeimbangkan antara koneksi sosial dan dampak psikologis seperti FOMO dan ketergantungan digital.",
+      "reference_summary": "Berdasarkan serangkaian postingan mahasiswa, diskusi ini menekankan pemahaman baru bahwa desain interaksi pada produk digital tidak hanya berfokus pada kemudahan penggunaan atau efisiensi, melainkan sangat dipengaruhi oleh dimensi sosial yang membentuk pola interaksi antarmanusia. Mahasiswa secara luas membahas konsep telepresence dan co-presence guna menciptakan rasa kehadiran autentik serta konektivitas antar pengguna meskipun terpisah secara fisik, seperti pada aplikasi virtual reality (VR), permainan daring, atau rapat virtual. Selain itu, dibahas perbedaan komunikasi asinkronus dan sinkronus, peran fitur seperti kolom komentar atau indikator “sedang mengetik” untuk meningkatkan keterlibatan, serta pendekatan penentuan fitur sesuai dengan target pasar. Di sisi lain, mahasiswa juga menyoroti risiko negatif dari kemajuan teknologi ini, termasuk ketergantungan pada media sosial, fenomena FOMO dalam social commerce, serta kebutuhan mempertimbangkan etika dan privasi dalam perancangan aplikasi interaksi sosial.",
+      "rouge": {
+        "rouge1": 0.2944,
+        "rouge2": 0.0615,
+        "rougeL": 0.1726
+      },
+      "bertscore": {
+        "precision": 0.7406,
+        "recall": 0.7154,
+        "f1": 0.7278
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\WR\\week4",
+      "title": "[Kelas B] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / B / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi B mempelajari topik \"Antarmuka\" dan membuat Weekly Reflection #4. Pembelajaran mencakup UI, UX, usability, serta Shneiderman's Eight Golden Rules sebagai pedoman desain. Mahasiswa memahami berbagai tipe antarmuka (CLI, GUI, VUI, AR, VR) dan pentingnya user-centered design. Mereka menghubungkan teori dengan aplikasi praktis seperti Tokopedia dan Shopee, serta menyadari pentingnya konsistensi, feedback, efisiensi, dan aksesibilitas untuk menciptakan pengalaman pengguna yang intuitif dan memuaskan.",
+      "reference_summary": "Dari beragam postingan, mahasiswa sepakat bahwa desain antarmuka bukan hanya urusan estetika visual, melainkan penghubung krusial antara manusia dan teknologi yang wajib memperhatikan usability serta user experience (UX) secara komprehensif untuk menghasilkan sistem yang intuitif dan efisien. Pusat perhatian diskusi terletak pada penerapan Shneiderman’s Eight Golden Rules sebagai pedoman praktis dalam perancangan dan evaluasi antarmuka. Beberapa aturan yang ditekankan mahasiswa meliputi “Reduce short-term memory load” guna meringankan beban kognitif pengguna, “Permit Easy Reversal of Actions” untuk memudahkan pembatalan tindakan, “Enable Frequent Users to Use Shortcuts” demi mempercepat akses bagi pengguna rutin, serta “Strive for Consistency” agar selaras dengan pengenalan dan skema mental manusia. Diskusi juga membahas berbagai jenis antarmuka seperti CLI, GUI, VUI, beserta minat kuat terhadap teknologi mutakhir seperti AR, MR, dan VR karena karakter imersifnya. Mahasiswa melakukan analisis aplikatif, misalnya pada platform e-commerce Tokopedia, serta menekankan hubungan erat desain antarmuka dengan batasan kognitif manusia, di mana aturan emas ini menjadi solusi efektif. Sebagian mahasiswa pula menyebutkan latihan kelompok untuk menganalisis aplikasi populer dengan menerapkan aturan tersebut.",
+      "rouge": {
+        "rouge1": 0.3167,
+        "rouge2": 0.0924,
+        "rougeL": 0.1917
+      },
+      "bertscore": {
+        "precision": 0.7541,
+        "recall": 0.6915,
+        "f1": 0.7214
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\B\\WR\\week5",
+      "title": "[Kelas B] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / B / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu ini mahasiswa Sistem Interaksi B mempelajari Proses Desain Interaksi melalui berbagai metode: User-Centered Design (UCD), Activity-Centered Design (ACD), Genius Design, dan Design Sprint. Pembelajaran utama mencakup pentingnya melibatkan pengguna secara aktif, memahami kebutuhan mereka melalui riset, dan menerapkan pendekatan iteratif berbasis feedback. Desain interaksi bukan sekadar estetika, tetapi menciptakan pengalaman pengguna yang intuitif, efisien, dan bermakna melalui tahapan sistematis: identifikasi kebutuhan, desain alternatif, prototyping, dan evaluasi berkelanjutan.",
+      "reference_summary": "Diskusi yang dibuka oleh Tim Asdos Kelas B ini mencerminkan antusiasme mahasiswa dalam merefleksikan pemahaman baru mereka. Kesepakatan mendasar di kalangan mahasiswa adalah bahwa desain berkualitas tidak lagi terpaku pada estetika belaka, melainkan mesti mengutamakan fungsionalitas, kemudahan penggunaan (usability), serta penciptaan pengalaman pengguna (UX) yang intuitif dan efisien. Mahasiswa secara luas membahas beragam metode desain, khususnya User-Centered Design (UCD) yang menjadikan pengguna sebagai inti proses sejak tahap awal. Sebagian mahasiswa menguraikan tahapan iteratif seperti identifikasi kebutuhan, pengembangan alternatif desain, pembuatan prototipe, dan evaluasi, sambil menekankan nilai umpan balik pengguna yang substansial—seperti analogi “hadiah besar untuk penemu bug” yang mengilustrasikan manfaatnya. Sementara itu, Activity-Centered Design (ACD) mendapat sorotan khusus karena orientasinya pada aktivitas pengguna secara keseluruhan, bukan persona individu, sehingga lebih skalabel dan menjamin fitur yang selaras dengan alur kerja efisien. Selain UCD dan ACD, metode seperti Design Sprint dan Genius Design turut dibahas. Design Sprint diapresiasi atas kecepatan dan ketajamannya, yang memungkinkan produksi solusi inovatif serta prototipe tervalidasi hanya dalam lima hari, jauh lebih gesit dibandingkan pendekatan konvensional. Mahasiswa juga menyebutkan Genius Design yang lebih bergantung pada intuisi desainer dengan minim masukan pengguna. Secara keseluruhan, diskusi menyimpulkan bahwa tidak ada metode desain yang secara mutlak unggul; pemilihan pendekatan tepat sangat ditentukan oleh konteks kebutuhan dan kondisi khusus proyek. Proses desain interaksi ditekankan sebagai siklus iteratif berbasis data yang berkelanjutan, dengan keterlibatan pengguna yang bermakna pada setiap tahap untuk mencegah ketidaknyamanan di kemudian hari.",
+      "rouge": {
+        "rouge1": 0.2987,
+        "rouge2": 0.1111,
+        "rougeL": 0.1623
+      },
+      "bertscore": {
+        "precision": 0.7595,
+        "recall": 0.6877,
+        "f1": 0.7219
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\FD\\week3",
+      "title": "[Kelas D] Aplikasi untuk Berinteraksi Sosial",
+      "course": "SISTER Genap 2025/2026 / C / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas D menganalisis berbagai aplikasi yang memfasilitasi interaksi sosial. Aplikasi seperti WhatsApp, Discord, Instagram, LINE, dan Google Meet menyediakan komunikasi synchronous (call, video, chat real-time) dan asynchronous (pesan, status, stories). Saran perbaikan umum mencakup: fitur pencarian pesan berdasarkan tanggal, moderasi AI untuk spam/hate speech, transkripsi otomatis voice note, screen sharing, dan notifikasi yang lebih baik untuk meningkatkan pengalaman pengguna dan keamanan privasi.",
+      "reference_summary": "Topik diskusi diawali dengan instruksi dari Syifa kepada mahasiswa untuk memilih aplikasi yang mendukung interaksi sosial, kemudian menjelaskan tipe komunikasi, fitur-fitur utamanya, serta rekomendasi perbaikan guna meningkatkan kualitas interaksi sosial di dalamnya. Dalam diskusi tersebut, Mahasiswa menganalisis Zoom, dengan menyoroti fitur kolaboratif seperti Share Screen, Zoom Docs, dan Whiteboard. Untuk perbaikan, ia merekomendasikan mekanisme yang lebih adaptif terhadap koneksi internet lemah agar pengguna tidak mudah terputus. Seorang mahasiswa lain mengkritik WhatsApp, menyatakan bahwa fitur Status dan WhatsApp Business kurang relevan, serta menyarankan penghapusan keduanya. Kemudian mahasiswa membahas LINE, menjelaskan tipe komunikasi asinkronus daring melalui obrolan dan sinkronus daring melalui panggilan suara. Rekomendasi perbaikannya adalah penyempurnaan mekanisme pengiriman pesan saat koneksi internet pulih, sehingga pesan terkirim sesuai urutan. Joanne mengulas Google Meet, yang memanfaatkan fitur panggilan suara, video, teks, serta reaksi emoji. Saran perbaikannya meliputi penambahan sistem breakout room dan peningkatan fungsi chat. Mahasiswa menganalisis Discord, menekankan tipe komunikasi asinkronus daring dan sinkronus daring. Untuk perbaikan, ia mengusulkan fitur pencarian pesan berdasarkan tanggal. Terakhir, seorang mahasiswa membahas YouTube, dengan fokus pada interaksi sosial di kolom komentar. Rekomendasi perbaikannya adalah pemulihan tampilan jumlah dislike. Secara keseluruhan, diskusi ini menyajikan pemahaman mendalam tentang beragam fitur komunikasi dan kolaborasi pada aplikasi pendukung interaksi sosial, disertai saran konstruktif untuk mengoptimalkan pengalaman pengguna.",
+      "rouge": {
+        "rouge1": 0.2816,
+        "rouge2": 0.0655,
+        "rougeL": 0.1733
+      },
+      "bertscore": {
+        "precision": 0.7164,
+        "recall": 0.6732,
+        "f1": 0.6941
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\FD\\week2",
+      "title": "Kelas C - Diskusi Interaktif Terkait Prinsip Prinsip Kognitif",
+      "course": "SISTER Genap 2025/2026 / C / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nKognisi mempengaruhi desain interaksi karena desain harus sesuai cara pengguna berpikir. Beban kognitif—usaha mental memahami antarmuka—dapat dikurangi melalui desain sederhana, konsisten, dan intuitif. Kesalahan pengguna sering terjadi karena miskonsepsi mental model mereka terhadap sistem. Solusinya adalah menyelaraskan desain dengan ekspektasi pengguna melalui ikon familiar, feedback jelas, dan konvensi desain standar untuk meningkatkan pengalaman pengguna.\n\n**Jumlah kata: 75**",
+      "reference_summary": "Diskusi  ini mengungkap pemahaman mendalam mahasiswa tentang pengaruh aspek psikologis manusia terhadap efektivitas desain antarmuka. Terkait hubungan kognisi dengan desain interaksi, mahasiswa sepakat bahwa kognisi yaitu proses berpikir dan pengolahan informasi oleh otak merupakan fondasi utama bagi desainer. Desain mesti selaras dengan pola kognisi otak agar aplikasi mudah dioperasikan, nyaman, dan intuitif tanpa membebani pemikiran pengguna secara berlebihan. Pemahaman ini memungkinkan desainer menyusun tata letak, ikon, serta navigasi yang sesuai dengan pola berpikir pengguna. Selanjutnya, dibahas beban kognitif (cognitive load), yang didefinisikan sebagai tingkat upaya mental atau energi otak yang dibutuhkan pengguna untuk memahami dan mengoperasikan antarmuka. Konsep ini juga diilustrasikan secara ringkas sebagai keadaan “lelah berpikir” akibat desain yang rumit. Untuk mengurangi beban kognitif sehingga pengguna tidak merasa tertekan atau frustrasi, mahasiswa merekomendasikan pendekatan seperti desain sederhana, konsisten (pada warna, font, dan aksen), serta pemberian umpan balik (feedback) yang eksplisit. Strategi khusus lainnya mencakup penyajian informasi secara bertahap (seperti memecah formulir panjang menjadi langkah-langkah kecil), pemanfaatan pola desain konvensional (misalnya tombol “Back” di sudut kiri atas), dan pembentukan hierarki visual yang jelas untuk mengarahkan perhatian pengguna. Akhirnya, diskusi menghubungkan kesalahan pengguna dengan ketidaksesuaian mental model mereka. Mental model didefinisikan sebagai persepsi awal atau “peta mental” pengguna tentang fungsi sistem berdasarkan pengalaman lampau. Mahasiswa menjelaskan bahwa kesalahan sering muncul ketika desain antarmuka tidak memenuhi ekspektasi atau kebiasaan pengguna. Contoh ketidaksesuaian yang disebutkan meliputi ikon hati yang lazim untuk “like” tapi difungsikan sebagai “follow” di aplikasi tertentu, tombol “cancel” berwarna hijau (bertentangan dengan konvensi warna standar), atau navigasi nonstandar (seperti memindahkan tombol tutup ‘X’ dari posisi habitual). Untuk mengatasi hal ini, mahasiswa menyarankan penggunaan logo atau simbol yang telah diterima secara luas, penambahan tooltip sebagai petunjuk, serta pengujian langsung pada pengguna (user atau beta testing) guna memverifikasi keselarasan desain dengan mental model mereka.",
+      "rouge": {
+        "rouge1": 0.2203,
+        "rouge2": 0.0511,
+        "rougeL": 0.1638
+      },
+      "bertscore": {
+        "precision": 0.7981,
+        "recall": 0.703,
+        "f1": 0.7475
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\WR\\week2",
+      "title": "[Kelas C] Weekly Reflection Minggu 2",
+      "course": "SISTER Genap 2025/2026 / C / Weekly Reflection",
+      "generated_summary": "# Ringkasan Komprehensif\n\nMahasiswa Sistem Interaksi C mempelajari Prinsip-Prinsip Kognisi dalam Desain Interaksi, mencakup enam aspek: atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Pembelajaran utama adalah bahwa desain efektif tidak hanya fokus pada estetika, tetapi harus mempertimbangkan cara otak manusia memproses informasi. Konsep penting meliputi mental model, cognitive load, recognition over recall, dan progressive disclosure. Mahasiswa menyadari bahwa desain intuitif yang sesuai dengan mental model pengguna mengurangi beban kognitif, meningkatkan pengalaman pengguna, dan menciptakan antarmuka yang mudah dipelajari, seperti penggunaan ikon konsisten dan feedback visual yang jelas.",
+      "reference_summary": "Pada thread ini, mahasiswa sepakat bahwa desain berkualitas tidak terbatas pada estetika dan fungsionalitas belaka, melainkan harus didasarkan pada pemahaman komprehensif tentang proses pengolahan informasi oleh otak manusia agar interaksi efektif, nyaman, dan intuitif. Dua konsep sentral yang paling banyak dibahas adalah keselarasan antarmuka dengan mental model pengguna serta pengendalian beban kognitif (cognitive load). Mahasiswa menekankan bahwa setiap pengguna membawa ekspektasi dari pengalaman masa lalu, sehingga desain wajib konsisten dan mengadopsi standar universal seperti ikon kaca pembesar untuk fungsi pencarian, keranjang belanja pada e-commerce, atau roda gigi untuk pengaturan guna mencegah kebingungan. Di samping itu, antarmuka yang terlalu rumit atau padat (ramai) berpotensi menimbulkan beban kognitif berlebih serta memecah perhatian, yang akhirnya membuat pengguna terbebani. Karenanya, desain harus dirancang untuk meminimalkan beban mental pengguna, dengan menerapkan pengelompokan informasi secara intuitif, mengedepankan recognition (seperti pada GUI) ketimbang recall (seperti pada CLI), serta menyediakan umpan balik yang eksplisit untuk menghindari kesalahan dan menghasilkan pengalaman yang lancar.",
+      "rouge": {
+        "rouge1": 0.3636,
+        "rouge2": 0.0833,
+        "rougeL": 0.2066
+      },
+      "bertscore": {
+        "precision": 0.7374,
+        "recall": 0.7072,
+        "f1": 0.722
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\WR\\week3",
+      "title": "[Kelas C] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / C / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu ketiga pembelajaran Sistem Interaksi C fokus pada **interaksi sosial dalam desain interaksi**. Mahasiswa mempelajari empat jenis komunikasi berdasarkan waktu dan tempat: asinkron/sinkron luring dan daring. Konsep utama mencakup **telepresence** (kehadiran virtual) dan **co-presence** (kolaborasi real-time). Pembelajaran menekankan bahwa desain interaksi yang efektif harus mendukung komunikasi bermakna antar pengguna, bukan hanya aspek teknis atau estetika. Teknologi seperti Discord, Zoom, dan Google Docs mendemonstrasikan pentingnya fitur yang memfasilitasi kolaborasi natural, dengan mempertimbangkan konteks sosial dan budaya pengguna untuk pengalaman digital yang inklusif dan berkelanjutan.",
+      "reference_summary": "Berdasarkan berbagai pemaparan di forum diskusi, poin sentral yang menonjol adalah pengertian bahwa desain interaksi tidak hanya terbatas pada pembuatan antarmuka yang estetis atau fungsional secara individu, melainkan menuntut pemahaman mendalam tentang dinamika komunikasi dan kolaborasi sosial manusia. Hal ini disebabkan karena aplikasi akhirnya akan dimanfaatkan oleh beragam pengguna dengan pola interaksi dan komunikasi yang bervariasi. Pembahasan utama mencakup kerangka kerja empat kategori komunikasi, yaitu asinkron versus sinkron serta daring versus luring. Selain itu, dibahas bagaimana mekanisme sosial konvensional seperti norma giliran bicara atau isyarat nonverbal dalam percakapan tatap muka berkembang dan menyesuaikan diri di lingkungan digital. Contohnya, penggunaan emotikon atau reaksi cepat untuk menggantikan kekurangan isyarat fisik tersebut. Lebih jauh, terdapat penekanan kuat pada konsep telepresence (teknologi virtual yang mensimulasikan kehadiran fisik) dan co-presence (interaksi simultan secara real-time yang menciptakan rasa kehidupan dalam komunikasi). Pemahaman terhadap elemen-elemen seperti antarmuka berbagi, koordinasi spasial, dan kesadaran situasional menjadi kunci untuk merancang pengalaman kolaborasi virtual yang autentik, sekaligus menjelaskan mengapa beberapa platform terasa lebih engaging dibandingkan yang lain. Secara konkret, para peserta diskusi mengaitkannya dengan pengalaman harian mereka, seperti penggunaan Discord (sinkron via suara versus asinkron via teks), Microsoft Teams (fitur ruang breakout untuk pembelajaran daring), Zoom (fungsi pengangkatan tangan untuk mengatur giliran bicara), serta WhatsApp (mekanisme giliran digital melalui obrolan dan emoji). Masing-masing platform ini menampilkan desain interaksi unik yang secara signifikan membentuk pola interaksi sosial pengguna.",
+      "rouge": {
+        "rouge1": 0.3396,
+        "rouge2": 0.0506,
+        "rougeL": 0.1698
+      },
+      "bertscore": {
+        "precision": 0.7242,
+        "recall": 0.684,
+        "f1": 0.7035
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\WR\\week4",
+      "title": "[Kelas C] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / C / Weekly Reflection",
+      "generated_summary": "# Ringkasan Materi Minggu Keempat: Antarmuka\n\nMahasiswa Sistem Interaksi C mempelajari topik \"Antarmuka\" yang mencakup tiga konsep utama: User Interface (UI/tampilan visual), Usability (kemudahan penggunaan), dan User Experience (pengalaman pengguna). Pembelajaran berfokus pada Shneiderman's Eight Golden Rules of Interface Design, yang menekankan konsistensi, umpan balik informatif, pencegahan kesalahan, dan kontrol pengguna untuk menciptakan antarmuka intuitif. Mahasiswa mempelajari berbagai jenis antarmuka—CLI, GUI, VUI, haptic, AR/VR, wearable, dan appliance—dengan pendekatan User-Centered Design lebih efektif daripada Designer-Centered Design. Pembelajaran ini meningkatkan pemahaman bahwa desain antarmuka berkualitas memerlukan keseimbangan fungsionalitas, estetika, dan kebutuhan pengguna, bukan hanya visual menarik.",
+      "reference_summary": "Mengikuti instruksi dari Tim Asdos Kelas C yang mengajak mahasiswa berbagi wawasan baru atau pengalaman pribadi, beberapa peserta menyampaikan poin-poin paling menarik menurut mereka. Topik \"Shneiderman’s Eight Golden Rules of Interface Design\" menjadi fokus utama, dengan penekanan pada prinsip konsistensi, umpan balik yang informatif, serta fitur perbaikan kesalahan yang sederhana seperti fungsi undo dan konfirmasi transaksi. Prinsip-prinsip ini dianggap sangat relevan dan diterapkan luas pada aplikasi sehari-hari, seperti platform e-commerce dan layanan perbankan. Diskusi juga menghadirkan pemahaman baru tentang perbedaan serta keterkaitan antara UI, UX, dan Usability. Peserta menyadari bahwa desain antarmuka tidak sekadar mengejar estetika (UI), melainkan harus memastikan fungsionalitas yang mendukung penyelesaian tugas secara efisien (usability), guna menghasilkan pengalaman pengguna (UX) yang optimal secara keseluruhan. Selain itu, bahasan mencakup beragam jenis antarmuka, termasuk Command-Line Interface (CLI), Graphical User Interface (GUI), Voice User Interface (VUI), antarmuka haptik, serta teknologi mutakhir seperti Augmented Reality (AR) dan Virtual Reality (VR). Ditekankan pula pentingnya pendekatan user-centered design untuk menyelaraskan desain antarmuka dengan kebutuhan pengguna serta konteks pemanfaatannya. Penggunaan metode concept mapping pun disebut sebagai alat efektif yang memudahkan pemahaman keterkaitan antar-elemen desain secara lebih terstruktur.",
+      "rouge": {
+        "rouge1": 0.4124,
+        "rouge2": 0.1246,
+        "rougeL": 0.2268
+      },
+      "bertscore": {
+        "precision": 0.7457,
+        "recall": 0.7169,
+        "f1": 0.731
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\C\\WR\\week5",
+      "title": "[KELAS C] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / C / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nPada minggu kelima, mahasiswa Sistem Interaksi Kelas C mempelajari Proses Desain Interaksi yang mencakup empat tahap: identifikasi kebutuhan, perancangan alternatif, prototyping, dan evaluasi. Terdapat empat metode utama—User-Centered Design (UCD), Activity-Centered Design (ACD), Genius Design, dan Design Sprint—masing-masing dengan pendekatan berbeda. UCD menempatkan pengguna sebagai fokus utama melalui riset dan iterasi, sementara Design Sprint memungkinkan pengembangan cepat. Insight kunci: tidak ada metode universal terbaik; pemilihan harus disesuaikan konteks, timeline, dan kompleksitas proyek untuk menghasilkan desain interaksi yang intuitif, efektif, dan memenuhi kebutuhan pengguna secara optimal.",
+      "reference_summary": "Peserta membahas beragam metodologi desain, seperti User Centered Design (UCD), Activity Centered Design (ACD), Genius Design, dan Design Sprint, dengan catatan bahwa pemilihan metode harus disesuaikan dengan keterbatasan waktu serta kapabilitas tim. UCD mendapat sorotan khusus berkat keterlibatan pengguna sejak tahap awal untuk memastikan produk selaras dengan harapan mereka. Hal ini dirasakan secara nyata melalui evaluasi heuristik pada aplikasi JAKI, yang membuka kesadaran bahwa pengguna kerap kesulitan mengartikulasikan kebutuhan secara eksplisit, sehingga desainer wajib menghindari asumsi subjektif. Konsep Double Diamond of Design juga menjadi sorotan utama, karena menekankan esensi fase Discover dan Define untuk menggali masalah secara mendalam sebelum terburu-buru ke solusi. Peserta turut menyadari sifat iteratif proses desain yang secara alami menuntut revisi berulang. Mereka juga mengevaluasi kelebihan pendekatan cepat seperti Design Sprint untuk tugas kelompok, guna menghindari perencanaan yang molor, meskipun metode seperti Genius Design dan Design Sprint menuntut keahlian UI/UX tingkat lanjut yang mungkin menantang bagi pemula dibandingkan UCD.",
+      "rouge": {
+        "rouge1": 0.3347,
+        "rouge2": 0.1235,
+        "rougeL": 0.1959
+      },
+      "bertscore": {
+        "precision": 0.7219,
+        "recall": 0.6914,
+        "f1": 0.7063
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\FD\\week2",
+      "title": "Kelas D - Kaitan Kognisi dengan Interaction Design dan Mental Model",
+      "course": "SISTER Genap 2025/2026 / D / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nDiskusi kelas membahas tiga konsep utama Interaction Design: (1) **Kognisi** adalah proses mental meliputi atensi, persepsi, memori, dan pembelajaran yang memungkinkan manusia memahami informasi; (2) **Interaction Design** harus sesuai dengan cara berpikir pengguna untuk menciptakan interface intuitif dan mengurangi beban kognitif; (3) **Mental Model** adalah ekspektasi pengguna berdasarkan pengalaman sebelumnya (contoh: ikon keranjang belanja, tombol back, simbol X untuk menutup). Pemahaman ketiga konsep ini penting untuk merancang pengalaman pengguna yang efektif dan memuaskan.",
+      "reference_summary": "Pembahasan menekankan bahwa kognisi merupakan proses mental atau psikologis yang berlangsung ketika seseorang memahami atau mempelajari sesuatu, melibatkan berbagai aspek seperti atensi, persepsi, memori, pembelajaran, kemampuan berbahasa, serta metakognisi. Dalam ranah UI/UX, kognisi dilihat sebagai mekanisme di mana pengguna mengenali dan menafsirkan desain, baik dari segi visual maupun fungsional, yang mencerminkan pola kerja otak dalam memproses lingkungan sekitar. Hubungan kognisi dengan Interaction Design bersifat sangat erat, karena membantu desainer memahami pola interaksi manusia dengan teknologi, termasuk persepsi terhadap informasi. Desain yang efektif wajib memperhitungkan batasan kognitif pengguna seperti beban kognitif (cognitive load) guna menghasilkan antarmuka yang intuitif dan user-friendly. Kognisi ini menjadi dasar pengambilan keputusan desain yang tepat sasaran, demi memenuhi kebutuhan fungsional pengguna secara optimal. Diskusi selanjutnya membahas mental model, yang didefinisikan sebagai kerangka pemikiran, ekspektasi, representasi abstrak, atau pola kebiasaan yang dimiliki individu untuk menafsirkan dunia dan berinteraksi dengan desain, berdasarkan pengalaman masa lalu. Mental model ini memungkinkan desainer mengantisipasi ekspektasi pengguna. Contoh yang disajikan sangat beragam, mulai dari kebiasaan fisik seperti memilih jalan pintas menyeberang rumput, hingga pola digital seperti mengharapkan ikon keranjang belanja di pojok kanan atas situs e-commerce, keberadaan menu pencarian serta riwayat di platform streaming, atau ikon tong sampah yang secara intuitif diasosiasikan dengan fungsi penghapusan. Elemen seperti ikon hamburger dan tombol X juga disebut sebagai contoh yang membentuk mental model pengguna. Pengguna dengan pengalaman terbatas mungkin mengalami kebingungan awal, tetapi mental model akan matang seiring interaksi yang lebih intensif.",
+      "rouge": {
+        "rouge1": 0.2675,
+        "rouge2": 0.0769,
+        "rougeL": 0.172
+      },
+      "bertscore": {
+        "precision": 0.7194,
+        "recall": 0.6915,
+        "f1": 0.7051
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\WR\\week1",
+      "title": "[Kelas D] Weekly Reflection Minggu 1",
+      "course": "SISTER Genap 2025/2026 / D / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nDosen Syifa meminta mahasiswa Sistem Interaksi Kelas D menulis refleksi minggu pertama perkuliahan yang menghubungkan materi dengan pengalaman pribadi, bukan sekadar ringkasan. Mayoritas mahasiswa menyadari bahwa desain interaksi bukan hanya tentang estetika visual, tetapi fokus pada usability, user experience, dan kemudahan pengguna berinteraksi dengan sistem. Prinsip-prinsip kunci meliputi visibility, feedback, consistency, dan affordance. Desain yang efektif memerlukan riset mendalam tentang kebutuhan pengguna, proses iteratif dengan umpan balik berkelanjutan, dan keseimbangan antara tampilan menarik dengan fungsionalitas. Pembelajaran ini meningkatkan kesadaran mahasiswa tentang kompleksitas desain di balik produk sehari-hari dan motivasi mereka mengembangkan keterampilan desain interaksi yang user-centric.",
+      "reference_summary": "Mahasiswa mengaitkan materi dengan pengetahuan sebelumnya atau berbagi wawasan baru, pembahasan didominasi oleh perubahan paradigma mengenai hakikat desain sistem interaksi. Desain dipahami bukan hanya sebagai visualisasi menarik, melainkan sebagai saluran komunikasi tidak langsung yang efektif untuk menyampaikan pesan serta memudahkan pengguna memahami alur dan logika sistem secara intuitif. Peserta merefleksikan urgensi membedakan good design dari bad design dengan memprioritaskan kebutuhan serta kenyamanan pengguna di atas aspek estetika belaka seperti kritik terhadap pilihan warna antarmuka SCELE Fasilkom yang kurang nyaman untuk pemakaian jangka panjang. Wawasan segar juga timbul seputar kerangka Software Development Life Cycle (SDLC), di mana tahap desain ternyata menuntut riset mendalam tentang perilaku pengguna, tidak terbatas pada User Interface (UI) semata, tetapi juga User Experience (UX). Selain itu, muncul momen pencerahan terkait aspek Usability, khususnya Memorability, dengan contoh pengalaman peserta yang sering kebingungan saat menavigasi sistem SIAK-NG yang intuitif namun jarang digunakan. Hal ini menegaskan bahwa desain harus mendukung kemudahan dan kenyamanan penggunaan, terutama pada sistem yang tidak rutin diakses.",
+      "rouge": {
+        "rouge1": 0.2966,
+        "rouge2": 0.0613,
+        "rougeL": 0.1445
+      },
+      "bertscore": {
+        "precision": 0.7168,
+        "recall": 0.6884,
+        "f1": 0.7023
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\WR\\week2",
+      "title": "[Kelas D] Weekly Reflection Minggu 2",
+      "course": "SISTER Genap 2025/2026 / D / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi D mempelajari Prinsip-Prinsip Kognisi dalam Desain Interaksi, mencakup atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Konsep utama adalah mental model—ekspektasi pengguna berdasarkan pengalaman sebelumnya. Desain efektif harus selaras dengan cara berpikir manusia, mengurangi beban kognitif melalui layout intuitif, ikon familiar, dan konsistensi, sehingga menciptakan pengalaman pengguna yang nyaman dan efisien tanpa membingungkan pengguna.",
+      "reference_summary": "Pada thread ini, peserta berbagi berbagai wawasan baru dan poin menarik dari perkuliahan, dengan penekanan utama pada konsep mental model. Mental model digambarkan sebagai persepsi bawaan atau ekspektasi internal pengguna terhadap fungsi situs web atau aplikasi, yang terbentuk dari pengalaman sebelumnya. Diskusi sepakat bahwa pemahaman mendalam tentang mental model pengguna bersifat esensial untuk menghasilkan desain yang intuitif, efektif, dan selaras dengan pola berpikir serta batasan kognitif manusiat ermasuk beban kognitif (cognitive load) sehingga menghindari kebingungan akibat perubahan tata letak atau fitur baru. Peserta juga menyadari bahwa desain UI/UX yang optimal bukan sekadar estetika visual yang menawan, melainkan penciptaan pengalaman fungsional yang nyaman dan familiar, ibarat merancang rumah yang tidak hanya indah tetapi juga praktis sesuai kebutuhan penghuninya. Penerapan praktis yang dibahas mencakup konsistensi navigasi, penempatan ikon secara strategis seperti adaptasi ikon versus teks di Instagram atau ikon sendok garpu merah di Go Food untuk menarik perhatian , pengelompokan elemen serupa, pemberian warna kontras, serta penyederhanaan antarmuka untuk kelompok pengguna khusus seperti orang tua. Strategi ini didasarkan pada prinsip memori dan pengenalan objek oleh otak manusia. Secara keseluruhan, forum mencerminkan kesadaran mendalam bahwa ilmu UI/UX pada intinya merupakan adaptasi terhadap prinsip kognisi manusia guna menghasilkan produk digital yang fungsional dan diminati.",
+      "rouge": {
+        "rouge1": 0.2759,
+        "rouge2": 0.0541,
+        "rougeL": 0.1609
+      },
+      "bertscore": {
+        "precision": 0.7474,
+        "recall": 0.6837,
+        "f1": 0.7141
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\WR\\week3",
+      "title": "[Kelas D] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / D / Weekly Reflection",
+      "generated_summary": "# Ringkasan Komprehensif Weekly Reflection #3: Interaksi Sosial dalam Desain Interaksi\n\nMahasiswa Sistem Interaksi Kelas D mempelajari topik \"Interaksi Sosial dalam Desain Interaksi\" minggu ketiga. Pembelajaran mencakup empat jenis komunikasi berdasarkan waktu (sinkron/asinkron) dan tempat (tatap muka/online), serta konsep telepresence dan co-presence. Mahasiswa menghubungkan teori dengan pengalaman praktis menggunakan Zoom, Discord, Google Meet, dan platform kolaboratif lainnya. Mereka menyadari pentingnya memilih jenis komunikasi sesuai konteks, bahwa desain interaksi yang baik harus memfasilitasi komunikasi alami, dan teknologi menciptakan kehadiran virtual yang bermakna meski jarak terpisah.",
+      "reference_summary": "Berdasarkan berbagai refleksi dari peserta, pembahasan utama menyoroti urgensi bagi desainer untuk memahami mekanisme sosial serta pola komunikasi sehari-hari manusia, guna merancang produk interaktif yang tepat sasaran. Poin yang paling menarik adalah konsep co-presence, yaitu kehadiran virtual bersama dalam satu antarmuka atau dunia virtual seperti pada game online Roblox yang membedakan pola bermain generasi saat ini dengan generasi sebelumnya serta telepresence, yakni teknologi virtual yang menciptakan ilusi kehadiran fisik tatap muka, contohnya melalui Zoom, Google Meet, Discord, TeamViewer, atau VR yang semakin terasa bermanfaat berkat fleksibilitasnya pasca-pandemi. Diskusi juga menghadirkan pemahaman mendalam tentang klasifikasi interaksi sosial menurut variasi waktu (sinkronus versus asinkronus) dan tempat (sama versus berbeda). Peserta merefleksikan efektivitas komunikasi sinkronus seperti rapat online atau video call untuk pengambilan keputusan cepat, serta asinkronus seperti forum diskusi, email, atau obrolan santai di WhatsApp yang memungkinkan respons saat waktu senggang. Klasifikasi ini memiliki implikasi beragam terhadap desain pengalaman pengguna, agar terasa autentik dan mendukung kolaborasi secara optimal.",
+      "rouge": {
+        "rouge1": 0.2612,
+        "rouge2": 0.0576,
+        "rougeL": 0.1061
+      },
+      "bertscore": {
+        "precision": 0.7195,
+        "recall": 0.6951,
+        "f1": 0.7071
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\WR\\week4",
+      "title": "[Kelas D] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / D / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu ini mahasiswa Sistem Interaksi D mempelajari antarmuka (interface) dengan fokus pada Shneiderman's Eight Golden Rules sebagai panduan desain. Pembelajaran mencakup perbedaan UI (tampilan visual), UX (pengalaman pengguna), dan usability (kemudahan penggunaan). Mahasiswa juga mempelajari berbagai jenis antarmuka—dari CLI dan GUI hingga VUI, AR, VR, dan wearable devices—serta menyadari bahwa desain antarmuka tidak hanya ada di software, tetapi juga perangkat sehari-hari. Insight utama: desain antarmuka yang baik harus mengutamakan kenyamanan pengguna, konsistensi, feedback informatif, dan efisiensi, bukan sekadar estetika.",
+      "reference_summary": "Forum dimulai dengan diskusi instruksi untuk menyusun \"Weekly Reflection #4\", yang bukan sekadar ringkasan materi, melainkan refleksi pribadi atas pembelajaran, pengalaman kelompok, atau wawasan baru yang diperoleh. Berbagai peserta merespons dengan berbagi pemikiran mereka. Salah satu wawasan utama yang menonjol adalah pengertian bahwa antarmuka tidak terbatas pada perangkat komputer, melainkan meliputi peralatan rumah tangga serta objek fisik lainnya seperti pembuka botol yang menggarisbawahi esensi desain optimal untuk mendukung fungsionalitas dan pengalaman pengguna. Pembahasan teoretis berpusat pada perbedaan antara User Interface (UI), User Experience (UX), dan Usability, disertai penekanan kuat pada \"Shneiderman's Eight Golden Rules of Interface Design\", termasuk prinsip konsistensi, umpan balik informatif, serta kemudahan pembatalan aksi dengan contoh konkret seperti fitur undo di Google Docs. Peserta juga mengeksplorasi beragam jenis antarmuka, mulai dari Command-Line Interface (CLI) dan Graphical User Interface (GUI) hingga Voice User Interface (VUI), haptic, Augmented Reality (AR), Virtual Reality (VR), serta teknologi wearable, semuanya menekankan integrasi estetika dan fungsi untuk menghasilkan pengalaman pengguna yang intuitif serta memuaskan.",
+      "rouge": {
+        "rouge1": 0.3871,
+        "rouge2": 0.0976,
+        "rougeL": 0.1855
+      },
+      "bertscore": {
+        "precision": 0.7543,
+        "recall": 0.696,
+        "f1": 0.724
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\D\\WR\\week5",
+      "title": "[Kelas D] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / D / Weekly Reflection",
+      "generated_summary": "# Ringkasan\n\nPada minggu kelima, mahasiswa Sistem Interaksi Kelas D mempelajari Proses Desain Interaksi yang mencakup empat tahap utama: penentuan kebutuhan, perancangan alternatif, prototyping, dan evaluasi. Terdapat empat metode desain: User-Centered Design (UCD) yang melibatkan pengguna aktif, Activity-Centered Design (ACD) fokus pada aktivitas stakeholder, Genius Design mengandalkan intuisi desainer, dan Design Sprint untuk solusi cepat dalam lima hari. Mahasiswa menyadari desain interaksi bukan hanya estetika, tetapi pemecahan masalah sistematis yang menciptakan pengalaman pengguna intuitif dan efisien melalui iterasi berkelanjutan dan validasi pengguna. Setiap metode memiliki konteks dan keunggulan unik yang harus disesuaikan dengan kebutuhan proyek spesifik.",
+      "reference_summary": "Forum dibuka dengan ajakan bagi mahasiswa untuk berbagi refleksi unik yang mengaitkan materi dengan pengalaman atau pengetahuan lampau, serta wawasan baru atau momen pencerahan ('AHA!'). Secara keseluruhan, pembahasan berfokus pada alur desain mulai dari identifikasi kebutuhan hingga evaluasi, disertai eksplorasi berbagai metode seperti User-Centered Design (UCD), Activity-Centered Design (ACD), Genius Design, dan Design Sprint. Peserta menyampaikan wawasan krusial, termasuk perubahan paradigma bahwa desain bukan hanya soal visual atau estetika, melainkan penciptaan pengalaman pengguna yang intuitif. Momen pencerahan paling menonjol meliputi kesadaran akan esensi keterlibatan pengguna dibandingkan mengandalkan intuisi desainer, pengakuan bahwa iterasi dan pengujian merupakan komponen inti bukan sekadar tambahan serta pemahaman bahwa evaluasi terintegrasi sepenuhnya dalam proses desain. Aplikasi praktis juga dibahas, seperti evaluasi heuristik pada aplikasi Jaki. Kesimpulan bersama menegaskan bahwa tidak ada metode desain tunggal yang superior; setiap pendekatan memiliki kelebihan dan konteks penerapan tersendiri.",
+      "rouge": {
+        "rouge1": 0.3966,
+        "rouge2": 0.1362,
+        "rougeL": 0.2532
+      },
+      "bertscore": {
+        "precision": 0.7707,
+        "recall": 0.7315,
+        "f1": 0.7506
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\FD\\week2",
+      "title": "Kelas E - Diskusi Interaktif Terkait Prinsip Prinsip Kognitif",
+      "course": "SISTER Genap 2025/2026 / E / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nKognisi memengaruhi desain interaksi karena antarmuka harus sesuai cara pengguna memproses informasi. Beban kognitif—usaha mental untuk memahami sistem—dapat dikurangi melalui desain sederhana, konsisten, dan visual jelas. Kesalahan pengguna terjadi ketika antarmuka tidak sesuai mental model mereka berdasarkan pengalaman sebelumnya, sehingga desainer harus menciptakan interface intuitif yang selaras dengan ekspektasi pengguna.",
+      "reference_summary": "Berdasarkan pemantik diskusi, forum sepakat bahwa proses kognisi manusia seperti persepsi, pemrosesan berpikir, dan pengambilan keputusan merupakan dasar krusial untuk merancang antarmuka yang intuitif. Mengenai beban kognitif (cognitive load), yang didefinisikan sebagai usaha mental yang dibutuhkan pengguna, diskusi menyoroti bahwa kelebihan beban akibat desain kompleks dapat menghalangi penyelesaian tugas. Strategi pengurangannya yang dibahas mencakup penyederhanaan elemen visual, pengelompokan informasi logis, pemanfaatan ikon konvensional, pemendekan alur proses, pemberian umpan balik instan melalui notifikasi, serta prinsip \"recognition over recall\". Terakhir, forum menekankan bahwa kesalahan pengguna sering berakar pada ketidaksesuaian mental model mereka yaitu representasi internal tentang fungsi sistem yang terbentuk dari pengalaman sebelumnya. Ketidakselarasan antara mental model ini dengan desain aktual, yang biasanya disebabkan oleh inkonsistensi atau inovasi berlebih, memicu kesalahan, oleh karena itu, desainer dianjurkan untuk memahami dan menyelaraskan rancangan dengan mental model pengguna.",
+      "rouge": {
+        "rouge1": 0.3316,
+        "rouge2": 0.0757,
+        "rougeL": 0.1925
+      },
+      "bertscore": {
+        "precision": 0.7556,
+        "recall": 0.6904,
+        "f1": 0.7216
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\WR\\week1",
+      "title": "[KELAS E] Weekly Reflection Minggu 1",
+      "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+      "generated_summary": "# RINGKASAN PADAT\n\nMinggu pertama kuliah Desain Interaksi menekankan bahwa UI yang menarik tidak menjamin UX yang baik. Mahasiswa belajar bahwa desain berkualitas memerlukan keseimbangan antara estetika dan fungsionalitas, melibatkan riset pengguna mendalam, serta menerapkan lima prinsip utama: visibility, feedback, constraints, consistency, dan affordance. Desain interaksi adalah proses iteratif berfokus pada kebutuhan pengguna, bukan preferensi desainer, untuk menghasilkan produk intuitif, efisien, dan memuaskan.",
+      "reference_summary": "Forum ini menjadi ruang bagi peserta untuk berbagi wawasan baru serta pengalaman pasca-minggu pertama perkuliahan. Secara keseluruhan, pembahasan berpusat pada perubahan paradigma bahwa desain bukan terbatas pada estetika atau keindahan visual, melainkan harus mengutamakan fungsionalitas dan kebutuhan pengguna. Tema paling menonjol adalah pemahaman mendalam tentang perbedaan User Interface (UI) dan User Experience (UX), dengan kesadaran bersama bahwa daya tarik visual tidak menjamin pengalaman pengguna yang optimal. Diskusi juga menekankan penerapan lima prinsip dasar desain interaksi Visibility, Feedback, Constraints, Consistency, dan Affordance sebagai pedoman unggul ketimbang sekadar menjiplak produk existing. Peserta menyoroti urgensi riset mendalam tentang pengguna sebelum merancang, guna menghasilkan produk yang benar-benar bermanfaat, serta memahami dinamika Usability Goals versus User Experience Goals yang saling terkait namun berfokus berbeda. Terakhir, dibahas pentingnya proses desain iteratif yang melibatkan pengguna dalam pengujian dan penyempurnaan.",
+      "rouge": {
+        "rouge1": 0.4388,
+        "rouge2": 0.1237,
+        "rougeL": 0.2041
+      },
+      "bertscore": {
+        "precision": 0.7592,
+        "recall": 0.7128,
+        "f1": 0.7353
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\WR\\week2",
+      "title": "[Kelas E] Weekly Reflection Minggu 2",
+      "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi E mempelajari Prinsip-prinsip Kognitif dalam desain antarmuka minggu ini. Pembelajaran utama mencakup enam aspek: atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Mahasiswa menyadari bahwa desain efektif bukan hanya estetika, melainkan mengurangi cognitive load pengguna melalui informasi terstruktur, ikon familiar, dan konsistensi. Mental model pengguna sangat penting—desain harus sesuai ekspektasi pengguna agar intuitif. Prinsip-prinsip kognitif diterapkan untuk meningkatkan pengalaman pengguna yang optimal dan efisien.",
+      "reference_summary": "Pembahasan didominasi oleh perubahan pemahaman bahwa desain antarmuka yang optimal tidak sekadar mengejar estetika, melainkan harus selaras dengan pola berpikir manusia untuk menghasilkan antarmuka intuitif. Peserta kini menguasai berbagai proses kognisi utama seperti atensi, persepsi, memori, pembelajaran, kemampuan berbahasa, dan metakognisi serta penerapannya dalam desain, misalnya melalui ikon familiar dan umpan balik visual yang mendukung prinsip recognition over recall. Tema sentral lainnya adalah pengelolaan beban kognitif (cognitive load) pengguna, yang terbagi menjadi intrinsic load, extraneous load, dan germane load, dengan strategi seperti eksternalisasi kognisi via anotasi serta alat bantu visual. Pemahaman tentang mental model turut menjadi fokus, di mana desain dianjurkan konsisten dan sesuai ekspektasi pengguna guna mencegah kebingungan atau frustrasi sebagaimana terlihat dari pengalaman salah satu peserta yang mengalami kesalahan fokus akibat ketidaksesuaian mental model dengan fitur aplikasi. Secara keseluruhan, integrasi prinsip kognitif ini esensial untuk menciptakan sistem yang efisien, nyaman, dan bebas dari kelebihan informasi yang membebani pengguna.",
+      "rouge": {
+        "rouge1": 0.3891,
+        "rouge2": 0.1644,
+        "rougeL": 0.2262
+      },
+      "bertscore": {
+        "precision": 0.7695,
+        "recall": 0.722,
+        "f1": 0.745
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\WR\\week3",
+      "title": "[Kelas E] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+      "generated_summary": "# Ringkasan Konten Pembelajaran Minggu ke-3: Interaksi Sosial dalam Desain Interaksi\n\nMinggu ini mahasiswa Sistem Interaksi E mempelajari Interaksi Sosial dalam Desain Interaksi. Pembelajaran mencakup empat jenis komunikasi (sinkron-asinkron, in-person-online), konsep telepresence dan co-presence, serta penerapannya dalam platform digital seperti Google Meet, Zoom, dan media sosial. Mahasiswa memahami bahwa desain interaksi yang efektif bukan hanya tentang tampilan visual dan fitur, tetapi juga mendukung komunikasi dan kolaborasi pengguna. Mereka juga belajar membuat concept mapping menggunakan kit-build untuk penyusunan materi terstruktur. Insight utama: desain interaksi harus mempertimbangkan aspek sosial pengguna untuk menciptakan pengalaman komunikasi yang intuitif, inklusif, dan meningkatkan koneksi antarpengguna.",
+      "reference_summary": "Berdasarkan utas forum ini, beberapa poin krusial direfleksikan peserta pasca-pembelajaran materi minggu ini. Pertama, disadari betapa esensialnya pemahaman interaksi sosial dalam perancangan produk interaktif, agar hasilnya selaras dengan pola komunikasi dan kolaborasi manusia di dunia nyata, bukan terpaku pada fitur belaka. Kedua, pembahasan intens menyoroti perbedaan komunikasi sinkron (real-time) dan asinkron, dengan ilustrasi nyata dari platform seperti Zoom, Google Meet, WhatsApp, Kahoot!, serta VR. Peserta juga mendalami konsep telepresence dan co-presence, yang memfasilitasi rasa kehadiran virtual meski terpisah jarak. Ketiga, tercermin urgensi kejelasan serta kecepatan dalam komunikasi digital tertulis, termasuk pemanfaatan emoji untuk mensubstitusi isyarat nonverbal guna mencegah salah tafsir pesan. Di luar materi inti interaksi sosial, sebagian peserta berbagi pengalaman praktis dari sesi Rabu tentang pembuatan concept mapping bertema climate change menggunakan metode kit-build, yang membantu menyusun materi secara terstruktur demi meningkatkan efektivitas pembelajaran.",
+      "rouge": {
+        "rouge1": 0.3786,
+        "rouge2": 0.1162,
+        "rougeL": 0.2222
+      },
+      "bertscore": {
+        "precision": 0.7272,
+        "recall": 0.7003,
+        "f1": 0.7135
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\WR\\week4",
+      "title": "[Kelas E] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+      "generated_summary": "# Ringkasan Teks\n\nMinggu ini mahasiswa Sistem Interaksi E mempelajari antarmuka, mencakup perbedaan UI, Usability, dan UX. Pembelajaran utama meliputi Shneiderman's Eight Golden Rules untuk desain antarmuka efektif, perbedaan user-centered dan designer-centered design, serta berbagai jenis antarmuka (CLI, GUI, VUI, AR/VR, haptic). Melalui concept mapping, diskusi kelompok, dan analisis aplikasi nyata, mahasiswa menyadari desain antarmuka bukan hanya estetika visual, tetapi juga kemudahan interaksi, umpan balik informatif, dan pengalaman pengguna holistik yang memuaskan.\n\n**Jumlah kata: 82**",
+      "reference_summary": "Diskusi ini menekankan introspeksi peserta atas wawasan baru serta pengalaman belajar mereka. Tema sentral yang menonjol adalah pemahaman mendalam tentang perbedaan User Interface (UI), Usability, dan User Experience (UX), dengan kesadaran bahwa ketiga elemen ini esensial agar sistem tidak hanya menarik secara visual, melainkan juga menyediakan pengalaman memuaskan serta kemudahan penggunaan. Sebagian besar peserta menyoroti penerapan \"Shneiderman's Eight Golden Rules of Interface Design\" sebagai pedoman pokok, disertai wawasan spesifik seperti urgensi informative feedback untuk klarifikasi aksi pengguna, simple error handling guna mengurangi frustrasi (misalnya pada aplikasi BCA mobile), consistency dalam navigasi, shortcuts demi efisiensi dan minimasi beban mental (seperti di WhatsApp, Instagram, Gmail), serta easy reversal yang memungkinkan eksplorasi bebas tanpa kekhawatiran kesalahan permanen. Diskusi juga membahas pentingnya User-Centered Design untuk menyelaraskan rancangan dengan kebutuhan pengguna, serta pengenalan beragam bentuk antarmuka inovatif termasuk CLI, GUI, VUI, haptic interfaces, AR, VR, mixed reality, wearable, dan appliance interfaces lengkap dengan kelebihan serta tantangannya. Terakhir, beberapa peserta berbagi pengalaman mengaplikasikan prinsip-prinsip ini dalam evaluasi dan review aplikasi nyata untuk Laporan Kegiatan (LK) mereka.",
+      "rouge": {
+        "rouge1": 0.3028,
+        "rouge2": 0.1044,
+        "rougeL": 0.1992
+      },
+      "bertscore": {
+        "precision": 0.7396,
+        "recall": 0.6923,
+        "f1": 0.7152
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\E\\WR\\week5",
+      "title": "[Kelas E] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / E / Weekly Reflection",
+      "generated_summary": "# RINGKASAN PADAT\n\nMinggu ini mahasiswa Sistem Interaksi E mempelajari Proses Desain Interaksi melalui empat tahap: Discover, Define, Develop, dan Deliver. Pembelajaran mencakup berbagai metode seperti User-Centered Design (UCD), Activity-Centered Design (ACD), Genius Design, dan Design Sprint, masing-masing dengan pendekatan unik. Insight utama adalah desain interaksi bukan hanya estetika, melainkan proses iteratif yang mengutamakan pemahaman mendalam terhadap kebutuhan pengguna, pengujian berulang, dan umpan balik untuk menciptakan pengalaman pengguna yang optimal dan fungsional. Tidak ada metode universal terbaik; pemilihan disesuaikan dengan konteks dan kebutuhan proyek spesifik.",
+      "reference_summary": "Diskusi ini menekankan refleksi atas wawasan baru, bukan sekadar ringkasan materi. Peserta menyimpulkan bahwa proses desain interaksi merupakan pendekatan pemecahan masalah berorientasi tujuan (goal-oriented) untuk menghasilkan inovasi kreatif, yang umumnya mencakup empat tahap utama: Discover, Define, Develop, dan Deliver. Berbagai metode desain dieksplorasi secara mendalam, khususnya User-Centered Design (UCD) yang memposisikan pemahaman kebutuhan, perilaku, serta ekspektasi pengguna sebagai inti pengambilan keputusan melalui pengujian iteratif dan umpan balik. Diskusi juga mengakui keabsahan metode alternatif seperti Genius Design yang bergantung pada intuisi desainer tanpa pengujian pengguna masif (seperti pada produk Apple) serta Design Sprint (pendekatan iterasi cepat dari Google Ventures) yang cocok untuk kondisi keterbatasan sumber daya atau waktu. Peserta menegaskan bahwa desain berkualitas bukan hanya estetika semata, melainkan perpaduan harmonis antara pemecahan masalah, kreativitas, dan pengambilan keputusan berbasis riset, guna menciptakan pengalaman pengguna yang optimal dan efisien dengan kunci utama pada fleksibilitas pemilihan metode sesuai konteks proyek.",
+      "rouge": {
+        "rouge1": 0.4681,
+        "rouge2": 0.1888,
+        "rougeL": 0.3149
+      },
+      "bertscore": {
+        "precision": 0.7743,
+        "recall": 0.7349,
+        "f1": 0.7541
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\FD\\week3",
+      "title": "[Kelas F] Aplikasi untuk Berinteraksi Sosial",
+      "course": "SISTER Genap 2025/2026 / F / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas F menganalisis berbagai aplikasi yang memfasilitasi interaksi sosial, termasuk WhatsApp, Discord, Instagram, LINE, TikTok, YouTube, dan Telegram. Setiap aplikasi mendukung komunikasi sinkron (video call, live streaming) dan asinkron (chat, komentar). Saran perbaikan mencakup peningkatan moderasi AI, fitur kolaborasi yang lebih baik, thread terstruktur, dan deteksi konten negatif untuk menciptakan lingkungan interaksi yang lebih positif dan efisien.",
+      "reference_summary": "Secara keseluruhan, peserta mengidentifikasi serta membedakan jenis komunikasi pada aplikasi pilihan mereka, yaitu sinkron (real-time atau langsung) dan asinkron (tidak langsung). Fitur seperti live streaming, video call, serta voice channel diklasifikasikan sebagai komunikasi sinkron, sedangkan postingan feeds, cerita, status, pesan, dan voice note umumnya bersifat asinkron karena memungkinkan respons fleksibel tanpa kehadiran pengirim secara langsung. Selain klasifikasi fitur, peserta juga mengemukakan saran perbaikan guna meningkatkan kualitas interaksi sosial dan pengalaman pengguna, antara lain penambahan fitur kolaborasi grup di Instagram, redesain tampilan WhatsApp untuk mencegah panggilan tak sengaja, integrasi saluran suara di LINE demi diskusi sub-kelompok, alat analisis komunitas bagi admin Discord, serta pengelompokan obrolan di Telegram untuk organisasi percakapan yang lebih rapi.",
+      "rouge": {
+        "rouge1": 0.2841,
+        "rouge2": 0.092,
+        "rougeL": 0.1477
+      },
+      "bertscore": {
+        "precision": 0.7461,
+        "recall": 0.7024,
+        "f1": 0.7236
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\FD\\week2",
+      "title": "Kelas F - Kaitan Kognisi dengan Interaction Design dan Mental Model",
+      "course": "SISTER Genap 2025/2026 / F / Forum Diskusi",
+      "generated_summary": "# Ringkasan Padat\n\nPembelajaran kognisi dalam Interaction Design membahas tiga konsep utama: **(1) Kognisi** adalah proses mental untuk memahami, memproses, dan merespons informasi melalui persepsi, atensi, dan ingatan; **(2) Kognisi berkaitan erat dengan Interaction Design** karena desain harus sesuai cara berpikir pengguna untuk menciptakan antarmuka intuitif dan efisien; **(3) Mental Model** adalah ekspektasi pengguna berdasarkan pengalaman sebelumnya—misalnya ikon keranjang belanja, tombol back, atau hamburger menu. Designer harus memahami mental model pengguna melalui riset untuk meningkatkan usability dan mencegah kebingungan. Contoh: tombol like berbentuk jempol, ikon rumah untuk home page, atau penempatan search bar di atas aplikasi sudah menjadi standar yang familiar bagi pengguna.\n\n**Jumlah kata: 128**",
+      "reference_summary": "Berdasarkan tanggapan peserta, kognisi didefinisikan sebagai proses mental atau pola berpikir manusia dalam memperoleh, mengolah, menafsirkan, serta menyimpan informasi guna memahami lingkungan sekitar, yang mencakup elemen seperti atensi, memori, persepsi, dan pengambilan keputusan. Hubungannya dengan Interaction Design bersifat sangat erat, karena desain interaktif yang optimal harus selaras dengan mekanisme kognisi pengguna agar antarmuka (UI) mudah dipahami, bebas kebingungan, dan sesuai dengan interaksi manusia-teknologi. Diskusi juga membahas mental model, yakni representasi mental, ekspektasi internal, atau keyakinan pengguna tentang fungsi sistem berdasarkan pengalaman masa lalu. Contoh mental model yang dikemukakan mencakup penempatan kontrol musik (play, pause) di bagian bawah layar pada aplikasi streaming seperti Spotify, ikon hati atau jempol untuk fungsi 'like' di media sosial, posisi setir mobil di sisi kanan bagi pengguna Indonesia, perilaku tombol 'back' pada browser, serta arti ikon kamera di aplikasi pesan seperti WA atau Line.",
+      "rouge": {
+        "rouge1": 0.3918,
+        "rouge2": 0.0741,
+        "rougeL": 0.2286
+      },
+      "bertscore": {
+        "precision": 0.7153,
+        "recall": 0.7275,
+        "f1": 0.7213
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\WR\\week1",
+      "title": "[Kelas F] Weekly Reflection Minggu 1",
+      "course": "SISTER Genap 2025/2026 / F / Weekly Reflection",
+      "generated_summary": "# Ringkasan\n\nPada minggu pertama perkuliahan Sistem Interaksi Kelas F, mahasiswa diminta menulis refleksi yang menghubungkan materi dengan pengalaman pribadi, bukan ringkasan. Mereka mempelajari bahwa desain interaksi melampaui estetika visual—fokusnya adalah pengalaman pengguna yang optimal melalui prinsip visibility, feedback, constraints, consistency, dan affordance. Pembelajaran kunci mencakup pentingnya user research, user-centered design, dan enam usability goals (utilitas, efektivitas, learnability, memorability, efisiensi, keamanan) untuk menciptakan produk fungsional yang memecahkan masalah nyata pengguna.",
+      "reference_summary": "Dari berbagai tanggapan peserta, topik utama yang muncul adalah wawasan baru dan pemahaman mendalam tentang desain interaksi sebagai elemen kunci pengalaman pengguna. Banyak peserta menekankan bahwa desain interaksi melampaui estetika visual semata, melainkan berfokus pada perancangan pengalaman interaktif antara manusia dan produk digital yang intuitif, fungsional, serta komunikatif. Hal paling mengesankan adalah prinsip-prinsip desain interaksi seperti visibility, feedback, constraints, consistency, dan affordance, yang sebelumnya mungkin luput dari perhatian. Diskusi juga menyoroti urgensi pencapaian usability goals termasuk learnability, memorability, utilitas, efektivitas, efisiensi, dan keamanan serta kesadaran akan learning curve produk bagi pengguna. Penekanan kuat diberikan pada pemahaman kebutuhan, konteks, serta faktor budaya dalam proses desain, dengan keyakinan bahwa rancangan berkualitas harus didasari fungsionalitas dan kemudahan akses bagi masyarakat luas. Peserta merefleksikan pergeseran pola pikir mereka, kini lebih menghargai detail desain beserta alasannya, serta mengakui bahwa menciptakan produk benar-benar berguna bukan perkara sederhana melainkan menuntut pertimbangan multidimensi.",
+      "rouge": {
+        "rouge1": 0.3578,
+        "rouge2": 0.1389,
+        "rougeL": 0.2294
+      },
+      "bertscore": {
+        "precision": 0.7704,
+        "recall": 0.7316,
+        "f1": 0.7505
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\WR\\week2",
+      "title": "[Kelas F] Weekly Reflection Minggu 2",
+      "course": "SISTER Genap 2025/2026 / F / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu kedua Sistem Interaksi Kelas F fokus pada Prinsip Kognisi yang mencakup enam aspek: atensi, persepsi, memori, pembelajaran, kebahasaan, dan metakognisi. Mahasiswa menghubungkan konsep dengan pengalaman sehari-hari, menemukan bahwa desain efektif harus mempertimbangkan mental model pengguna, mengurangi beban kognitif, dan mengikuti konvensi yang sudah dikenal. Refleksi mereka menunjukkan pemahaman bahwa desain interaksi bukan sekadar estetika, tetapi tentang memahami cara manusia berpikir dan berinteraksi dengan teknologi.\n\n**Jumlah kata: 91**",
+      "reference_summary": "Peserta mendiskusikan penerapan Prinsip Kognisi dalam Sistem Interaksi, dengan penekanan pada bagaimana desain sistem dapat memfasilitasi atau menghambat enam proses kognitif manusia khususnya atensi, persepsi, dan memori. Berbagai refleksi menekankan desain intuitif untuk persepsi agar fungsi aplikasi cepat dipahami, antarmuka yang mengarahkan fokus pada elemen esensial demi atensi optimal menghindari kebingungan akibat notifikasi berlebih atau visual kompetitif serta konsistensi desain plus fitur seperti riwayat untuk memperkuat memori pengguna. Pembahasan menarik lainnya adalah mental model, di mana peserta menyadari urgensi penyelarasan desain dengan ekspektasi internal pengguna berdasarkan pengetahuan sebelumnya dan pengalaman, diilustrasikan oleh contoh seperti posisi tombol power pada laptop, fungsi ikon 'back', hingga refleks mencari pijakan kaki saat makan.",
+      "rouge": {
+        "rouge1": 0.2667,
+        "rouge2": 0.0562,
+        "rougeL": 0.1333
+      },
+      "bertscore": {
+        "precision": 0.7176,
+        "recall": 0.7138,
+        "f1": 0.7157
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\WR\\week3",
+      "title": "[Kelas F] Weekly Reflection Minggu 3",
+      "course": "SISTER Genap 2025/2026 / F / Weekly Reflection",
+      "generated_summary": "# Ringkasan Komprehensif\n\nMahasiswa Sistem Interaksi Kelas F mempelajari \"Interaksi Sosial dalam Desain Interaksi\" melalui Weekly Reflection #3. Pembelajaran mencakup empat jenis komunikasi (synchronous/asynchronous, online/offline), serta konsep telepresence dan co-presence. Mahasiswa memahami bahwa desain aplikasi yang efektif harus mendukung interaksi sosial antar pengguna, tidak hanya usability individual. Contoh aplikasi seperti Discord, Zoom, Google Docs, dan WhatsApp menunjukkan fitur-fitur yang mengadaptasi mekanisme komunikasi dunia nyata (typing indicator, read receipts, co-collaboration). Meskipun teknologi memfasilitasi keterhubungan jarak jauh, interaksi tatap muka tetap unik dan tidak sepenuhnya tergantikan. Pembelajaran mendorong mahasiswa menghargai pentingnya riset pengguna dalam merancang produk digital yang bermakna dan kontekstual.",
+      "reference_summary": "Melalui rangkaian diskusi yang disediakan, peserta menyadari bahwa desain interaksi melampaui kemudahan penggunaan individual, melainkan wajib memasukkan dimensi sosial dan komunal pengguna. Pembahasan mencakup konsep komunikasi sinkronus versus asinkronus, serta telepresence dan co-presence. Platform seperti Discord dieksplorasi secara mendalam karena sukses mewujudkan co-presence, di mana pengguna merasakan kehadiran bersama tanpa interaksi verbal aktif mirip nongkrong di dunia nyata dan mendukung beragam aktivitas dari kolaborasi kerja hingga rekreasi. Perspektif lain membahas adaptasi norma interaksi fisik ke ranah digital, seperti indikator typing di WhatsApp untuk dinamika percakapan real-time, together mode di Microsoft Teams, fungsi raise hand serta breakout room di Zoom, dan mekanisme Twitter (X) untuk berbagi pemikiran. Secara keseluruhan, peserta kini memahami kerumitan desain interaktif, dengan kesadaran bahwa setiap elemen dirancang untuk komunikasi optimal yang bermakna bagi pengguna, bukan sekadar estetika.",
+      "rouge": {
+        "rouge1": 0.322,
+        "rouge2": 0.0684,
+        "rougeL": 0.1525
+      },
+      "bertscore": {
+        "precision": 0.7326,
+        "recall": 0.7263,
+        "f1": 0.7294
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\WR\\week4",
+      "title": "[Kelas F] Weekly Reflection Minggu 4",
+      "course": "SISTER Genap 2025/2026 / F / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMinggu ini mahasiswa Sistem Interaksi F mempelajari antarmuka (interface), mencakup perbedaan UI, UX, dan usability. Pembelajaran utama meliputi Shneiderman's Eight Golden Rules—konsistensi, feedback informatif, penanganan error, dan pengurangan beban memori. Mahasiswa memahami bahwa desain antarmuka yang baik bukan hanya estetika, tetapi prioritas pada efisiensi dan kenyamanan pengguna. Mereka juga mempelajari berbagai jenis antarmuka (CLI, GUI, VUI, AR/VR, haptic, wearable) dan menyadari pentingnya user-centered design dalam menciptakan pengalaman pengguna yang optimal dan intuitif.",
+      "reference_summary": "Banyak peserta menemukan perbedaan esensial antara UI, Usability (efisiensi serta penyelesaian tugas), dan UX (persepsi serta pengalaman subjektif pengguna), yang menjadi wawasan segar bagi mereka. Sebagai ilustrasi, aplikasi seperti Gojek dan Grab dianalisis untuk menunjukkan bagaimana usability memastikan kemudahan pemesanan kendaraan, sementara UX menangani kenyamanan serta kepercayaan terhadap layanan. Perbandingan aplikasi X dan Threads turut menyoroti variasi UX meskipun UI serupa. Konsep \"Shneiderman's Eight Golden Rules of Interface Design\" khususnya konsistensi dan informative feedback menjadi sorotan utama, dengan aplikasi pada desain digital seperti ikon keranjang belanja e-commerce atau umpan balik haptic pada konsol game, hingga komunikasi sosial harian. Pembahasan juga mencakup beragam bentuk antarmuka seperti CLI, GUI, VUI, haptic, serta Augmented Reality (AR), Mixed Reality (MR), dan Virtual Reality (VR), yang memperkaya pemahaman tentang rancangan teknologi demi memenuhi kebutuhan manusia secara efisien dan intuitif. Secara keseluruhan, diskusi menegaskan bahwa desain unggul bukan hanya fungsional, melainkan menciptakan pengalaman menyenangkan, bermakna, dan konsisten bagi pengguna.",
+      "rouge": {
+        "rouge1": 0.3691,
+        "rouge2": 0.0952,
+        "rougeL": 0.2146
+      },
+      "bertscore": {
+        "precision": 0.7653,
+        "recall": 0.7299,
+        "f1": 0.7472
+      }
+    },
+    {
+      "id": "sister-genap-20252026\\F\\WR\\week5",
+      "title": "[Kelas F] Weekly Reflection Minggu 5",
+      "course": "SISTER Genap 2025/2026 / F / Weekly Reflection",
+      "generated_summary": "# Ringkasan Padat\n\nMahasiswa Sistem Interaksi Kelas F merefleksikan pembelajaran minggu kelima tentang Proses Desain Interaksi. Mereka memahami bahwa desain interaksi melampaui estetika—melibatkan identifikasi kebutuhan pengguna, perancangan alternatif, prototyping, dan evaluasi berkelanjutan. Empat metode utama dipelajari: User-Centered Design (UCD) melibatkan pengguna aktif, Activity-Centered Design fokus pada aktivitas, Genius Design mengandalkan intuisi desainer ahli, dan Design Sprint mempercepat validasi dalam lima hari. Mahasiswa menyadari tidak ada pendekatan universal; pemilihan metode bergantung konteks proyek, dan desain efektif memerlukan iterasi berdasarkan feedback pengguna untuk menciptakan pengalaman intuitif, efisien, dan bermakna bagi pengguna.",
+      "reference_summary": "Peserta membahas kerumitan perancangan berorientasi pengguna, yang melampaui estetika dan fungsionalitas dasar semata. Beragam pendekatan desain dieksplorasi, termasuk User-Centered Design (UCD) yang mengintegrasikan keterlibatan aktif pengguna guna memastikan rancangan mewakili kebutuhan serta mengatasi hambatan nyata. Sebaliknya, Genius Design dianggap berisiko jika asumsi desainer menyimpang dari realitas pengguna, sementara Design Sprint dinilai ideal untuk validasi produk digital secara cepat. Melalui pengalaman menggunakan alat web seperti Canva, draw.io, dan Kit Build, peserta menyadari pengaruh signifikan mental model serta kebiasaan lampau terhadap ekspektasi pada platform baru. Variasi dalam seleksi elemen (misalnya Canva versus draw.io) atau sensitivitas navigasi touchpad (seperti pada Kit Build) berpotensi menimbulkan frustrasi jika bertolak belakang dengan harapan pengguna. Hal ini menggarisbawahi esensi tahap evaluasi dalam desain interaksi, serta pemilihan pendekatan yang sesuai konteks dan tujuan proyek demi sistem intuitif yang selaras dengan kebutuhan serta perilaku pengguna. Pengujian usability yang memadai menjadi krusial untuk menjamin kesesuaian interaksi dengan pola umum pengguna.",
+      "rouge": {
+        "rouge1": 0.3115,
+        "rouge2": 0.0579,
+        "rougeL": 0.1721
+      },
+      "bertscore": {
+        "precision": 0.7243,
+        "recall": 0.6874,
+        "f1": 0.7054
+      }
+    }
+  ]
+}

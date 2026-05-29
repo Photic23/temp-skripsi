@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Progress Anotasi — Admin</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background: #f0f2f5; }
+    th { white-space: nowrap; }
+    .status-done { color: #198754; font-weight: 600; }
+    .status-todo { color: #adb5bd; }
+    td.forum-title { max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-primary px-4">
+    <a href="/forums" class="navbar-brand fw-bold text-white text-decoration-none">Forum Annotation Tool</a>
+    <a href="/logout" class="btn btn-outline-light btn-sm">Keluar</a>
+  </nav>
+
+  <div class="container py-4" style="max-width: 960px;">
+    <h5 class="mb-1">Progress Semua Anotator</h5>
+    <p class="text-muted small mb-4">{{ total }} forum total</p>
+
+    <!-- Per-annotator summary cards -->
+    <div class="row g-3 mb-4">
+      {% for a in annotators %}
+      <div class="col-sm-4">
+        <div class="card shadow-sm text-center py-3">
+          <div class="fw-semibold">{{ a }}</div>
+          <div class="display-6 fw-bold text-primary">{{ totals[a] }}</div>
+          <div class="text-muted small">/ {{ total }} selesai</div>
+          <div class="progress mt-2 mx-3" style="height: 6px;">
+            <div class="progress-bar bg-success"
+                 style="width: {{ (totals[a] / total * 100) | round(1) if total else 0 }}%"></div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Detail table -->
+    <div class="card shadow-sm">
+      <div class="table-responsive">
+        <table class="table table-sm table-hover mb-0">
+          <thead class="table-light">
+            <tr>
+              <th class="ps-3">#</th>
+              <th>Judul Forum</th>
+              {% for a in annotators %}
+              <th class="text-center">{{ a }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in rows %}
+            <tr>
+              <td class="ps-3 text-muted small align-middle">{{ loop.index }}</td>
+              <td class="forum-title align-middle">
+                <a href="/forums/{{ row.id }}" class="text-decoration-none text-dark">{{ row.title }}</a>
+              </td>
+              {% for a in annotators %}
+              <td class="text-center align-middle">
+                {% if row.statuses[a] %}
+                  <span class="status-done">&#10003;</span>
+                {% else %}
+                  <span class="status-todo">&#8211;</span>
+                {% endif %}
+              </td>
+              {% endfor %}
+            </tr>
+            {% endfor %}
+          </tbody>
+          <tfoot class="table-light fw-semibold">
+            <tr>
+              <td class="ps-3" colspan="2">Total Selesai</td>
+              {% for a in annotators %}
+              <td class="text-center">{{ totals[a] }}/{{ total }}</td>
+              {% endfor %}
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
